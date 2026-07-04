@@ -28,8 +28,12 @@
   --border-soft: #f0f0f0;
   --banner-bg: rgba(255, 255, 255, 0.9);
   --th-bg: #f5f5f7;
-  --accent: #0071e3;
+  /* Brand green (from the Combo Mode logo). --accent is the vivid fill used on
+     buttons and decorative bars; --accent-ink is a readable green for text/links
+     on the page background (darker in light mode, brighter in dark mode). */
+  --accent: #16a34a;
   --accent-text: #ffffff;
+  --accent-ink: #0f7a37;
   --error: #b00020;
 }
 
@@ -43,8 +47,9 @@
     --border-soft: #1d1d1f;
     --banner-bg: rgba(0, 0, 0, 0.8);
     --th-bg: #1c1c1e;
-    --accent: #2997ff;
-    --accent-text: #ffffff;
+    --accent: #2ee070;
+    --accent-text: #06240f;
+    --accent-ink: #4ade80;
     --error: #ff6b6b;
   }
 }
@@ -93,7 +98,7 @@ body {
   font-weight: 600;
   font-size: 20px;
   text-decoration: none;
-  color: inherit;
+  color: var(--accent-ink);
   white-space: nowrap;
 }
 
@@ -110,7 +115,7 @@ body {
   opacity: 0.8;
 }
 
-.nav a:hover { opacity: 1; }
+.nav a:hover { opacity: 1; color: var(--accent-ink); }
 
 /* Sections */
 main { padding-top: var(--banner-height); }
@@ -136,9 +141,29 @@ main { padding-top: var(--banner-height); }
 }
 
 .hero h1 { font-size: 48px; margin: 0 0 8px; }
+
+/* Hero logo image (falls back to the "Combo Mode" alt text if absent). */
+.hero-title { margin: 0 0 8px; }
+.hero-logo {
+  display: block;
+  margin: 0 auto;
+  width: min(640px, 90%);
+  height: auto;
+}
+
 .tagline { font-size: 20px; color: var(--text-muted); margin: 0; }
 
 .section h2 { font-size: 32px; margin: 0 0 8px; }
+/* Small green accent bar under each section heading. */
+.section h2::after {
+  content: "";
+  display: block;
+  width: 48px;
+  height: 3px;
+  margin-top: 8px;
+  border-radius: 2px;
+  background: var(--accent);
+}
 .section-lead { color: var(--text-muted); margin: 0 0 24px; }
 
 .loading { color: var(--text-muted); }

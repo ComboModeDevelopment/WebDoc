@@ -22,7 +22,7 @@ window.SITE_CONFIG = {
   youtubeVideoId: "GuMWO0644FI",
 
   // --- Download -----------------------------------------------------------
-  downloadUrl: "https://github.com/ComboModeDevelopment/Combo-Mode-Releases/releases/tag/latest",
+  downloadUrl: "https://github.com/ComboModeDevelopment/Combo-Mode-Releases/releases/latest",
   downloadLabel: "Get ComboMode",
 
   // --- About --------------------------------------------------------------
