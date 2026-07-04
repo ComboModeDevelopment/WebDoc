@@ -1,0 +1,28 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *'  # daily, optional
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Fetch content from public repo
+        run: |
+          curl -s https://raw.githubusercontent.com/your-org/public-repo/main/path/to/file.md -o docs/fetched-content.md
+      
+      - name: Build site (if needed)
+        run: |
+          # If using a static generator like Hugo, Jekyll, etc.
+          # Otherwise, just commit the fetched files as-is
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
