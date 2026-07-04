@@ -1,0 +1,149 @@
+/* Minimal placeholder styling — workshop later. */
+
+* { box-sizing: border-box; }
+
+:root {
+  --banner-height: 56px;
+  --max-width: 980px;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* Offset anchor jumps so the fixed banner doesn't cover section headings. */
+  scroll-padding-top: var(--banner-height);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: #1d1d1f;
+  background: #fff;
+}
+
+/* Banner */
+.banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--banner-height);
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: 1px solid #e5e5e7;
+  z-index: 1000;
+}
+
+.banner-inner {
+  max-width: var(--max-width);
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand {
+  font-weight: 600;
+  text-decoration: none;
+  color: inherit;
+  white-space: nowrap;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #1d1d1f;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.nav a:hover { opacity: 1; }
+
+/* Sections */
+main { padding-top: var(--banner-height); }
+
+.section {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 64px 20px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.hero {
+  text-align: center;
+  padding: 96px 20px;
+}
+
+.hero h1 { font-size: 48px; margin: 0 0 8px; }
+.tagline { font-size: 20px; color: #6e6e73; margin: 0; }
+
+.section h2 { font-size: 32px; margin: 0 0 8px; }
+.section-lead { color: #6e6e73; margin: 0 0 24px; }
+
+.loading { color: #6e6e73; }
+.error { color: #b00020; }
+
+/* Tables (characters + credits) */
+.table-wrap { overflow-x: auto; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+th, td {
+  text-align: left;
+  vertical-align: top;
+  padding: 10px 12px;
+  border-bottom: 1px solid #e5e5e7;
+}
+
+th {
+  background: #f5f5f7;
+  position: sticky;
+  top: var(--banner-height);
+  font-weight: 600;
+}
+
+td ul { margin: 0; padding-left: 18px; }
+
+/* Trailer */
+.video-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+
+.video-wrap iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* FAQ */
+.faq-item { margin-bottom: 20px; }
+.faq-q { font-weight: 600; margin: 0 0 4px; }
+.faq-a { margin: 0; color: #333; }
+
+/* Download */
+.download-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #0071e3;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+}

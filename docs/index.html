@@ -2,9 +2,79 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>WebDoc</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ComboMode</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Hello, World!</h1>
+  <!-- Top banner / nav -->
+  <header class="banner">
+    <div class="banner-inner">
+      <a class="brand" href="#top">ComboMode</a>
+      <nav class="nav">
+        <a href="#trailer">Trailer</a>
+        <a href="#download">Download</a>
+        <a href="#about">About</a>
+        <a href="#faq">FAQ</a>
+        <a href="#characters">Characters</a>
+        <a href="#credits">Credits</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero section">
+      <h1>ComboMode</h1>
+      <p class="tagline">A community mod project.</p>
+    </section>
+
+    <!-- Trailer -->
+    <section id="trailer" class="section">
+      <h2>Trailer</h2>
+      <div id="trailer-content" class="video-wrap"></div>
+    </section>
+
+    <!-- Download -->
+    <section id="download" class="section">
+      <h2>Download</h2>
+      <div id="download-content"></div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="section">
+      <h2>About</h2>
+      <div id="about-content"></div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq" class="section">
+      <h2>FAQ</h2>
+      <div id="faq-content">
+        <p class="loading">Loading FAQ…</p>
+      </div>
+    </section>
+
+    <!-- Characters -->
+    <section id="characters" class="section">
+      <h2>Characters</h2>
+      <p class="section-lead">Changes made to each character.</p>
+      <div id="characters-content" class="table-wrap">
+        <p class="loading">Loading characters…</p>
+      </div>
+    </section>
+
+    <!-- Credits -->
+    <section id="credits" class="section">
+      <h2>Credits</h2>
+      <p class="section-lead">Credits associated with each character.</p>
+      <div id="credits-content" class="table-wrap">
+        <p class="loading">Loading credits…</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="config.js"></script>
+  <script src="main.js"></script>
 </body>
 </html>
