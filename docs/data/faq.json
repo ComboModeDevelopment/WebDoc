@@ -1,7 +1,15 @@
 [
   {
     "question": "What is ComboMode?",
-    "answer": "ComboMode is a community-developed mod. Replace this answer with a real description."
+    "answer": "ComboMode is a vanilla Brawl mod that aims to combine exciting combo expression with lower skill floors to execution."
+  },
+  {
+    "question": "Is this another P+ mod?",
+    "answer": "No, this build is based off vanilla Brawl and does not have some P+ mechanics such as wavedashing and L-cancelling."
+  },
+  {
+    "question": "What smash game is this most like?",
+    "answer": "ComboMode is our twisted combination of Smash64 hitstun, Melee combo expression, and Ultimate's accessibility and quality-of-life features."
   },
   {
     "question": "How do I install it?",
@@ -9,6 +17,6 @@
   },
   {
     "question": "Where can I report bugs or contribute?",
-    "answer": "Open an issue or pull request in the project repository linked in the Download section."
+    "answer": "Join the ComboMode Discord server to discuss the mod and report issues."
   }
 ]

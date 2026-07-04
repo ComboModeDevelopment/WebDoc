@@ -1,24 +1,67 @@
 /* Minimal placeholder styling — workshop later. */
 
+/* --- Header font: "Edo SZ" -------------------------------------------------
+   Edo SZ is a freeware display font (not a Google/web font), so it must be
+   self-hosted. Drop the font file(s) into docs/fonts/ (see docs/fonts/README).
+   Until then, headers fall back to the stack below. */
+@font-face {
+  font-family: "Edo SZ";
+  src: url("fonts/edosz.woff2") format("woff2"),
+       url("fonts/edosz.ttf") format("truetype");
+  font-display: swap;
+}
+
 * { box-sizing: border-box; }
 
 :root {
   --banner-height: 56px;
   --max-width: 980px;
+
+  --font-header: "Edo SZ", Impact, "Arial Black", sans-serif;
+
+  /* Light theme (default) */
+  --bg: #ffffff;
+  --text: #1d1d1f;
+  --text-muted: #6e6e73;
+  --text-soft: #333333;
+  --border: #e5e5e7;
+  --border-soft: #f0f0f0;
+  --banner-bg: rgba(255, 255, 255, 0.9);
+  --th-bg: #f5f5f7;
+  --accent: #0071e3;
+  --accent-text: #ffffff;
+  --error: #b00020;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #000000;
+    --text: #f5f5f7;
+    --text-muted: #a1a1a6;
+    --text-soft: #cccccc;
+    --border: #38383a;
+    --border-soft: #1d1d1f;
+    --banner-bg: rgba(0, 0, 0, 0.8);
+    --th-bg: #1c1c1e;
+    --accent: #2997ff;
+    --accent-text: #ffffff;
+    --error: #ff6b6b;
+  }
 }
 
 html {
   scroll-behavior: smooth;
   /* Offset anchor jumps so the fixed banner doesn't cover section headings. */
   scroll-padding-top: var(--banner-height);
+  color-scheme: light dark;
 }
 
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
-  color: #1d1d1f;
-  background: #fff;
+  color: var(--text);
+  background: var(--bg);
 }
 
 /* Banner */
@@ -28,9 +71,9 @@ body {
   left: 0;
   right: 0;
   height: var(--banner-height);
-  background: rgba(255, 255, 255, 0.9);
+  background: var(--banner-bg);
   backdrop-filter: saturate(180%) blur(12px);
-  border-bottom: 1px solid #e5e5e7;
+  border-bottom: 1px solid var(--border);
   z-index: 1000;
 }
 
@@ -46,7 +89,9 @@ body {
 }
 
 .brand {
+  font-family: var(--font-header);
   font-weight: 600;
+  font-size: 20px;
   text-decoration: none;
   color: inherit;
   white-space: nowrap;
@@ -60,7 +105,7 @@ body {
 
 .nav a {
   text-decoration: none;
-  color: #1d1d1f;
+  color: var(--text);
   font-size: 14px;
   opacity: 0.8;
 }
@@ -74,7 +119,7 @@ main { padding-top: var(--banner-height); }
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 64px 20px;
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid var(--border-soft);
 }
 
 .hero {
@@ -82,14 +127,22 @@ main { padding-top: var(--banner-height); }
   padding: 96px 20px;
 }
 
+/* Headers use the Edo SZ display font. */
+.hero h1,
+.section h2 {
+  font-family: var(--font-header);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
 .hero h1 { font-size: 48px; margin: 0 0 8px; }
-.tagline { font-size: 20px; color: #6e6e73; margin: 0; }
+.tagline { font-size: 20px; color: var(--text-muted); margin: 0; }
 
 .section h2 { font-size: 32px; margin: 0 0 8px; }
-.section-lead { color: #6e6e73; margin: 0 0 24px; }
+.section-lead { color: var(--text-muted); margin: 0 0 24px; }
 
-.loading { color: #6e6e73; }
-.error { color: #b00020; }
+.loading { color: var(--text-muted); }
+.error { color: var(--error); }
 
 /* Tables (characters + credits) */
 .table-wrap { overflow-x: auto; }
@@ -104,11 +157,11 @@ th, td {
   text-align: left;
   vertical-align: top;
   padding: 10px 12px;
-  border-bottom: 1px solid #e5e5e7;
+  border-bottom: 1px solid var(--border);
 }
 
 th {
-  background: #f5f5f7;
+  background: var(--th-bg);
   position: sticky;
   top: var(--banner-height);
   font-weight: 600;
@@ -135,14 +188,14 @@ td ul { margin: 0; padding-left: 18px; }
 /* FAQ */
 .faq-item { margin-bottom: 20px; }
 .faq-q { font-weight: 600; margin: 0 0 4px; }
-.faq-a { margin: 0; color: #333; }
+.faq-a { margin: 0; color: var(--text-soft); }
 
 /* Download */
 .download-button {
   display: inline-block;
   padding: 12px 24px;
-  background: #0071e3;
-  color: #fff;
+  background: var(--accent);
+  color: var(--accent-text);
   text-decoration: none;
   border-radius: 8px;
   font-weight: 500;

@@ -170,9 +170,15 @@
 
   function loadAbout() {
     var container = el("about-content");
-    var p = document.createElement("p");
-    p.textContent = cfg.aboutText || "";
-    container.appendChild(p);
+    // aboutText may be a single string or an array of paragraph strings.
+    var paragraphs = Array.isArray(cfg.aboutText)
+      ? cfg.aboutText
+      : [cfg.aboutText || ""];
+    paragraphs.forEach(function (text) {
+      var p = document.createElement("p");
+      p.textContent = text;
+      container.appendChild(p);
+    });
   }
 
   // --- Init -----------------------------------------------------------------
