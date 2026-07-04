@@ -1,0 +1,44 @@
+{
+  "releases": [
+    {
+      "version": "0.6.0",
+      "characters": [
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        }
+      ]
+    },
+    {
+      "version": "0.5.0",
+      "characters": [
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        }
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        }
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        }
+      ]
+    }
+  ]
+}

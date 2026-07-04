@@ -62,8 +62,12 @@
     <!-- Characters -->
     <section id="characters" class="section">
       <h2>Characters</h2>
-      <p class="section-lead">Changes made to each character.</p>
-      <div id="characters-content" class="table-wrap">
+      <p class="section-lead">Per-character changes. Pick a release, then choose a character to view its changes.</p>
+      <div class="changes-controls">
+        <label for="release-select">Release</label>
+        <select id="release-select" aria-label="Select a release"></select>
+      </div>
+      <div id="characters-list" class="character-grid">
         <p class="loading">Loading characters…</p>
       </div>
     </section>
@@ -77,6 +81,18 @@
       </div>
     </section>
   </main>
+
+  <!-- Reusable modal for character changes -->
+  <div id="modal" class="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header">
+        <h3 id="modal-title" class="modal-title"></h3>
+        <button type="button" class="modal-close" data-close aria-label="Close">&times;</button>
+      </div>
+      <div id="modal-body" class="modal-body markdown"></div>
+    </div>
+  </div>
 
   <script src="config.js"></script>
   <script src="main.js"></script>

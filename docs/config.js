@@ -14,6 +14,14 @@ window.SITE_CONFIG = {
   // If this fetch fails (e.g. not wired up yet), placeholder data is shown.
   charactersUrl: "",
 
+  // --- Character changes (per-release .md files, in THIS repo) ------------
+  // Copy the private repo's changes into docs/changes/<release>/characters/*.md
+  // e.g. docs/changes/0.6.0/characters/Mario.md
+  // The release list + character list is read from an auto-generated
+  // index.json (see scripts/build_changes_index.py). This is the folder that
+  // index.json and the .md files live under, relative to the site root.
+  changesBasePath: "changes",
+
   // --- FAQ data (lives in THIS repo, under docs/data) ---------------------
   faqUrl: "data/faq.json",
 
