@@ -22,6 +22,15 @@ window.SITE_CONFIG = {
   // index.json and the .md files live under, relative to the site root.
   changesBasePath: "changes",
 
+  // --- Quirks (per-release character quirks, in THIS repo) ----------------
+  // Generated from scripts/quirks_source.txt by scripts/build_quirks.py.
+  quirksUrl: "data/quirks.json",
+  // Folder holding per-character icons for the quirks grid. Each icon is
+  // <quirkIconBase>/<icon>.png where <icon> is the slug in quirks.json
+  // (e.g. images/characters/fox-melee.png). Missing icons fall back to a
+  // text tile, so you can add art gradually.
+  quirkIconBase: "images/characters",
+
   // --- FAQ data (lives in THIS repo, under docs/data) ---------------------
   faqUrl: "data/faq.json",
 

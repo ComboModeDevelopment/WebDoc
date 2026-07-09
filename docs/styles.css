@@ -235,6 +235,51 @@ td ul { margin: 0; padding-left: 18px; }
   color: var(--accent-ink);
 }
 
+/* Quirks (clickable icon grid) */
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+  gap: 12px;
+}
+
+.icon-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 8px;
+  font: inherit;
+  text-align: center;
+  color: var(--text);
+  background: var(--th-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.icon-card:hover {
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
+.icon-img {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+
+.icon-label {
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+/* Text-only tile (no icon art yet): center the label and give it presence. */
+.icon-card.no-icon {
+  justify-content: center;
+  min-height: 76px;
+}
+.icon-card.no-icon .icon-label { font-weight: 600; font-size: 14px; }
+
 /* Modal */
 .modal[hidden] { display: none; }
 

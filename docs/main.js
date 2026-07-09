@@ -326,6 +326,96 @@
       });
   }
 
+  // --- Quirks (per-release: clickable icon grid -> modal) -------------------
+
+  var quirkIconBase = (cfg.quirkIconBase || "images/characters").replace(/\/+$/, "");
+
+  function slugify(name) {
+    return String(name).toLowerCase()
+      .replace(/[()]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
+
+  function openQuirkModal(character) {
+    var items = (character.quirks || []).map(function (q) {
+      return "<li>" + esc(q) + "</li>";
+    }).join("");
+    var body = items
+      ? "<ul>" + items + "</ul>"
+      : '<p class="loading">No quirks listed for this character.</p>';
+    openModal(character.name, body);
+  }
+
+  function renderQuirks(container, characters) {
+    if (!characters || characters.length === 0) {
+      container.className = "";
+      container.innerHTML = '<p class="loading">No quirks for this release.</p>';
+      return;
+    }
+    container.className = "icon-grid";
+    container.innerHTML = "";
+    characters.forEach(function (c) {
+      var tile = document.createElement("button");
+      tile.type = "button";
+      tile.className = "icon-card no-icon";
+
+      var img = document.createElement("img");
+      img.className = "icon-img";
+      img.alt = "";
+      img.loading = "lazy";
+      // Show the icon if it exists; otherwise keep the text-only tile.
+      img.addEventListener("load", function () { tile.classList.remove("no-icon"); });
+      img.addEventListener("error", function () { img.remove(); });
+      img.src = quirkIconBase + "/" + encodeURIComponent(c.icon || slugify(c.name)) + ".png";
+
+      var label = document.createElement("span");
+      label.className = "icon-label";
+      label.textContent = c.name;
+
+      tile.appendChild(img);
+      tile.appendChild(label);
+      tile.addEventListener("click", function () { openQuirkModal(c); });
+      container.appendChild(tile);
+    });
+  }
+
+  function loadQuirksSection() {
+    var listEl = el("quirks-list");
+    var select = el("quirks-release-select");
+    var url = cfg.quirksUrl || "data/quirks.json";
+
+    fetch(url)
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        var releases = (data && data.releases) || [];
+        if (releases.length === 0) {
+          select.disabled = true;
+          listEl.innerHTML = '<p class="loading">No quirks available yet.</p>';
+          return;
+        }
+        select.innerHTML = releases.map(function (rel) {
+          return '<option value="' + esc(rel.version) + '">' + esc(rel.version) + "</option>";
+        }).join("");
+        function showSelected() {
+          var rel = releases.filter(function (r) {
+            return r.version === select.value;
+          })[0] || releases[0];
+          renderQuirks(listEl, rel.characters);
+        }
+        select.addEventListener("change", showSelected);
+        showSelected();
+      })
+      .catch(function (err) {
+        select.disabled = true;
+        listEl.innerHTML = '<p class="error">Could not load quirks.</p>';
+        console.warn("Failed to load quirks from", url, err);
+      });
+  }
+
   // --- Trailer --------------------------------------------------------------
 
   function loadTrailer() {
@@ -415,6 +505,7 @@
   document.addEventListener("DOMContentLoaded", function () {
     initModal();
     loadChangesSection();
+    loadQuirksSection();
     loadCredits();
     loadTrailer();
     loadFaq();

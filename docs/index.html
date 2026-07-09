@@ -16,7 +16,8 @@
         <a href="#download">Download</a>
         <a href="#about">About</a>
         <a href="#faq">FAQ</a>
-        <a href="#characters">Characters</a>
+        <a href="#characters">Character Changes</a>
+        <a href="#quirks">Quirks</a>
         <a href="#credits">Credits</a>
       </nav>
     </div>
@@ -61,7 +62,7 @@
 
     <!-- Characters -->
     <section id="characters" class="section">
-      <h2>Characters</h2>
+      <h2>Character Changes</h2>
       <p class="section-lead">Per-character changes. Pick a release, then choose a character to view its changes.</p>
       <div class="changes-controls">
         <label for="release-select">Release</label>
@@ -69,6 +70,19 @@
       </div>
       <div id="characters-list" class="character-grid">
         <p class="loading">Loading characters…</p>
+      </div>
+    </section>
+
+    <!-- Quirks -->
+    <section id="quirks" class="section">
+      <h2>Quirks</h2>
+      <p class="section-lead">Character-specific quirks, tech, and abilities.</p>
+      <div class="changes-controls">
+        <label for="quirks-release-select">Release</label>
+        <select id="quirks-release-select" aria-label="Select a release"></select>
+      </div>
+      <div id="quirks-list" class="quirks-list">
+        <p class="loading">Loading quirks…</p>
       </div>
     </section>
 

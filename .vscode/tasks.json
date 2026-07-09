@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Preview site",
+      "detail": "Regenerate data files and serve docs/ at http://127.0.0.1:8080",
+      "type": "shell",
+      "command": "python3 scripts/build_changes_index.py && python3 scripts/build_quirks.py && python3 -m http.server 8080 --bind 127.0.0.1 --directory docs",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "isBackground": true,
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      },
+      "problemMatcher": [],
+      "runOptions": {
+        "instanceLimit": 1
+      }
+    }
+  ]
+}
