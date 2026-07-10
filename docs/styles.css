@@ -71,11 +71,11 @@ body {
 
 /* Banner */
 .banner {
-  position: fixed;
+  /* Sticky (not fixed) so it reserves its own space and can grow when the nav
+     wraps to multiple rows on narrow screens — without overlapping content. */
+  position: sticky;
   top: 0;
-  left: 0;
-  right: 0;
-  height: var(--banner-height);
+  min-height: var(--banner-height);
   background: var(--banner-bg);
   backdrop-filter: saturate(180%) blur(12px);
   border-bottom: 1px solid var(--border);
@@ -84,13 +84,14 @@ body {
 
 .banner-inner {
   max-width: var(--max-width);
-  height: 100%;
+  min-height: var(--banner-height);
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 8px 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
+  flex-wrap: wrap;
+  gap: 8px 16px;
 }
 
 .brand {
@@ -104,7 +105,7 @@ body {
 
 .nav {
   display: flex;
-  gap: 20px;
+  gap: 8px 20px;
   flex-wrap: wrap;
 }
 
@@ -118,7 +119,7 @@ body {
 .nav a:hover { opacity: 1; color: var(--accent-ink); }
 
 /* Sections */
-main { padding-top: var(--banner-height); }
+/* No top offset needed: the sticky banner reserves its own space in flow. */
 
 .section {
   max-width: var(--max-width);
