@@ -19,10 +19,6 @@ Peach:
 Down smash has set knockback on the final hit leaving opponents in a grounded stun allowing for followups
 Jab 1 is fast enough to allow peach to follow up with other attacks
 
-Daisy:
-Aerial down b command grab has set knockback and can be used to combo into fair or side b
-Side b is a self damaging kill move and combo ender
-
 Bowser:
 Built off P+ bowser (still heavily rebalanced/reworked) so has all the P+ specials. Otherwise pretty standard with no quirks.
 
@@ -45,9 +41,6 @@ Side taunt can be canceled into attacks
 
 Fox:
 Shine has set knockback leaving opponents in grounded stun and can be canceled only on the ground by moving and crouching (can combo into itself/kill confirms)
-
-Fox (Melee):
-Same as fox, but can also still jump cancel his aerial shine
 
 Falco:
 Shine launchers opponents into falco but can only be canceled in the air with double jump and aerials
@@ -85,11 +78,6 @@ Hold B after grabbing the opponent with aerial side b and it will launch away in
 If ganon still has his double jump during aerial side b, he can jump out of it
 His up and down angled f tilts are his P+ up tilt and down angled f tilt
 
-Ganon:
-Pressing b gives cape while holding it throws a projectile
-Down b can cancel into attacks
-Side b is a kill move unlike ganondorf
-
 Kirby:
 Built off P+ kirby (still heavily rebalanced/reworked) so has all the P+ specials.
 The full jab combo ends in a dash attack automatically
@@ -113,10 +101,6 @@ Dair trips grounded opponents and can be canceled into specials
 Can double jump out of down b
 Can landing cancel aerial neutral b
 Can cancel jab 2 into any attack
-
-Dark Samus:
-Down b bombs stay active on the ground for a long duration and stun opponents
-Aerial side b missiles landing cancel
 
 Ness:
 Down b has a multihit that can be canceled into attacks
@@ -227,18 +211,8 @@ Jab 2 and f tilt 1 can be canceled into specials
 While holding an opponent in a grab, press B to stick them with/detonate C4
 C4 detonate can be canceled into attacks
 
-Sub-Zero:
-Jab 2 and f tilt can be canceled into specials
-Side b can be jump canceled both on ground and in air
-
-Cloud:
-Nothing very quirky, just a heavily rebalanced Cloud from REX
-
 Sephiroth:
 No glaring quirks, just has new moves, utility, and animations like most other characters
-
-Pac-Man:
-Nothing very quirky, just a heavily rebalanced Pac-Man from REX
 
 Sonic:
 Down b has a multihit on startup that can cancel into attacks

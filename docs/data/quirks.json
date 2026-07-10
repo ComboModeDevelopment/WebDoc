@@ -40,14 +40,6 @@
           ]
         },
         {
-          "name": "Daisy",
-          "icon": "daisy",
-          "quirks": [
-            "Aerial down b command grab has set knockback and can be used to combo into fair or side b",
-            "Side b is a self damaging kill move and combo ender"
-          ]
-        },
-        {
           "name": "Bowser",
           "icon": "bowser",
           "quirks": [
@@ -95,13 +87,6 @@
           ]
         },
         {
-          "name": "Fox (Melee)",
-          "icon": "fox-melee",
-          "quirks": [
-            "Same as fox, but can also still jump cancel his aerial shine"
-          ]
-        },
-        {
           "name": "Falco",
           "icon": "falco",
           "quirks": [
@@ -115,14 +100,6 @@
           "quirks": [
             "Can cancel shine on the ground and in the air into attacks (example of good use is: drag down nair - shine - f smash, as a kill confirm)",
             "Landing sweetspot side b doesn’t put him into freefall",
-            "Can landing cancel lasers"
-          ]
-        },
-        {
-          "name": "Wolf (Ultimate)",
-          "icon": "wolf-ultimate",
-          "quirks": [
-            "Can cancel shine on the ground just like Fox. Can also cancel shine in the air with jump.",
             "Can landing cancel lasers"
           ]
         },
@@ -178,15 +155,6 @@
           ]
         },
         {
-          "name": "Ganon",
-          "icon": "ganon",
-          "quirks": [
-            "Pressing b gives cape while holding it throws a projectile",
-            "Down b can cancel into attacks",
-            "Side b is a kill move unlike ganondorf"
-          ]
-        },
-        {
           "name": "Kirby",
           "icon": "kirby",
           "quirks": [
@@ -231,14 +199,6 @@
           ]
         },
         {
-          "name": "Dark Samus",
-          "icon": "dark-samus",
-          "quirks": [
-            "Down b bombs stay active on the ground for a long duration and stun opponents",
-            "Aerial side b missiles landing cancel"
-          ]
-        },
-        {
           "name": "Ness",
           "icon": "ness",
           "quirks": [
@@ -256,15 +216,6 @@
             "Down b is a kill move",
             "Has double jump cancel",
             "If you airdodge during double jump, you’ll stay locked on the x axis and still be able to drift (this is universal among all double jump cancel characters)"
-          ]
-        },
-        {
-          "name": "Kumatora",
-          "icon": "kumatora",
-          "quirks": [
-            "Has double jump cancel",
-            "If you airdodge during double jump, you’ll stay locked on the x axis and still be able to drift (this is universal among all double jump cancel characters)",
-            "Down b stuns opponents and can combo into attacks"
           ]
         },
         {
@@ -453,32 +404,10 @@
           ]
         },
         {
-          "name": "Sub-Zero",
-          "icon": "sub-zero",
-          "quirks": [
-            "Jab 2 and f tilt can be canceled into specials",
-            "Side b can be jump canceled both on ground and in air"
-          ]
-        },
-        {
-          "name": "Cloud",
-          "icon": "cloud",
-          "quirks": [
-            "Nothing very quirky, just a heavily rebalanced Cloud from REX"
-          ]
-        },
-        {
           "name": "Sephiroth",
           "icon": "sephiroth",
           "quirks": [
             "No glaring quirks, just has new moves, utility, and animations like most other characters"
-          ]
-        },
-        {
-          "name": "Pac-Man",
-          "icon": "pac-man",
-          "quirks": [
-            "Nothing very quirky, just a heavily rebalanced Pac-Man from REX"
           ]
         },
         {

@@ -9,20 +9,19 @@ and writes a manifest the front-end reads to build the release dropdown and the
 per-release character list.
 
 Run it locally before previewing, or let the deploy workflow run it (it does).
+
+Releases newer than `latest_published` (scripts/release_config.json) are gated
+out — see scripts/releasecfg.py.
 """
 import json
 import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import releasecfg
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CHANGES_DIR = os.path.join(REPO_ROOT, "docs", "changes")
-
-
-def version_key(version):
-    """Sort key so 0.10.0 > 0.9.0. Falls back to string parts when non-numeric."""
-    parts = []
-    for part in version.lstrip("vV").split("."):
-        parts.append((0, int(part)) if part.isdigit() else (1, part))
-    return parts
 
 
 def build():
@@ -42,10 +41,8 @@ def build():
             if characters:
                 releases.append({"version": version, "characters": characters})
 
-    try:
-        releases.sort(key=lambda r: version_key(r["version"]), reverse=True)
-    except Exception:
-        releases.sort(key=lambda r: r["version"], reverse=True)
+    releases, hidden = releasecfg.partition_releases(releases)
+    releases.sort(key=lambda r: releasecfg.version_key(r["version"]), reverse=True)
 
     os.makedirs(CHANGES_DIR, exist_ok=True)
     out_path = os.path.join(CHANGES_DIR, "index.json")
@@ -54,8 +51,11 @@ def build():
         f.write("\n")
 
     total_chars = sum(len(r["characters"]) for r in releases)
-    print("Wrote %s: %d release(s), %d character file(s)."
-          % (os.path.relpath(out_path, REPO_ROOT), len(releases), total_chars))
+    note = ""
+    if hidden:
+        note = "  (hidden: %s)" % ", ".join(sorted(h["version"] for h in hidden))
+    print("Wrote %s: %d release(s), %d character file(s).%s"
+          % (os.path.relpath(out_path, REPO_ROOT), len(releases), total_chars, note))
 
 
 if __name__ == "__main__":

@@ -18,6 +18,27 @@
       "runOptions": {
         "instanceLimit": 1
       }
+    },
+    {
+      "label": "Preview site (show unpublished)",
+      "detail": "Like Preview site, but reveals releases newer than latest_published (SHOW_UNPUBLISHED=1)",
+      "type": "shell",
+      "command": "python3 scripts/build_changes_index.py && python3 scripts/build_quirks.py && python3 -m http.server 8080 --bind 127.0.0.1 --directory docs",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "SHOW_UNPUBLISHED": "1"
+        }
+      },
+      "isBackground": true,
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      },
+      "problemMatcher": [],
+      "runOptions": {
+        "instanceLimit": 1
+      }
     }
   ]
 }
