@@ -30,6 +30,9 @@ jobs:
       - name: Build character quirks
         run: python3 scripts/build_quirks.py
 
+      - name: Build credits
+        run: python3 scripts/build_credits.py
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 

@@ -1,0 +1,8 @@
+# Other credits (music, code, UI, engine, misc). One block per entry: a name
+# line ending in ":", then one credit line per line. Lines starting with "#"
+# are ignored. The name becomes the icon slug (images/other/<slug>.png).
+#
+# Example:
+# Music:
+# Main theme: SomeComposer
+# Menu tracks: AnotherComposer

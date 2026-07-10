@@ -1,0 +1,15 @@
+{
+  "characters": [
+    {
+      "name": "Dr. Mario",
+      "icon": "dr-mario",
+      "credits": [
+        "Model: P+ Dev Team (PMDT, cleanup by SJ and Zenthos)",
+        "PSA: P+ Dev Team (Mario)",
+        "Cosmetics: Pose by davidvkimball, model polish by tryptech, Zenthos, and MarioDox"
+      ]
+    }
+  ],
+  "stages": [],
+  "other": []
+}

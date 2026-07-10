@@ -1,20 +1,23 @@
 #!/usr/bin/env python3
-"""Generate docs/data/quirks.json from scripts/quirks_source.txt.
+"""Generate docs/data/quirks.json from the per-release files in scripts/quirks/.
 
-The source is plain text. A `RELEASE: x.y.z` line starts a new release; every
-`Character Name:` block after it (until the next `RELEASE:`) belongs to that
-release:
+Each release is its own file, named after the version:
 
-    RELEASE: 1.0.0
+    scripts/quirks/0.9.0.txt
+    scripts/quirks/1.0.0.txt
+
+Inside a file, list characters as blocks (the version comes from the filename,
+so no RELEASE line is needed):
 
     Character Name:
     quirk line
     quirk line
 
-You can have multiple `RELEASE:` sections — each becomes its own entry in the
-dropdown (sorted newest-first). The special block `Combo Mode:` is treated as
-the section intro rather than a character. To update the quirks, edit the source
-text and re-run this script (the deploy workflow also runs it).
+Blank lines separate blocks. A `Combo Mode:` block, if present, is treated as
+the section intro rather than a character. Releases newer than `latest_published`
+(scripts/release_config.json) are gated out — see scripts/releasecfg.py. To
+update the quirks, edit the relevant file and re-run this script (the deploy
+workflow also runs it).
 """
 import json
 import os
@@ -25,7 +28,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import releasecfg
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(REPO_ROOT, "scripts", "quirks_source.txt")
+SRC_DIR = os.path.join(REPO_ROOT, "scripts", "quirks")
 OUT = os.path.join(REPO_ROOT, "docs", "data", "quirks.json")
 
 
@@ -36,46 +39,49 @@ def slugify(name):
     return s.strip("-")
 
 
-def build():
-    intro = ""
-    releases = []
-    current_release = None
-    current_char = None
+def parse_release_file(path):
+    """Parse one release file -> (characters, intro_text)."""
+    characters = []
+    intro_lines = []
+    current = None
     mode = None      # "intro" or "char"
 
-    with open(SRC, encoding="utf-8") as f:
+    with open(path, encoding="utf-8") as f:
         for raw in f:
             line = raw.strip()
             if not line:
                 continue
-
-            m = re.match(r"(?i)^RELEASE:\s*(.+)$", line)
-            if m:
-                current_release = {"version": m.group(1).strip(), "characters": []}
-                releases.append(current_release)
-                current_char = None
-                mode = None
-                continue
-
             if line.endswith(":"):
                 name = line[:-1].strip()
                 if name.lower() == "combo mode":
-                    mode, current_char = "intro", None
+                    mode, current = "intro", None
                 else:
-                    if current_release is None:
-                        # Characters before any RELEASE line: bucket them.
-                        current_release = {"version": "unversioned", "characters": []}
-                        releases.append(current_release)
                     mode = "char"
-                    current_char = {"name": name, "icon": slugify(name), "quirks": []}
-                    current_release["characters"].append(current_char)
+                    current = {"name": name, "icon": slugify(name), "quirks": []}
+                    characters.append(current)
                 continue
-
-            # content line
             if mode == "intro":
-                intro = (intro + " " + line).strip()
-            elif mode == "char" and current_char is not None:
-                current_char["quirks"].append(line)
+                intro_lines.append(line)
+            elif mode == "char" and current is not None:
+                current["quirks"].append(line)
+
+    return characters, " ".join(intro_lines).strip()
+
+
+def build():
+    releases = []
+    intro = ""
+
+    if os.path.isdir(SRC_DIR):
+        for filename in sorted(os.listdir(SRC_DIR)):
+            if not filename.lower().endswith(".txt"):
+                continue
+            version = os.path.splitext(filename)[0]
+            characters, file_intro = parse_release_file(os.path.join(SRC_DIR, filename))
+            if file_intro:
+                intro = file_intro
+            if characters:
+                releases.append({"version": version, "characters": characters})
 
     releases, hidden = releasecfg.partition_releases(releases)
     releases.sort(key=lambda r: releasecfg.version_key(r["version"]), reverse=True)

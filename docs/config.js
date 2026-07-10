@@ -3,17 +3,6 @@
  * This file is loaded before main.js and exposes a global `SITE_CONFIG`.
  */
 window.SITE_CONFIG = {
-  // --- Characters + Credits data (lives in a SEPARATE repo) ---------------
-  // Point this at a raw JSON file. Use a raw.githubusercontent.com URL, e.g.:
-  //   https://raw.githubusercontent.com/<owner>/<repo>/<branch>/characters.json
-  // Expected shape:
-  //   [
-  //     { "name": "Ryu", "changes": ["...", "..."], "credits": ["Author A", "..."] },
-  //     ...
-  //   ]
-  // If this fetch fails (e.g. not wired up yet), placeholder data is shown.
-  charactersUrl: "",
-
   // --- Character changes (per-release .md files, in THIS repo) ------------
   // Copy the private repo's changes into docs/changes/<release>/characters/*.md
   // e.g. docs/changes/0.6.0/characters/Mario.md
@@ -21,15 +10,30 @@ window.SITE_CONFIG = {
   // index.json (see scripts/build_changes_index.py). This is the folder that
   // index.json and the .md files live under, relative to the site root.
   changesBasePath: "changes",
+  // Icon folder for the changes grid (same slug rule as quirks). Changes
+  // characters reuse the shared character icons.
+  changesIconBase: "images/characters",
 
   // --- Quirks (per-release character quirks, in THIS repo) ----------------
-  // Generated from scripts/quirks_source.txt by scripts/build_quirks.py.
+  // Generated from scripts/quirks/<version>.txt by scripts/build_quirks.py.
   quirksUrl: "data/quirks.json",
   // Folder holding per-character icons for the quirks grid. Each icon is
   // <quirkIconBase>/<icon>.png where <icon> is the slug in quirks.json
   // (e.g. images/characters/fox-melee.png). Missing icons fall back to a
   // text tile, so you can add art gradually.
   quirkIconBase: "images/characters",
+
+  // --- Credits (characters / stages / other, in THIS repo) ----------------
+  // Generated from scripts/credits/{characters,stages,other}.txt by
+  // scripts/build_credits.py. Not release-based.
+  creditsUrl: "data/credits.json",
+  // Icon folder per credits category (same slug -> <base>/<slug>.png rule as
+  // quirks). Character credits reuse the shared character icons.
+  creditsIconBase: {
+    characters: "images/characters",
+    stages: "images/stages",
+    other: "images/other"
+  },
 
   // --- FAQ data (lives in THIS repo, under docs/data) ---------------------
   faqUrl: "data/faq.json",

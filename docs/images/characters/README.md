@@ -12,7 +12,7 @@ can add art gradually — nothing breaks in the meantime.
 
 Recommended: roughly square, transparent PNGs (they're displayed at 56×56).
 
-The slugs are generated from `scripts/quirks_source.txt` (see the `icon` field
+The slugs are generated from `scripts/quirks/<version>.txt` (see the `icon` field
 in `docs/data/quirks.json`). Current expected filenames:
 
 - mario.png  (Mario)

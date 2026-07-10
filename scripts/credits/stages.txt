@@ -1,0 +1,8 @@
+# Stage credits. One block per stage: a name line ending in ":", then one
+# credit line per line. Lines starting with "#" are ignored.
+# The name becomes the icon slug (images/stages/<slug>.png).
+#
+# Example:
+# Final Destination:
+# Model: SomeArtist
+# Imported by: AnotherPerson

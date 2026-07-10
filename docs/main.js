@@ -19,65 +19,18 @@
     return d.innerHTML;
   }
 
-  // Render an array of strings as a <ul>, or a single line, or an em-dash.
-  function listCell(items) {
-    if (!items || (Array.isArray(items) && items.length === 0)) return "—";
-    if (!Array.isArray(items)) return esc(items);
-    return "<ul>" + items.map(function (i) {
-      return "<li>" + esc(i) + "</li>";
-    }).join("") + "</ul>";
-  }
-
   function showError(container, message) {
     container.innerHTML = '<p class="error">' + esc(message) + "</p>";
   }
 
-  // --- Placeholder character data (used when charactersUrl is unset/fails) ---
-
-  function placeholderCharacters() {
-    var out = [];
-    for (var i = 1; i <= 40; i++) {
-      out.push({
-        name: "Character " + i,
-        credits: ["Placeholder credit"]
+  // Return a copy of the characters sorted alphabetically by name.
+  function sortedByName(characters) {
+    return (characters || []).slice().sort(function (a, b) {
+      return String(a.name).localeCompare(String(b.name), undefined, {
+        sensitivity: "base",
+        numeric: true
       });
-    }
-    return out;
-  }
-
-  // --- Credits table --------------------------------------------------------
-
-  function renderCreditsTable(container, characters) {
-    var rows = characters.map(function (c) {
-      return "<tr><td>" + esc(c.name) + "</td><td>" + listCell(c.credits) + "</td></tr>";
-    }).join("");
-    container.innerHTML =
-      "<table><thead><tr><th>Character</th><th>Credits</th></tr></thead>" +
-      "<tbody>" + rows + "</tbody></table>";
-  }
-
-  function loadCredits() {
-    var creditsEl = el("credits-content");
-
-    if (!cfg.charactersUrl) {
-      // Not wired up yet — show placeholders so the layout is visible.
-      renderCreditsTable(creditsEl, placeholderCharacters());
-      return;
-    }
-
-    fetch(cfg.charactersUrl)
-      .then(function (r) {
-        if (!r.ok) throw new Error("HTTP " + r.status);
-        return r.json();
-      })
-      .then(function (data) {
-        if (!Array.isArray(data)) throw new Error("Expected a JSON array");
-        renderCreditsTable(creditsEl, data);
-      })
-      .catch(function (err) {
-        renderCreditsTable(creditsEl, placeholderCharacters());
-        console.warn("Failed to load credits from", cfg.charactersUrl, err);
-      });
+    });
   }
 
   // --- Character changes (per-release .md files) + modal --------------------
@@ -268,22 +221,12 @@
       });
   }
 
+  var changesIconBase = cfg.changesIconBase || "images/characters";
+
   function renderCharacterGrid(container, version, characters) {
-    if (!characters || characters.length === 0) {
-      container.innerHTML = '<p class="loading">No characters for this release.</p>';
-      return;
-    }
-    container.innerHTML = "";
-    characters.forEach(function (c) {
-      var btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "character-card";
-      btn.textContent = c.name;
-      btn.addEventListener("click", function () {
-        openCharacterChanges(version, c);
-      });
-      container.appendChild(btn);
-    });
+    renderIconGrid(container, characters, changesIconBase, function (c) {
+      openCharacterChanges(version, c);
+    }, "No characters for this release.");
   }
 
   function loadChangesSection() {
@@ -337,25 +280,19 @@
       .replace(/^-+|-+$/g, "");
   }
 
-  function openQuirkModal(character) {
-    var items = (character.quirks || []).map(function (q) {
-      return "<li>" + esc(q) + "</li>";
-    }).join("");
-    var body = items
-      ? "<ul>" + items + "</ul>"
-      : '<p class="loading">No quirks listed for this character.</p>';
-    openModal(character.name, body);
-  }
-
-  function renderQuirks(container, characters) {
-    if (!characters || characters.length === 0) {
+  // Shared renderer: a grid of clickable icon tiles. Each entry needs a `name`
+  // and optionally an `icon` slug; a missing icon image falls back to a text
+  // tile. `onClick` receives the entry. Used by both quirks and credits.
+  function renderIconGrid(container, entries, iconBase, onClick, emptyMsg) {
+    if (!entries || entries.length === 0) {
       container.className = "";
-      container.innerHTML = '<p class="loading">No quirks for this release.</p>';
+      container.innerHTML = '<p class="loading">' + esc(emptyMsg || "Nothing here yet.") + "</p>";
       return;
     }
+    var base = String(iconBase).replace(/\/+$/, "");
     container.className = "icon-grid";
     container.innerHTML = "";
-    characters.forEach(function (c) {
+    sortedByName(entries).forEach(function (entry) {
       var tile = document.createElement("button");
       tile.type = "button";
       tile.className = "icon-card no-icon";
@@ -367,17 +304,32 @@
       // Show the icon if it exists; otherwise keep the text-only tile.
       img.addEventListener("load", function () { tile.classList.remove("no-icon"); });
       img.addEventListener("error", function () { img.remove(); });
-      img.src = quirkIconBase + "/" + encodeURIComponent(c.icon || slugify(c.name)) + ".png";
+      img.src = base + "/" + encodeURIComponent(entry.icon || slugify(entry.name)) + ".png";
 
       var label = document.createElement("span");
       label.className = "icon-label";
-      label.textContent = c.name;
+      label.textContent = entry.name;
 
       tile.appendChild(img);
       tile.appendChild(label);
-      tile.addEventListener("click", function () { openQuirkModal(c); });
+      tile.addEventListener("click", function () { onClick(entry); });
       container.appendChild(tile);
     });
+  }
+
+  function openQuirkModal(character) {
+    var items = (character.quirks || []).map(function (q) {
+      return "<li>" + esc(q) + "</li>";
+    }).join("");
+    var body = items
+      ? "<ul>" + items + "</ul>"
+      : '<p class="loading">No quirks listed for this character.</p>';
+    openModal(character.name, body);
+  }
+
+  function renderQuirks(container, characters) {
+    renderIconGrid(container, characters, quirkIconBase, openQuirkModal,
+      "No quirks for this release.");
   }
 
   function loadQuirksSection() {
@@ -413,6 +365,49 @@
         select.disabled = true;
         listEl.innerHTML = '<p class="error">Could not load quirks.</p>';
         console.warn("Failed to load quirks from", url, err);
+      });
+  }
+
+  // --- Credits (characters / stages / other: icon grids -> modal) -----------
+  // Not release-based: one flat list per category.
+
+  var creditsIconBases = cfg.creditsIconBase || {};
+
+  // Which categories to render, their container id, and default icon folder.
+  var CREDITS_GROUPS = [
+    { key: "characters", el: "credits-characters", base: "images/characters" },
+    { key: "stages", el: "credits-stages", base: "images/stages" },
+    { key: "other", el: "credits-other", base: "images/other" }
+  ];
+
+  function openCreditModal(entry) {
+    var items = (entry.credits || []).map(function (c) {
+      return "<li>" + esc(c) + "</li>";
+    }).join("");
+    var body = items
+      ? "<ul>" + items + "</ul>"
+      : '<p class="loading">No credit details listed yet.</p>';
+    openModal(entry.name, body);
+  }
+
+  function loadCreditsSection() {
+    var url = cfg.creditsUrl || "data/credits.json";
+    fetch(url)
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        CREDITS_GROUPS.forEach(function (g) {
+          renderIconGrid(el(g.el), data[g.key], creditsIconBases[g.key] || g.base,
+            openCreditModal, "Nothing here yet.");
+        });
+      })
+      .catch(function (err) {
+        CREDITS_GROUPS.forEach(function (g) {
+          el(g.el).innerHTML = '<p class="loading">Nothing here yet.</p>';
+        });
+        console.warn("Failed to load credits from", url, err);
       });
   }
 
@@ -506,7 +501,7 @@
     initModal();
     loadChangesSection();
     loadQuirksSection();
-    loadCredits();
+    loadCreditsSection();
     loadTrailer();
     loadFaq();
     loadDownload();

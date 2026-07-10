@@ -290,14 +290,6 @@
           ]
         },
         {
-          "name": "Incineroar",
-          "icon": "incineroar",
-          "quirks": [
-            "Side b can grab opponents off missed tech",
-            "Failed side b can combo into some attacks (jab, d tilt, f tilt)"
-          ]
-        },
-        {
           "name": "Marth",
           "icon": "marth",
           "quirks": [
@@ -328,13 +320,6 @@
           ]
         },
         {
-          "name": "Melee Roy",
-          "icon": "melee-roy",
-          "quirks": [
-            "No glaring quirks, just has new moves, utility, and animations like most other characters"
-          ]
-        },
-        {
           "name": "Ven",
           "icon": "ven",
           "quirks": [
@@ -358,13 +343,6 @@
           "quirks": [
             "Made 9’s more frequent and 1’s less frequent",
             "Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters"
-          ]
-        },
-        {
-          "name": "Isabelle",
-          "icon": "isabelle",
-          "quirks": [
-            "Nothing very quirky, just a heavily rebalanced Isabelle from PMEX"
           ]
         },
         {
@@ -432,6 +410,27 @@
           "quirks": [
             "After neutral b homing attack lands, press b again for the followup kill move",
             "Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters"
+          ]
+        },
+        {
+          "name": "Greninja",
+          "icon": "greninja",
+          "quirks": [
+            "outdated build of character, N/A"
+          ]
+        },
+        {
+          "name": "Olimar",
+          "icon": "olimar",
+          "quirks": [
+            "outdated build of character, N/A"
+          ]
+        },
+        {
+          "name": "Ice Climbers",
+          "icon": "ice-climbers",
+          "quirks": [
+            "outdated build of character, N/A"
           ]
         }
       ]

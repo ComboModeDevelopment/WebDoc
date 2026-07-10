@@ -213,27 +213,13 @@ td ul { margin: 0; padding-left: 18px; }
   border-radius: 6px;
 }
 
-.character-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 10px;
+/* Subsection headings (e.g. Credits > Characters/Stages/Other) */
+.subsection-title {
+  font-family: var(--font-header);
+  font-size: 22px;
+  margin: 32px 0 12px;
 }
-
-.character-card {
-  font: inherit;
-  text-align: left;
-  padding: 12px 14px;
-  color: var(--text);
-  background: var(--th-bg);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-.character-card:hover {
-  border-color: var(--accent);
-  color: var(--accent-ink);
-}
+.subsection-title:first-of-type { margin-top: 8px; }
 
 /* Quirks (clickable icon grid) */
 .icon-grid {
