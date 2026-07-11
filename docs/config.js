@@ -35,6 +35,13 @@ window.SITE_CONFIG = {
     other: "images/other"
   },
 
+  // --- Gallery (images in docs/pics) --------------------------------------
+  // Drop images into docs/pics; scripts/build_gallery.py writes the manifest.
+  // A manifest entry's "file" may also be a full URL (e.g. an imgur/CDN link),
+  // in which case it's used as-is instead of being served from galleryBasePath.
+  galleryUrl: "data/gallery.json",
+  galleryBasePath: "pics",
+
   // --- FAQ data (lives in THIS repo, under docs/data) ---------------------
   faqUrl: "data/faq.json",
 
@@ -45,10 +52,9 @@ window.SITE_CONFIG = {
   // --- Download -----------------------------------------------------------
   downloadUrl: "https://github.com/ComboModeDevelopment/Combo-Mode-Releases/releases/latest",
   downloadLabel: "Get ComboMode",
-  // Embedded Discord server widget (right side of the Download and Join
-  // section). In Discord: Server Settings > Widget > enable "Server Widget",
-  // then paste the Server ID here. Leave "" to hide the widget.
-  discordServerId: "CH6H7JVN77",
+  // Discord invite for the "Join" card (right side of Download and Join).
+  // Just your invite link — no server-side setup needed. Leave "" to hide it.
+  discordInviteUrl: "https://discord.gg/CH6H7JVN77",
 
   // --- About --------------------------------------------------------------
   // An array of paragraphs (each rendered as its own <p>).

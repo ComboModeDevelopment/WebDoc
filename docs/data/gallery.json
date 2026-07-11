@@ -1,0 +1,80 @@
+{
+  "images": [
+    {
+      "file": "thumbnail.png",
+      "alt": "Thumbnail"
+    },
+    {
+      "file": "CSS.png",
+      "alt": "CSS"
+    },
+    {
+      "file": "SSS.png",
+      "alt": "SSS"
+    },
+    {
+      "file": "aura.png",
+      "alt": "Aura"
+    },
+    {
+      "file": "big_punch.png",
+      "alt": "Big Punch"
+    },
+    {
+      "file": "cold_encounter.png",
+      "alt": "Cold Encounter"
+    },
+    {
+      "file": "cool_dudes.png",
+      "alt": "Cool Dudes"
+    },
+    {
+      "file": "fighting_a_god.png",
+      "alt": "Fighting A God"
+    },
+    {
+      "file": "foxes.png",
+      "alt": "Foxes"
+    },
+    {
+      "file": "hiiiii.png",
+      "alt": "Hiiiii"
+    },
+    {
+      "file": "near_impact.png",
+      "alt": "Near Impact"
+    },
+    {
+      "file": "ninjas.png",
+      "alt": "Ninjas"
+    },
+    {
+      "file": "pixel_lads.png",
+      "alt": "Pixel Lads"
+    },
+    {
+      "file": "pokemen.png",
+      "alt": "Pokemen"
+    },
+    {
+      "file": "psi_guys.png",
+      "alt": "Psi Guys"
+    },
+    {
+      "file": "roy_mirror.png",
+      "alt": "Roy Mirror"
+    },
+    {
+      "file": "sonic_bros.png",
+      "alt": "Sonic Bros"
+    },
+    {
+      "file": "tres_embeteers.png",
+      "alt": "Tres Embeteers"
+    },
+    {
+      "file": "who_invited_him.png",
+      "alt": "Who Invited Him"
+    }
+  ]
+}

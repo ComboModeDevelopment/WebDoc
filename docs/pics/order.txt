@@ -1,0 +1,6 @@
+# Gallery order. List filenames (one per line) in the order you want them to
+# appear first. Anything not listed here follows, alphabetically. Lines
+# starting with "#" are ignored.
+thumbnail.png
+CSS.png
+SSS.png

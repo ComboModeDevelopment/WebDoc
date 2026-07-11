@@ -17,6 +17,7 @@
         <a href="#about">About</a>
         <a href="#faq">FAQ</a>
         <a href="#quirks">Quirks</a>
+        <a href="#gallery">Gallery</a>
         <a href="#characters">Character Changes</a>
         <a href="#credits">Credits</a>
       </nav>
@@ -76,6 +77,18 @@
       </div>
     </section>
 
+    <!-- Gallery -->
+    <section id="gallery" class="section">
+      <h2>Gallery</h2>
+      <div class="gallery">
+        <button type="button" class="gallery-nav gallery-prev" aria-label="Scroll left" hidden>&lsaquo;</button>
+        <div id="gallery-content" class="gallery-track">
+          <p class="loading">Loading gallery…</p>
+        </div>
+        <button type="button" class="gallery-nav gallery-next" aria-label="Scroll right" hidden>&rsaquo;</button>
+      </div>
+    </section>
+
     <!-- Characters -->
     <section id="characters" class="section">
       <h2>Character Changes</h2>
@@ -121,6 +134,12 @@
       </div>
       <div id="modal-body" class="modal-body markdown"></div>
     </div>
+  </div>
+
+  <!-- Full-size image lightbox for the gallery -->
+  <div id="lightbox" class="lightbox" hidden>
+    <button type="button" class="lightbox-close" data-close aria-label="Close">&times;</button>
+    <img id="lightbox-img" class="lightbox-img" alt="">
   </div>
 
   <script src="config.js"></script>

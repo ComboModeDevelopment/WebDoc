@@ -413,6 +413,113 @@
       });
   }
 
+  // --- Gallery (full-size images, lazy-loaded) + lightbox -------------------
+
+  var galleryBase = (cfg.galleryBasePath || "pics").replace(/\/+$/, "");
+
+  function resolveImage(file) {
+    // Allow full URLs (e.g. imgur/CDN) to pass through; otherwise serve locally.
+    return /^https?:\/\//i.test(file)
+      ? file
+      : galleryBase + "/" + encodeURIComponent(file);
+  }
+
+  function initLightbox() {
+    var lb = el("lightbox");
+    if (!lb) return;
+    lb.addEventListener("click", function (e) {
+      if (e.target === lb || e.target.hasAttribute("data-close")) closeLightbox();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && !lb.hidden) closeLightbox();
+    });
+  }
+
+  function openLightbox(src, alt) {
+    var lb = el("lightbox");
+    var img = el("lightbox-img");
+    img.src = src;
+    img.alt = alt || "";
+    lb.hidden = false;
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeLightbox() {
+    var lb = el("lightbox");
+    lb.hidden = true;
+    el("lightbox-img").src = "";
+    document.body.style.overflow = "";
+  }
+
+  // Wire up the prev/next arrows for the horizontal gallery track.
+  function initGalleryNav(track) {
+    var section = el("gallery");
+    if (!section) return;
+    var prev = section.querySelector(".gallery-prev");
+    var next = section.querySelector(".gallery-next");
+    if (!prev || !next) return;
+
+    function step(dir) {
+      track.scrollBy({ left: dir * track.clientWidth * 0.8, behavior: "smooth" });
+    }
+    prev.addEventListener("click", function () { step(-1); });
+    next.addEventListener("click", function () { step(1); });
+
+    function update() {
+      var scrollable = track.scrollWidth > track.clientWidth + 4;
+      prev.hidden = next.hidden = !scrollable;
+      if (scrollable) {
+        prev.disabled = track.scrollLeft <= 0;
+        next.disabled = track.scrollLeft + track.clientWidth >= track.scrollWidth - 1;
+      }
+    }
+    track.addEventListener("scroll", update);
+    window.addEventListener("resize", update);
+    update();
+  }
+
+  function loadGallery() {
+    var container = el("gallery-content");
+    if (!container) return;
+    var url = cfg.galleryUrl || "data/gallery.json";
+    fetch(url)
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        var images = (data && data.images) || [];
+        if (images.length === 0) {
+          container.className = "";
+          container.innerHTML = '<p class="loading">No images yet.</p>';
+          return;
+        }
+        container.className = "gallery-track";
+        container.innerHTML = "";
+        images.forEach(function (item) {
+          var src = resolveImage(item.file);
+          var btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "gallery-item";
+          var img = document.createElement("img");
+          img.loading = "lazy";
+          img.src = src;
+          img.alt = item.alt || "";
+          btn.appendChild(img);
+          btn.addEventListener("click", function () {
+            openLightbox(src, item.alt);
+          });
+          container.appendChild(btn);
+        });
+        initGalleryNav(container);
+      })
+      .catch(function (err) {
+        container.className = "";
+        container.innerHTML = '<p class="error">Could not load gallery.</p>';
+        console.warn("Failed to load gallery from", url, err);
+      });
+  }
+
   // --- Trailer --------------------------------------------------------------
 
   function loadTrailer() {
@@ -482,27 +589,41 @@
     container.appendChild(a);
   }
 
-  // Embedded Discord server widget (right column of Download and Join).
+  // Discord "Join" card (right column of Download and Join).
+  var DISCORD_LOGO = '<svg class="discord-logo" viewBox="0 0 24 24" aria-hidden="true">' +
+    '<path fill="currentColor" d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 ' +
+    '00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933' +
+    '-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 ' +
+    '0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 ' +
+    '4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076' +
+    '.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943' +
+    '.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 ' +
+    '0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873' +
+    '.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961' +
+    '-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485' +
+    '-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332' +
+    '.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 ' +
+    '2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 ' +
+    '0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/></svg>';
+
   function loadDiscord() {
     var container = el("discord-content");
     if (!container) return;
-    if (!cfg.discordServerId) {
+    if (!cfg.discordInviteUrl) {
       container.innerHTML =
-        '<p class="loading">Discord widget not configured yet.</p>';
+        '<p class="loading">Discord invite not configured yet.</p>';
       return;
     }
-    var dark = window.matchMedia &&
-      window.matchMedia("(prefers-color-scheme: dark)").matches;
-    var iframe = document.createElement("iframe");
-    iframe.className = "discord-widget";
-    iframe.title = "Discord";
-    iframe.src = "https://discord.com/widget?id=" +
-      encodeURIComponent(cfg.discordServerId) + "&theme=" + (dark ? "dark" : "light");
-    iframe.setAttribute("allowtransparency", "true");
-    iframe.setAttribute("frameborder", "0");
-    iframe.setAttribute("sandbox",
-      "allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts");
-    container.appendChild(iframe);
+    var a = document.createElement("a");
+    a.className = "discord-card";
+    a.href = cfg.discordInviteUrl;
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.innerHTML = DISCORD_LOGO +
+      '<span class="discord-card-title">Join our Discord</span>' +
+      '<span class="discord-card-sub">Chat, get help, and hang out with the community.</span>' +
+      '<span class="discord-join-btn">Join Server</span>';
+    container.appendChild(a);
   }
 
   // --- About ----------------------------------------------------------------
@@ -524,6 +645,8 @@
 
   document.addEventListener("DOMContentLoaded", function () {
     initModal();
+    initLightbox();
+    loadGallery();
     loadChangesSection();
     loadQuirksSection();
     loadCreditsSection();
