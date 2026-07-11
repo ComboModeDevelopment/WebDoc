@@ -1,12 +1,183 @@
 {
   "characters": [
     {
+      "name": "Mario",
+      "icon": "mario",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball, CSProject"
+      ]
+    },
+    {
       "name": "Dr. Mario",
       "icon": "dr-mario",
       "credits": [
-        "Model: P+ Dev Team (PMDT, cleanup by SJ and Zenthos)",
-        "PSA: P+ Dev Team (Mario)",
-        "Cosmetics: Pose by davidvkimball, model polish by tryptech, Zenthos, and MarioDox"
+        "Model: P+ Dev Team (PMDT, cleanup by SJ and Zenthos), Purple alt by DJPVSTV",
+        "PSA: P+ Dev Team (Mario), OurBoyFoxy",
+        "Animations: P+ Dev Team (Mario)",
+        "Cosmetics: Pose by davidvkimball, model polish by tryptech, Zenthos, and MarioDox. Rendering by DJPVSTV"
+      ]
+    },
+    {
+      "name": "Falco",
+      "icon": "falco",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball, CSProject"
+      ]
+    },
+    {
+      "name": "Sheik",
+      "icon": "sheik",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Samus",
+      "icon": "samus",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Zero Suit Samus",
+      "icon": "zero-suit-samus",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Pit",
+      "icon": "pit",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Ike",
+      "icon": "ike",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Captain Falcon",
+      "icon": "captain-falcon",
+      "credits": [
+        "Animations: PMEX Dev Team, OurBoyFoxy",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Luigi",
+      "icon": "luigi",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Diddy Kong",
+      "icon": "diddy-kong",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Fox",
+      "icon": "fox",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Link",
+      "icon": "link",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Zelda",
+      "icon": "zelda",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Meta Knight",
+      "icon": "meta-knight",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "King Dedede",
+      "icon": "king-dedede",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Peach",
+      "icon": "peach",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Model: [Shadow Peach Remake](https://gamebanana.com/mods/546395) (Sate, Original Authors: PMDT, tyleto, Layell)",
+        "Cosmetics: Pose by davidvkimball, Renders by DJPVSTV"
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "icon": "pikachu",
+      "credits": [
+        "Model: [Smash 2](https://gamebanana.com/mods/336188) (Efisio, Aeon)",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "icon": "jigglypuff",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Mr. Game & Watch",
+      "icon": "mr-game-watch",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Snake",
+      "icon": "snake",
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
       ]
     }
   ],

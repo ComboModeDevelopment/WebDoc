@@ -40,11 +40,15 @@ window.SITE_CONFIG = {
 
   // --- Trailer ------------------------------------------------------------
   // Just the YouTube video ID (the part after "v=").
-  youtubeVideoId: "GuMWO0644FI",
+  youtubeVideoId: "6WWXh8THFcBwZDIE",
 
   // --- Download -----------------------------------------------------------
   downloadUrl: "https://github.com/ComboModeDevelopment/Combo-Mode-Releases/releases/latest",
   downloadLabel: "Get ComboMode",
+  // Embedded Discord server widget (right side of the Download and Join
+  // section). In Discord: Server Settings > Widget > enable "Server Widget",
+  // then paste the Server ID here. Leave "" to hide the widget.
+  discordServerId: "CH6H7JVN77",
 
   // --- About --------------------------------------------------------------
   // An array of paragraphs (each rendered as its own <p>).

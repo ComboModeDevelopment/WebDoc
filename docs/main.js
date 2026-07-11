@@ -381,8 +381,10 @@
   ];
 
   function openCreditModal(entry) {
+    // Render inline markdown so credit lines can use links: [text](url)
+    // (also bold/italic/code). Input is HTML-escaped first, so it's safe.
     var items = (entry.credits || []).map(function (c) {
-      return "<li>" + esc(c) + "</li>";
+      return "<li>" + inlineMd(escHtml(c)) + "</li>";
     }).join("");
     var body = items
       ? "<ul>" + items + "</ul>"
@@ -480,6 +482,29 @@
     container.appendChild(a);
   }
 
+  // Embedded Discord server widget (right column of Download and Join).
+  function loadDiscord() {
+    var container = el("discord-content");
+    if (!container) return;
+    if (!cfg.discordServerId) {
+      container.innerHTML =
+        '<p class="loading">Discord widget not configured yet.</p>';
+      return;
+    }
+    var dark = window.matchMedia &&
+      window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var iframe = document.createElement("iframe");
+    iframe.className = "discord-widget";
+    iframe.title = "Discord";
+    iframe.src = "https://discord.com/widget?id=" +
+      encodeURIComponent(cfg.discordServerId) + "&theme=" + (dark ? "dark" : "light");
+    iframe.setAttribute("allowtransparency", "true");
+    iframe.setAttribute("frameborder", "0");
+    iframe.setAttribute("sandbox",
+      "allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts");
+    container.appendChild(iframe);
+  }
+
   // --- About ----------------------------------------------------------------
 
   function loadAbout() {
@@ -505,6 +530,7 @@
     loadTrailer();
     loadFaq();
     loadDownload();
+    loadDiscord();
     loadAbout();
   });
 })();

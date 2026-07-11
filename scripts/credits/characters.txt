@@ -10,7 +10,98 @@
 # Animations: AnotherPerson
 # Ported by: ThirdPerson
 
+Mario:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball, CSProject
+
 Dr. Mario:
 Model: P+ Dev Team (PMDT, cleanup by SJ and Zenthos), Purple alt by DJPVSTV
 PSA: P+ Dev Team (Mario), OurBoyFoxy
+Animations: P+ Dev Team (Mario)
 Cosmetics: Pose by davidvkimball, model polish by tryptech, Zenthos, and MarioDox. Rendering by DJPVSTV
+
+Falco:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball, CSProject
+
+Sheik:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Samus:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Zero Suit Samus:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Pit:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Ike:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Captain Falcon:
+Animations: PMEX Dev Team, OurBoyFoxy
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Luigi:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Diddy Kong:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Fox:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Link:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Zelda:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Meta Knight:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+King Dedede:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Peach:
+PSA: OurBoyFoxy
+Model: [Shadow Peach Remake](https://gamebanana.com/mods/546395) (Sate, Original Authors: PMDT, tyleto, Layell)
+Cosmetics: Pose by davidvkimball, Renders by DJPVSTV
+
+Pikachu:
+Model: [Smash 2](https://gamebanana.com/mods/336188) (Efisio, Aeon) 
+PSA: OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Jigglypuff:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Mr. Game & Watch:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Snake:
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
