@@ -47,7 +47,7 @@ window.SITE_CONFIG = {
 
   // --- Trailer ------------------------------------------------------------
   // Just the YouTube video ID (the part after "v=").
-  youtubeVideoId: "6WWXh8THFcBwZDIE",
+  youtubeVideoId: "7LJMByRe5tI",
 
   // --- Download -----------------------------------------------------------
   downloadUrl: "https://github.com/ComboModeDevelopment/Combo-Mode-Releases/releases/latest",
