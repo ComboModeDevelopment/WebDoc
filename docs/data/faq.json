@@ -1,15 +1,15 @@
 [
   {
     "question": "What is ComboMode?",
-    "answer": "ComboMode is a vanilla Brawl mod that aims to combine exciting combo expression with lower skill floors to execution."
+    "answer": "Put simply, ComboMode is a vanilla Brawl mod that aims to combine exciting combo expression with lower skill floors to execution. High hitstun, no landing lag, and unique mechanics you can learn more about in the trailer!"
   },
   {
     "question": "Is this another P+ mod?",
-    "answer": "No, this build is based off vanilla Brawl and does not have some P+ mechanics such as wavedashing and L-cancelling."
+    "answer": "No, this build is based off vanilla Brawl. It doesn't feature a lot of mechanics you are familiar with from Melee/P+ such as L canceling and wavedashing."
   },
   {
     "question": "What smash game is this most like?",
-    "answer": "ComboMode is our twisted combination of Smash64 hitstun, Melee combo expression, and Ultimate's accessibility and quality-of-life features."
+    "answer": "It's tough to say! With smash 64 hitstun, Brawl/modern smash accesibility mechanics, and P+ QoL features, we believe the game is something unique that many people from every title seem to enjoy so far! We've even had many players from SSF2 and RoA express a feeling of familiarity with Combo Mode!"
   },
   {
     "question": "How do I install it?",
@@ -17,10 +17,18 @@
   },
   {
     "question": "Where can I report bugs or contribute?",
-    "answer": "Join the ComboMode Discord server to discuss the mod and report issues."
+    "answer": "Join the Combo Mode Discord server to discuss the mod and report issues."
   },
   {
     "question": "Does this mod work on Wii?",
-    "answer": "At the moment, no. But we plan to have it working very soon!."
+    "answer": "At the moment, no. But we plan to have it working very soon!"
+  },
+  {
+    "question": "Who makes this mod?",
+    "answer": "Combo Mode is made by a 2 man dev team at the moment. DJ PVSTV does all the coding, implementation, and infrastructure while Our Boy Foxy does all the character balance/changes,system change design direction, and many textures."
+  },
+  {
+    "question": "Who's the little character I see when I boot the game and on the launcher?",
+    "answer": "That is Foxy's character Sal. She's like the psuedo mascot of combo mode. Admitedly she has very little to actually do with the game itself, but she's a cutie pie, isn't she?"
   }
 ]
