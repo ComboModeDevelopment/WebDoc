@@ -105,3 +105,75 @@ Cosmetics: Pose by davidvkimball
 Snake:
 PSA: OurBoyFoxy
 Cosmetics: Pose by davidvkimball
+
+Bowser:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Yoshi:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Kirby:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Ness:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Lucas:
+Model: Lucas 64 Model from P+ Dev Team
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Squirtle:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Ivysaur:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Charizard:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Marth:
+PSA: P+ Dev Team, OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Donkey Kong:
+Animations: P+ Dev Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Ganondorf:
+Animations: P+ Dev Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Toon Link:
+Animations: P+ Dev Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+R.O.B.:
+Animations: P+ Dev Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Wario:
+Animations: P+ Dev Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Sonic:
+Animations: P+ Dev Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball
+
+Wolf:
+Animations: P+ Dev Team, PMEX Dev Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by davidvkimball

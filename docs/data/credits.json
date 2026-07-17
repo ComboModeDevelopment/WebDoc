@@ -4,7 +4,7 @@
       "name": "Mario",
       "icon": "mario",
       "credits": [
-        "Animations: PMEX Dev Team",
+        "Animations: PMEX Dev Team, OurBoyFoxy",
         "PSA: OurBoyFoxy",
         "Cosmetics: Pose by davidvkimball, CSProject"
       ]
@@ -176,6 +176,142 @@
       "name": "Snake",
       "icon": "snake",
       "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Bowser",
+      "icon": "bowser",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Yoshi",
+      "icon": "yoshi",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Kirby",
+      "icon": "kirby",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Ness",
+      "icon": "ness",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Lucas",
+      "icon": "lucas",
+      "credits": [
+        "Model: Lucas 64 Model from P+ Dev Team",
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "icon": "squirtle",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Ivysaur",
+      "icon": "ivysaur",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Charizard",
+      "icon": "charizard",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Marth",
+      "icon": "marth",
+      "credits": [
+        "PSA: P+ Dev Team, OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Donkey Kong",
+      "icon": "donkey-kong",
+      "credits": [
+        "Animations: P+ Dev Team",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Ganondorf",
+      "icon": "ganondorf",
+      "credits": [
+        "Animations: P+ Dev Team",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Toon Link",
+      "icon": "toon-link",
+      "credits": [
+        "Animations: P+ Dev Team",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "R.O.B.",
+      "icon": "rob",
+      "credits": [
+        "Animations: P+ Dev Team",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Wario",
+      "icon": "wario",
+      "credits": [
+        "Animations: P+ Dev Team",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Sonic",
+      "icon": "sonic",
+      "credits": [
+        "Animations: P+ Dev Team",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball"
+      ]
+    },
+    {
+      "name": "Wolf",
+      "icon": "wolf",
+      "credits": [
+        "Animations: P+ Dev Team, PMEX Dev Team",
         "PSA: OurBoyFoxy",
         "Cosmetics: Pose by davidvkimball"
       ]
