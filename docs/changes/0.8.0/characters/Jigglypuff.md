@@ -1,0 +1,88 @@
+# Jigglypuff — 0.8.0
+
+## Changes
+
+### Jab / Tilts
+
+**Up Tilt**
+hitbox id0 size: 4 → 6
+kbg: 120 → 90
+bkb: 40 → 60
+
+**Down Tilt**
+given set kb
+trip rate: .35 → 1
+sped up 1.2x then 1.3x
+removed skb
+kbg: 30 → 50
+bkb: 15 → 35
+
+### Aerial Attacks
+
+**Forward Air**
+iasa: 37 → 33
+sped up 1.1x
+
+**Back Air**
+hitbox id0 z offset: 12 → 15
+damage: 12 → 16
+kbg: 90 → 100
+
+**Up Air**
+iasa: 37 → 29
+kbg: 100 → 70
+bkb: 30 → 45
+sped up 1.3x
+
+**Down Air**
+startup slowed .7x
+now has skb (5)
+aerial opponent angle: 30 → 270 → 365
+sdi multiplier: 1.2 → 1 → .5
+multihit sped up 1.2x
+iasa: 29 → 24
+multihits: 8 → 7 → 9
+
+### Smash Attacks
+
+**Forward Smash**
+sped up 1.2x then 1.3x
+iasa: 51 → 44
+
+**Up Smash**
+startup + move sped up 1.3x then 1.4x, endlag: .8x → 1.2x
+kbg: 100 → 120
+
+### Special Moves
+
+**Up B**
+hitboxes stay active the whole move
+sped up 1.2x
+
+**Side B**
+sped up 1.3x
+
+**Down B**
+hitbox size increased
+damage: 15 → 20
+angle: 88 → 90
+can be canceled after the first hitbox
+sped up 1.2x
+
+### Other
+
+**Dash Attack**
+sweetspot kbg: 100 → 120
+
+**Up Throw**
+bkb: 110 → 80
+
+### Character Parameters
+
+| Parameter | Change |
+|-----------|--------|
+| Short Hop Height | 1.12 → 1.2 |
+| Air Mobility | buffed heavily |
+| Jumpsquat | 5 → 4 |
+| Multijump | buffed |
+| Airdodge Cancel | can cancel airdodge into attacks |

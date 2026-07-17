@@ -1,0 +1,7 @@
+# Ven — 0.5.0
+
+*Ven joins the Combo Mode roster as an ice-based Roy variant.*
+
+## Changes
+
+*(No stat or move changes in this version — see version notes above.)*

@@ -1,8 +1,39 @@
 {
   "releases": [
     {
+      "version": "0.9.5",
+      "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        }
+      ]
+    },
+    {
+      "version": "0.8.0",
+      "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        }
+      ]
+    },
+    {
+      "version": "0.7.0",
+      "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        }
+      ]
+    },
+    {
       "version": "0.6.0",
       "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        },
         {
           "name": "Link",
           "file": "Link.md"
@@ -17,8 +48,30 @@
       "version": "0.5.0",
       "characters": [
         {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        },
+        {
           "name": "Mario",
           "file": "Mario.md"
+        }
+      ]
+    },
+    {
+      "version": "0.4.0",
+      "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
+        }
+      ]
+    },
+    {
+      "version": "0.3.0",
+      "characters": [
+        {
+          "name": "Bowser",
+          "file": "Bowser.md"
         }
       ]
     },
