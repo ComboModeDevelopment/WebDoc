@@ -203,7 +203,7 @@ Can cancel counter into attacks
 Can cancel side b up 3 into attacks
 Side b 1 has set knockback and can combo into some attacks
 
-Rob:
+R.O.B.:
 Side b reworked to be a multihit into a strong final hit
 Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
 

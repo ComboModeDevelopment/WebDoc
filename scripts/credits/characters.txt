@@ -232,13 +232,13 @@ Fox (Melee):
 
 Mewtwo:
 
-Pacman:
+Pac-man:
 Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
 
 Roy:
 Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
 
-Roy (Ultimate):
+Roy (Melee):
 Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
 
 Sephiroth:
