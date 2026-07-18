@@ -6,6 +6,287 @@
         {
           "name": "Bowser",
           "file": "Bowser.md"
+        },
+        {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Ike",
+          "file": "Ike.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede",
+          "file": "King Dedede.md"
+        },
+        {
+          "name": "King K. Rool",
+          "file": "King K. Rool.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Little Mac",
+          "file": "Little Mac.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Lucina",
+          "file": "Lucina.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mewtwo",
+          "file": "Mewtwo.md"
+        },
+        {
+          "name": "Mr. Game & Watch",
+          "file": "Mr. Game & Watch.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "Roy",
+          "file": "Roy.md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Shadow",
+          "file": "Shadow.md"
+        },
+        {
+          "name": "Sheik",
+          "file": "Sheik.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Ven",
+          "file": "Ven.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        }
+      ]
+    },
+    {
+      "version": "0.9.0",
+      "characters": [
+        {
+          "name": "Doctor Mario",
+          "file": "Doctor Mario.md"
+        },
+        {
+          "name": "Donkey Kong",
+          "file": "Donkey Kong.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Greninja",
+          "file": "Greninja.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "Kirby",
+          "file": "Kirby.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Little Mac",
+          "file": "Little Mac.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Lucina",
+          "file": "Lucina.md"
+        },
+        {
+          "name": "Luigi",
+          "file": "Luigi.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mewtwo",
+          "file": "Mewtwo.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Roy",
+          "file": "Roy.md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Shadow",
+          "file": "Shadow.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Ven",
+          "file": "Ven.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
+        },
+        {
+          "name": "Zero Suit Samus",
+          "file": "Zero Suit Samus.md"
         }
       ]
     },
@@ -15,6 +296,166 @@
         {
           "name": "Bowser",
           "file": "Bowser.md"
+        },
+        {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Charizard",
+          "file": "Charizard.md"
+        },
+        {
+          "name": "Doctor Mario",
+          "file": "Doctor Mario.md"
+        },
+        {
+          "name": "Donkey Kong",
+          "file": "Donkey Kong.md"
+        },
+        {
+          "name": "Falco",
+          "file": "Falco.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Ike",
+          "file": "Ike.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede",
+          "file": "King Dedede.md"
+        },
+        {
+          "name": "Kirby",
+          "file": "Kirby.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Little Mac",
+          "file": "Little Mac.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Lucas",
+          "file": "Lucas.md"
+        },
+        {
+          "name": "Luigi",
+          "file": "Luigi.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mewtwo",
+          "file": "Mewtwo.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Roy",
+          "file": "Roy.md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Sheik",
+          "file": "Sheik.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Ven",
+          "file": "Ven.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
+        },
+        {
+          "name": "Zero Suit Samus",
+          "file": "Zero Suit Samus.md"
         }
       ]
     },
@@ -24,6 +465,166 @@
         {
           "name": "Bowser",
           "file": "Bowser.md"
+        },
+        {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Charizard",
+          "file": "Charizard.md"
+        },
+        {
+          "name": "Doctor Mario",
+          "file": "Doctor Mario.md"
+        },
+        {
+          "name": "Donkey Kong",
+          "file": "Donkey Kong.md"
+        },
+        {
+          "name": "Falco",
+          "file": "Falco.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Ike",
+          "file": "Ike.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede",
+          "file": "King Dedede.md"
+        },
+        {
+          "name": "Kirby",
+          "file": "Kirby.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Little Mac",
+          "file": "Little Mac.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Lucas",
+          "file": "Lucas.md"
+        },
+        {
+          "name": "Luigi",
+          "file": "Luigi.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mewtwo",
+          "file": "Mewtwo.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Roy",
+          "file": "Roy.md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Sheik",
+          "file": "Sheik.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Ven",
+          "file": "Ven.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
+        },
+        {
+          "name": "Zero Suit Samus",
+          "file": "Zero Suit Samus.md"
         }
       ]
     },
@@ -35,12 +636,124 @@
           "file": "Bowser.md"
         },
         {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Doctor Mario",
+          "file": "Doctor Mario.md"
+        },
+        {
+          "name": "Falco",
+          "file": "Falco.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "Kirby",
+          "file": "Kirby.md"
+        },
+        {
           "name": "Link",
           "file": "Link.md"
         },
         {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
           "name": "Mario",
           "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mr. Game & Watch",
+          "file": "Mr. Game & Watch.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Roy",
+          "file": "Roy.md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Ven",
+          "file": "Ven.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
         }
       ]
     },
@@ -52,8 +765,124 @@
           "file": "Bowser.md"
         },
         {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Charizard",
+          "file": "Charizard.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Ike",
+          "file": "Ike.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Lucas",
+          "file": "Lucas.md"
+        },
+        {
+          "name": "Luigi",
+          "file": "Luigi.md"
+        },
+        {
           "name": "Mario",
           "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Roy",
+          "file": "Roy.md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Ven",
+          "file": "Ven.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
         }
       ]
     },
@@ -63,6 +892,110 @@
         {
           "name": "Bowser",
           "file": "Bowser.md"
+        },
+        {
+          "name": "Charizard",
+          "file": "Charizard.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede",
+          "file": "King Dedede.md"
+        },
+        {
+          "name": "Kirby",
+          "file": "Kirby.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Luigi",
+          "file": "Luigi.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Sheik",
+          "file": "Sheik.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
         }
       ]
     },
@@ -72,6 +1005,126 @@
         {
           "name": "Bowser",
           "file": "Bowser.md"
+        },
+        {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Charizard",
+          "file": "Charizard.md"
+        },
+        {
+          "name": "Donkey Kong",
+          "file": "Donkey Kong.md"
+        },
+        {
+          "name": "Falco",
+          "file": "Falco.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Ike",
+          "file": "Ike.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede",
+          "file": "King Dedede.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mr. Game & Watch",
+          "file": "Mr. Game & Watch.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
+        },
+        {
+          "name": "Zero Suit Samus",
+          "file": "Zero Suit Samus.md"
         }
       ]
     },
@@ -81,6 +1134,110 @@
         {
           "name": "Bowser",
           "file": "Bowser.md"
+        },
+        {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Charizard",
+          "file": "Charizard.md"
+        },
+        {
+          "name": "Diddy Kong",
+          "file": "Diddy Kong.md"
+        },
+        {
+          "name": "Falco",
+          "file": "Falco.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mr. Game & Watch",
+          "file": "Mr. Game & Watch.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
+        },
+        {
+          "name": "Zero Suit Samus",
+          "file": "Zero Suit Samus.md"
         }
       ]
     },
@@ -90,6 +1247,134 @@
         {
           "name": "Bowser",
           "file": "Bowser.md"
+        },
+        {
+          "name": "Captain Falcon",
+          "file": "Captain Falcon.md"
+        },
+        {
+          "name": "Charizard",
+          "file": "Charizard.md"
+        },
+        {
+          "name": "Diddy Kong",
+          "file": "Diddy Kong.md"
+        },
+        {
+          "name": "Donkey Kong",
+          "file": "Donkey Kong.md"
+        },
+        {
+          "name": "Falco",
+          "file": "Falco.md"
+        },
+        {
+          "name": "Fox",
+          "file": "Fox.md"
+        },
+        {
+          "name": "Ganondorf",
+          "file": "Ganondorf.md"
+        },
+        {
+          "name": "Ike",
+          "file": "Ike.md"
+        },
+        {
+          "name": "Ivysaur",
+          "file": "Ivysaur.md"
+        },
+        {
+          "name": "Jigglypuff",
+          "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede",
+          "file": "King Dedede.md"
+        },
+        {
+          "name": "Kirby",
+          "file": "Kirby.md"
+        },
+        {
+          "name": "Link",
+          "file": "Link.md"
+        },
+        {
+          "name": "Lucario",
+          "file": "Lucario.md"
+        },
+        {
+          "name": "Lucas",
+          "file": "Lucas.md"
+        },
+        {
+          "name": "Luigi",
+          "file": "Luigi.md"
+        },
+        {
+          "name": "Mario",
+          "file": "Mario.md"
+        },
+        {
+          "name": "Marth",
+          "file": "Marth.md"
+        },
+        {
+          "name": "Mr. Game & Watch",
+          "file": "Mr. Game & Watch.md"
+        },
+        {
+          "name": "Ness",
+          "file": "Ness.md"
+        },
+        {
+          "name": "Pit",
+          "file": "Pit.md"
+        },
+        {
+          "name": "R.O.B.",
+          "file": "R.O.B..md"
+        },
+        {
+          "name": "Samus",
+          "file": "Samus.md"
+        },
+        {
+          "name": "Sephiroth",
+          "file": "Sephiroth.md"
+        },
+        {
+          "name": "Sheik",
+          "file": "Sheik.md"
+        },
+        {
+          "name": "Snake",
+          "file": "Snake.md"
+        },
+        {
+          "name": "Sonic",
+          "file": "Sonic.md"
+        },
+        {
+          "name": "Squirtle",
+          "file": "Squirtle.md"
+        },
+        {
+          "name": "Wolf",
+          "file": "Wolf.md"
+        },
+        {
+          "name": "Yoshi",
+          "file": "Yoshi.md"
+        },
+        {
+          "name": "Zelda",
+          "file": "Zelda.md"
+        },
+        {
+          "name": "Zero Suit Samus",
+          "file": "Zero Suit Samus.md"
         }
       ]
     }
