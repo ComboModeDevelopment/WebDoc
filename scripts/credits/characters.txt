@@ -1,19 +1,6 @@
-# Character credits. One block per character: a name line ending in ":",
-# then one credit line per line. Lines starting with "#" are ignored.
-# The name becomes the icon slug too (e.g. "Fox (Melee):" -> fox-melee.png in
-# images/characters/). Delete these comments and the example when you add real
-# entries.
-#
-# Example:
-# Mario:
-# Model: SomeArtist
-# Animations: AnotherPerson
-# Ported by: ThirdPerson
-
 Mario:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball, CSProject
 
 Dr. Mario:
 Model: P+ Dev Team (PMDT, cleanup by SJ and Zenthos), Purple alt by DJPVSTV
@@ -22,72 +9,62 @@ Animations: P+ Dev Team (Mario)
 Cosmetics: Pose by davidvkimball, model polish by tryptech, Zenthos, and MarioDox. Rendering by DJPVSTV
 
 Falco:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball, CSProject
 
 Sheik:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
 
 Samus:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Zero Suit Samus:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Pit:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Ike:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Captain Falcon:
-Animations: PMEX Dev Team, OurBoyFoxy
+Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Luigi:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Diddy Kong:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Fox:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Link:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Zelda:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
 
 Meta Knight:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 King Dedede:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+Shogun Model: Shogun Dedede by The Project+ Art team, SJ, Layell, and Motobug, credit to PMDT
+Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
 
 Peach:
 PSA: OurBoyFoxy
 Model: [Shadow Peach Remake](https://gamebanana.com/mods/546395) (Sate, Original Authors: PMDT, tyleto, Layell)
-Cosmetics: Pose by davidvkimball, Renders by DJPVSTV
+Cosmetics: Pose by davidvkimball, model polish by tryptech, Renders by DJPVSTV
 
 Pikachu:
 Model: [Smash 2](https://gamebanana.com/mods/336188) (Efisio, Aeon) 
@@ -96,84 +73,185 @@ Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
 
 Jigglypuff:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Mr. Game & Watch:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Snake:
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Bowser:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
 
 Yoshi:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
 
 Kirby:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
 
 Ness:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
 
 Lucas:
-Model: Lucas 64 Model from P+ Dev Team
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+Commander Model: Updated Commander Lucas by SJ, credit to PMDT
+EB64 Model: EB64 Lucas by SJ, Xenthos, and tyle, credit to SubZero2, AlGeorgeRomo and the Smash 2 Team
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
+Cosmetics: Pose by davidvkimball, model polish by tryptech, Spigel, SJS, and Layell, rendered by CSProject Backroom and Layell
 
 Squirtle:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
+Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
 
 Ivysaur:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
+Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
 
 Charizard:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
+Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
 
 Marth:
-PSA: P+ Dev Team, OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
 
 Donkey Kong:
-Animations: P+ Dev Team
+Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ)
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Ganondorf:
-Animations: P+ Dev Team
+Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ)
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Toon Link:
-Animations: P+ Dev Team
+Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ)
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 R.O.B.:
-Animations: P+ Dev Team
+Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ)
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Wario:
-Animations: P+ Dev Team
+Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ)
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Sonic:
-Animations: P+ Dev Team
+Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ)
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
 
 Wolf:
-Animations: P+ Dev Team, PMEX Dev Team
+Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe)
 PSA: OurBoyFoxy
-Cosmetics: Pose by davidvkimball
+
+Cloud:
+Import: afshin, thd, caliburtek, bravedragonwolf, VirtualBeef
+Potential Other Work Effort: REX Development Team
+PSA: ????, and OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Daisy:
+Potential Other Work Effort: REX Development Team
+PSA: ????, and OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Dark Samus:
+
+King Dedede (Ultimate):
+Undetermined Work Effort: MarioDox
+Potential Other Work Effort: REX Development Team
+PSA: ????, and OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Mage Ganondorf:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Ganon:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Geno:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Giga Bowser:
+
+Goemon:
+Director, Sound Rips, Moveset Conceptualization and Writeup, Additional Recolor Concepts, 64 texture rips (for refs + 64 alt), Animation Supervising: Yahtzeh
+Coding, animating, yo-yo saw model, audio adjustments, creative moveset rewrites, and overall putting everything together: Nick https://gamebanana.com/members/1636455
+Initial model setup, UV edits, expressions and model edits, including chain pipe edits: Sylv https://gamebanana.com/members/1636132
+Bazooka Model, Ryo, Chains (and blue thingy on chain-pipe), Sudden Impact hair polish, and facial fx (blush, etc): SadPotato https://gamebanana.com/members/2029730
+Brawlifying textures, Firecracker Bomb model, and Backthrow edit: SirGimmick https://gamebanana.com/members/2442899
+Original Face Model: Pik https://gamebanana.com/members/1521238
+Special Charge GFX, eye mats, and Screen Filter on the upper left Final Smash monitor: GrandAzel https://gamebanana.com/members/2373196
+Side Special and Up Special related coding: KingJigglyPuff https://gamebanana.com/members/1473319
+Initial recolor concepts, FS eyes, and texturing haniwas + haniwa horsey: Moe Cornick https://gamebanana.com/members/1717365
+Texture Edits: Nezha https://gamebanana.com/members/1668349
+Re-uving Hair: MarioDox https://gamebanana.com/members/1397397
+Solid Snake Secret Model: Chuckles https://gamebanana.com/members/1336319
+Sudden Impact Hair, old Horsie model, and old Haniwa model: Shaolinsnake
+Ghost Drawing: Rolostunning
+Recolors and Recolor Edits: Ale64. Made the Slingshot Goemon, Saturated Goemon, and Mr. Goemon recolors. https://gamebanana.com/members/1624907
+PSA work and balancing, namely the original incarnation of up special and it's turn around: Xerneis https://gamebanana.com/members/3166965
+PSA work, sound work, recolor assistance, and the initial renders: SoN1c2001/Burrotis Man https://gamebanana.com/members/1611275
+Modeling Haniwas and Haniwa Horsey: JKLanky https://gamebanana.com/members/2445057
+Final Smash: Huge huge HUGE thanks to FireStarMarthy (And small CPU edits) https://gamebanana.com/members/3303553
+Impact-related Models: HeronNobody https://www.models-resource.com/submitter/HeronNobody/
+Impact SFX: Klorfmorf
+Snake Model: Chucklez (https://gamebanana.com/members/1336319)
+Inspiration: Smash Remix 64 team
+NOTE: Any edits/redistributions to this PSA MUST credit the individuals above.
+PSA: OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Greninja:
+
+Incineroar:
+Potential Other Work Effort: REX Development Team
+PSA: ????, and OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Isabelle:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Knuckles:
+
+King K Rool:
+
+Kumatora:
+Work Effort: Alm, Redips, wjdefender, MarioDox, Ice Frog (VA), MonteRicard
+Potential Other Work Effort: REX Development Team
+PSA: OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Lucario (Brawl):
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Lucina:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Little Mac:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Fox (Melee):
+
+Mewtwo:
+
+Pacman:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Roy:
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Roy (Ultimate):
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Sephiroth:
+
+Shadow:
+
+Snake (P+):
+
+Sub Zero:
+
+Ven:
+
+Wolf (Ultimate):
+Potential Other Work Effort: REX Development Team
+PSA: ????, and OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
