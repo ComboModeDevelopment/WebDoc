@@ -131,7 +131,7 @@
       "name": "Peach",
       "icon": "peach",
       "credits": [
-        "PSA: OurBoyFoxy",
+        "PSA: OurBoyFoxy, Maye",
         "Model: [Shadow Peach Remake](https://gamebanana.com/mods/546395) (Sate, Original Authors: PMDT, tyleto, Layell)",
         "Cosmetics: Pose by davidvkimball, model polish by tryptech, Renders by DJPVSTV"
       ]
@@ -240,7 +240,7 @@
       "icon": "donkey-kong",
       "credits": [
         "Animations: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ)",
-        "PSA: OurBoyFoxy"
+        "PSA: OurBoyFoxy, Maye"
       ]
     },
     {
@@ -305,6 +305,7 @@
       "name": "Daisy",
       "icon": "daisy",
       "credits": [
+        "Import: Placebo, SJS, Notshane, QuickLava",
         "Potential Other Work Effort: REX Development Team",
         "PSA: ????, and OurBoyFoxy",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
@@ -313,12 +314,18 @@
     {
       "name": "Dark Samus",
       "icon": "dark-samus",
-      "credits": []
+      "credits": [
+        "Import: Nanobuds, Ryztiq, russmar, Theytah",
+        "Potential Other Work Effort: REX Development Team",
+        "PSA: ????, and OurBoyFoxy",
+        "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
+      ]
     },
     {
       "name": "King Dedede (Ultimate)",
       "icon": "king-dedede-ultimate",
       "credits": [
+        "Model: JoeTE (https://brawlm.art/mod/202721/_koPpJoVPw_6uIJb)",
         "Undetermined Work Effort: MarioDox",
         "Potential Other Work Effort: REX Development Team",
         "PSA: ????, and OurBoyFoxy",
@@ -329,6 +336,10 @@
       "name": "Mage Ganondorf",
       "icon": "mage-ganondorf",
       "credits": [
+        "OoT Model: Project Ganondorf (bronzegreekgod, https://smashprojectganondorf.blogspot.com/)",
+        "Phantom Ganon Model: HowDolSpaceJam, PMDT, JoeTE, StupidMarioFan1, Mewtwo2000 (https://brawlm.art/mod/207708/QAuHmWHDZdjHmN5z)",
+        "Potential Other Work Effort: REX Development Team",
+        "PSA: ????, and OurBoyFoxy",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
@@ -336,6 +347,19 @@
       "name": "Ganon",
       "icon": "ganon",
       "credits": [
+        "Model: Corshmell, Nanobuds, Large Leader, KingJigglyPuff, PyotryLuzhin, Jiang (https://brawlm.art/mod/212330/ZCeWbY7NYLcuqGkc)",
+        "Trident: Squidgy (https://gamebanana.com/mods/549089)",
+        "PSA: Squidgy, PhantomWings, KeroMonkey, Mortimer, OurBoyFoxy (https://gamebanana.com/mods/490270)",
+        "Project Ganondorf Team: bronzegreekgod",
+        "Hex/GCT Coding: PyotrLuzhin",
+        "BrawlEx Implementation: BringoBrongo",
+        "SFX: AmaZeroMmu",
+        "Sound Editor: SHane Lee Shin",
+        "Animation: Nao-Chain",
+        "Original Sword Ganon Moveset: Ashingda",
+        "Bone Fixes: Snoopy, Leon Exodio",
+        "Coding and Animation: drogoth232",
+        "Troubleshooting and Support: KingJigglyPuff",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
@@ -343,13 +367,18 @@
       "name": "Geno",
       "icon": "geno",
       "credits": [
+        "Model: LavaLatte, .Fade, DoctorFlux, SouthCraft, TheGag96 (https://brawlm.art/mod/214782/75JRYVBcQTh9UT4S)",
+        "PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
     {
       "name": "Giga Bowser",
       "icon": "giga-bowser",
-      "credits": []
+      "credits": [
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom"
+      ]
     },
     {
       "name": "Goemon",
@@ -386,7 +415,11 @@
     {
       "name": "Greninja",
       "icon": "greninja",
-      "credits": []
+      "credits": [
+        "Model: Demon_of_Elru",
+        "PSA: Montimers, OurBoyFoxy",
+        "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
+      ]
     },
     {
       "name": "Incineroar",
@@ -401,18 +434,30 @@
       "name": "Isabelle",
       "icon": "isabelle",
       "credits": [
-        "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
+        "Model: Jaysring (https://brawlm.art/mod/211061/1Br2oYYCyCPNBbR_)",
+        "New Horizons Model: SansClassic (https://brawlm.art/mod/218972/BdsVkT_e00c5JKjk)",
+        "Potential Other Work Effort: REX Development Team",
+        "PSA: ????, and OurBoyFoxy",
+        "Cosmetics: RedipsTheCooler, CSProject, VirtualBeef, kantoskies (https://brawlm.art/mod/220944/dscr5AkZM5kwxXQD)"
       ]
     },
     {
       "name": "Knuckles",
       "icon": "knuckles",
-      "credits": []
+      "credits": [
+        "PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy",
+        "Costumes: Nanobuds, ghost_user47, ART+, Mach7, Tock, Ishmael205, Spex120, Eternal_Yoshi, The RealHeroOfWinds, DukeItOut, Motobug, bringobongo, Chuckles, HeroTechne, SJ, tryptech, Xenthos, tyle, sunsette",
+        "Model Optimizations: Layell",
+        "Cosmetics: Pose done by Mach 7, based on the pose made by the PMDT"
+      ]
     },
     {
       "name": "King K Rool",
       "icon": "king-k-rool",
-      "credits": []
+      "credits": [
+        "PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy",
+        "Cosmetics: SoN1c2001, MonteRicard, Rocky38, StefBoyardee (https://brawlm.art/mod/221499/oyqwEjJYbiNOdR98)"
+      ]
     },
     {
       "name": "Kumatora",
@@ -428,13 +473,17 @@
       "name": "Lucario (Brawl)",
       "icon": "lucario-brawl",
       "credits": [
-        "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
+        "Model: KingJigglyPuff, Nanobuds, StarWaffle, Cynapse, TheRaelHeroOfWinds, tryptech (https://brawlm.art/mod/214388/khZZR6k0Ftq3NtdA)",
+        "PSA: OurBoyFoxy",
+        "Cosmetics: Hulkalex (https://www.mediafire.com/file/7zq34l6r2gh1rfu/Mega_Lucario_CSProject.zip/file)"
       ]
     },
     {
       "name": "Lucina",
       "icon": "lucina",
       "credits": [
+        "Model: jaystring (https://brawlm.art/mod/209076/aToHtLC67abao3vx)",
+        "PSA: OurBoyFoxy",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
@@ -442,23 +491,38 @@
       "name": "Little Mac",
       "icon": "little-mac",
       "credits": [
+        "Model: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe)",
+        "PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy",
+        "Hajime no Ippo Model: Sodapal",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
     {
       "name": "Fox (Melee)",
       "icon": "fox-melee",
-      "credits": []
+      "credits": [
+        "Model: PM Dev Taem, Snoe, Layell, Moe, Nick",
+        "PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy",
+        "Cosmetics: Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom"
+      ]
     },
     {
       "name": "Mewtwo",
       "icon": "mewtwo",
-      "credits": []
+      "credits": [
+        "Model: KingJigglyPuff",
+        "PSA: PM Dev Team, KingJigglyPuff, OurBoyFoxy",
+        "Cosmetics: PM Dev Team, Brawl Minus Team, Shranux, Nanobuds, Ryztiq, Moe, LnktheWolf, thecoolguy27, Al George Romo, Smash 2 team, CSProject (https://brawlm.art/mod/218024/H2pXVim0BHiqUuVx)"
+      ]
     },
     {
       "name": "Pac-man",
       "icon": "pac-man",
       "credits": [
+        "Model: KingBob",
+        "Modern Shoes Model: Jory Satana",
+        "Potential Other Work Effort: REX Development Team",
+        "PSA: OurBoyFoxy",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
@@ -466,6 +530,8 @@
       "name": "Roy",
       "icon": "roy",
       "credits": [
+        "Model: Walk, Lillith, Jaystring (https://brawlm.art/mod/218091/SjwqXGzUw2QOn_TQ)",
+        "PSA: REX Development Team, P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
@@ -473,44 +539,140 @@
       "name": "Roy (Melee)",
       "icon": "roy-melee",
       "credits": [
+        "Model: Smash 2 Dev Team (MaliciousBugMan, Rizzy, KTH, Nibroc.Rock)",
+        "PSA: coolguy, ZaTaisho, CaliburTek, KingJigglyPuff, Mikey, MKHT, Codes, bringobrongo OurBoyFoxy",
+        "Animation: coolguy, Firelis, AnothenBlue, MKHT, bringobrongo, ishmael205",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     },
     {
       "name": "Sephiroth",
       "icon": "sephiroth",
-      "credits": []
+      "credits": [
+        "Model: Atma, RedipsTheCooler, Atma, RedipsTheCooler, zrksyd, iOZ_MintyFresh, Crim~, JoeTE",
+        "PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy",
+        "Cosmetics: SoN1c2001 (https://brawlm.art/mod/221037/Y8GgLXxwBuc60_28)"
+      ]
     },
     {
       "name": "Shadow",
       "icon": "shadow",
-      "credits": []
+      "credits": [
+        "Model: Xaturati0n, tyleto, BullockDS, Ryztiq, Firelis (https://brawlm.art/mod/219935/7S9IC9E8BGszuCRH)",
+        "PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy",
+        "Cosmetics: SoN1c2001 (https://gamebanana.com/mods/522945)"
+      ]
     },
     {
       "name": "Snake (P+)",
       "icon": "snake-p",
-      "credits": []
+      "credits": [
+        "Model: PM Development Team",
+        "Tuxedo Model: Jaystring",
+        "PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy",
+        "Cosmetics: VirtualBeef, the CSProject Backroom,  (https://brawlm.art/mod/220499/i8u4Vvfs4lD_IPOs)"
+      ]
     },
     {
       "name": "Sub Zero",
       "icon": "sub-zero",
-      "credits": []
+      "credits": [
+        "Model: PMEX Dev Team?",
+        "PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy",
+        "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
+      ]
     },
     {
       "name": "Ven",
       "icon": "ven",
-      "credits": []
+      "credits": [
+        "Model: Smash 2 Dev Team (MaliciousBugMan, Rizzy, KTH, Nibroc.Rock)",
+        "PSA: REX Development Team, P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy",
+        "Voice: Dac Mayro",
+        "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
+      ]
     },
     {
       "name": "Wolf (Ultimate)",
       "icon": "wolf-ultimate",
       "credits": [
+        "Model: Enderseep12345 (https://brawlm.art/mod/218293/Kgx7TQlsTwLv-krB)",
         "Potential Other Work Effort: REX Development Team",
         "PSA: ????, and OurBoyFoxy",
         "Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV"
       ]
     }
   ],
-  "stages": [],
+  "stages": [
+    {
+      "name": "Battlefield",
+      "icon": "battlefield",
+      "credits": [],
+      "tracklist": {
+        "note": "Compiled by OurBoyFoxy",
+        "tracks": [
+          "God Only Knows - A-OneMEMODEMO - Weekend Anyarchist",
+          "Nico's Nextbots Menu Theme",
+          "ryunomai",
+          "Move Me - Ryu Remix"
+        ]
+      }
+    },
+    {
+      "name": "Battlefield (L)",
+      "icon": "battlefield",
+      "credits": [
+        "Stage: (https://brawlm.art/mod/22859/kwSRjfYKlt_nDb0a)"
+      ],
+      "alt": "L",
+      "displayName": "Melee Battlefield",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Menu (Super Smash Bros. Melee)",
+          "Battlefield (Melee)",
+          "Multi-Man Melee 1 (Melee)",
+          "Break The Targets! [Remix]",
+          "Metal Battle (Melee)",
+          "Multi-Man Melee 2"
+        ]
+      }
+    },
+    {
+      "name": "Battlefield (Z)",
+      "icon": "battlefield",
+      "credits": [],
+      "alt": "Z",
+      "displayName": "Big Battlefield",
+      "tracklist": {
+        "note": "Compiled by OurBoyFoxy",
+        "tracks": [
+          "God Only Knows - A-OneMEMODEMO - Weekend Anyarchist",
+          "Nico's Nextbots Menu Theme",
+          "ryunomai",
+          "Move Me - Ryu Remix"
+        ]
+      }
+    },
+    {
+      "name": "Battlefield (R)",
+      "icon": "battlefield",
+      "credits": [],
+      "alt": "R",
+      "displayName": "64 Duel Zone",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Giga Bowser",
+          "Board The Platforms!",
+          "Final Destination (64)",
+          "Metal Cavern (64)",
+          "Duel Zone (Remix)",
+          "Duel Zone",
+          "Vs. Master Hand (Remix)"
+        ]
+      }
+    }
+  ],
   "other": []
 }

@@ -63,6 +63,9 @@
     text = text.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, function (_m, t, u) {
       return '<a href="' + escHtml(safeUrl(u)) + '" target="_blank" rel="noopener">' + t + "</a>";
     });
+    text = text.replace(/https?:\/\/[^\s<>")\]]+/g, function (url) {
+      return '<a href="' + escHtml(safeUrl(url)) + '" target="_blank" rel="noopener">' + url + "</a>";
+    });
     text = text.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
     text = text.replace(/__([^_]+)__/g, "<strong>$1</strong>");
     text = text.replace(/(^|[^*])\*([^*\n]+)\*/g, "$1<em>$2</em>");
@@ -283,7 +286,7 @@
   // Shared renderer: a grid of clickable icon tiles. Each entry needs a `name`
   // and optionally an `icon` slug; a missing icon image falls back to a text
   // tile. `onClick` receives the entry. Used by both quirks and credits.
-  function renderIconGrid(container, entries, iconBase, onClick, emptyMsg) {
+  function renderIconGrid(container, entries, iconBase, onClick, emptyMsg, altBase) {
     if (!entries || entries.length === 0) {
       container.className = "";
       container.innerHTML = '<p class="loading">' + esc(emptyMsg || "Nothing here yet.") + "</p>";
@@ -306,11 +309,26 @@
       img.addEventListener("error", function () { img.remove(); });
       img.src = base + "/" + encodeURIComponent(entry.icon || slugify(entry.name)) + ".png";
 
+      if (altBase) {
+        var wrap = document.createElement("div");
+        wrap.className = "icon-img-wrap";
+        wrap.appendChild(img);
+        if (entry.alt) {
+          var badge = document.createElement("img");
+          badge.className = "icon-alt-badge";
+          badge.src = altBase + "/" + entry.alt.toLowerCase() + ".png";
+          badge.alt = entry.alt + " alt";
+          wrap.appendChild(badge);
+        }
+        tile.appendChild(wrap);
+      } else {
+        tile.appendChild(img);
+      }
+
       var label = document.createElement("span");
       label.className = "icon-label";
-      label.textContent = entry.name;
+      label.textContent = entry.displayName || entry.name;
 
-      tile.appendChild(img);
       tile.appendChild(label);
       tile.addEventListener("click", function () { onClick(entry); });
       container.appendChild(tile);
@@ -376,7 +394,7 @@
   // Which categories to render, their container id, and default icon folder.
   var CREDITS_GROUPS = [
     { key: "characters", el: "credits-characters", base: "images/characters" },
-    { key: "stages", el: "credits-stages", base: "images/stages" },
+    { key: "stages", el: "credits-stages", base: "images/stages", altBase: "images/alts" },
     { key: "other", el: "credits-other", base: "images/other" }
   ];
 
@@ -386,10 +404,19 @@
     var items = (entry.credits || []).map(function (c) {
       return "<li>" + inlineMd(escHtml(c)) + "</li>";
     }).join("");
-    var body = items
-      ? "<ul>" + items + "</ul>"
-      : '<p class="loading">No credit details listed yet.</p>';
-    openModal(entry.name, body);
+    var body = items ? "<ul>" + items + "</ul>" : "";
+
+    if (entry.tracklist) {
+      var tl = entry.tracklist;
+      var tlHeader = "<p><strong>Tracklist" + (tl.note ? ": " + escHtml(tl.note) : "") + "</strong></p>";
+      var tracks = (tl.tracks || []).map(function (t) {
+        return "<li>" + inlineMd(escHtml(t)) + "</li>";
+      }).join("");
+      body += tlHeader + (tracks ? "<ul>" + tracks + "</ul>" : "");
+    }
+
+    if (!body) body = '<p class="loading">No credit details listed yet.</p>';
+    openModal(entry.displayName || entry.name, body);
   }
 
   function loadCreditsSection() {
@@ -402,7 +429,7 @@
       .then(function (data) {
         CREDITS_GROUPS.forEach(function (g) {
           renderIconGrid(el(g.el), data[g.key], creditsIconBases[g.key] || g.base,
-            openCreditModal, "Nothing here yet.");
+            openCreditModal, "Nothing here yet.", g.altBase);
         });
       })
       .catch(function (err) {

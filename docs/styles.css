@@ -255,6 +255,27 @@ td ul { margin: 0; padding-left: 18px; }
   object-fit: contain;
 }
 
+.icon-img-wrap {
+  position: relative;
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+}
+
+.icon-img-wrap .icon-img {
+  width: 56px;
+  height: 56px;
+}
+
+.icon-alt-badge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
 .icon-label {
   font-size: 13px;
   line-height: 1.2;

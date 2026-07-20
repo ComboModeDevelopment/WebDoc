@@ -377,8 +377,8 @@
           ]
         },
         {
-          "name": "Melee Roy",
-          "icon": "melee-roy",
+          "name": "Roy (Melee)",
+          "icon": "roy-melee",
           "quirks": [
             "No glaring quirks, just has new moves, utility, and animations like most other characters"
           ]

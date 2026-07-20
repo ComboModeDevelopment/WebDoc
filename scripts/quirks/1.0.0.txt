@@ -194,7 +194,7 @@ Aerial side be can be double jumped out of and has no landing lag
 Roy:
 No glaring quirks, just has new moves, utility, and animations like most other characters
 
-Melee Roy:
+Roy (Melee):
 No glaring quirks, just has new moves, utility, and animations like most other characters
 
 Ven:

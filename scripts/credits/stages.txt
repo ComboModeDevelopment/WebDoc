@@ -6,3 +6,40 @@
 # Final Destination:
 # Model: SomeArtist
 # Imported by: AnotherPerson
+
+Battlefield:
+Tracklist: Compiled by OurBoyFoxy
+God Only Knows - A-OneMEMODEMO - Weekend Anyarchist
+Nico's Nextbots Menu Theme
+ryunomai
+Move Me - Ryu Remix
+
+Battlefield (L):
+Display: Melee Battlefield
+Stage: (https://brawlm.art/mod/22859/kwSRjfYKlt_nDb0a)
+Tracklist: Compiled by DJ PVSTV
+Menu (Super Smash Bros. Melee)
+Battlefield (Melee)
+Multi-Man Melee 1 (Melee)
+Break The Targets! [Remix]
+Metal Battle (Melee)
+Multi-Man Melee 2
+
+Battlefield (Z):
+Display: Big Battlefield
+Tracklist: Compiled by OurBoyFoxy
+God Only Knows - A-OneMEMODEMO - Weekend Anyarchist
+Nico's Nextbots Menu Theme
+ryunomai
+Move Me - Ryu Remix
+
+Battlefield (R):
+Display: 64 Duel Zone
+Tracklist: Compiled by DJ PVSTV
+Giga Bowser
+Board The Platforms!
+Final Destination (64)
+Metal Cavern (64)
+Duel Zone (Remix)
+Duel Zone
+Vs. Master Hand (Remix)

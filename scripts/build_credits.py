@@ -34,6 +34,9 @@ OUT = os.path.join(REPO_ROOT, "docs", "data", "credits.json")
 CATEGORIES = ["characters", "stages", "other"]
 
 
+ALT_RE = re.compile(r"\s*\(([LRZ])\)\s*$", re.IGNORECASE)
+
+
 def slugify(name):
     """Name -> icon filename stem, e.g. 'Final Destination' -> 'final-destination'."""
     s = re.sub(r"[()]", "", name.lower())
@@ -51,10 +54,27 @@ def parse_file(path):
                 continue
             if line.endswith(":"):
                 name = line[:-1].strip()
-                current = {"name": name, "icon": slugify(name), "credits": []}
+                alt_match = ALT_RE.search(name)
+                if alt_match:
+                    alt = alt_match.group(1).upper()
+                    icon_name = name[:alt_match.start()].strip()
+                else:
+                    alt = None
+                    icon_name = name
+                current = {"name": name, "icon": slugify(icon_name), "credits": []}
+                if alt:
+                    current["alt"] = alt
                 entries.append(current)
             elif current is not None:
-                current["credits"].append(line)
+                if line.startswith("Display:"):
+                    current["displayName"] = line[len("Display:"):].strip()
+                elif line.startswith("Tracklist:"):
+                    note = line[len("Tracklist:"):].strip()
+                    current["tracklist"] = {"note": note, "tracks": []}
+                elif "tracklist" in current:
+                    current["tracklist"]["tracks"].append(line)
+                else:
+                    current["credits"].append(line)
     return entries
 
 
