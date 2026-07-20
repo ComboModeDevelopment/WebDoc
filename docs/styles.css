@@ -271,8 +271,8 @@ td ul { margin: 0; padding-left: 18px; }
   position: absolute;
   top: 0;
   left: 0;
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
   object-fit: contain;
 }
 
