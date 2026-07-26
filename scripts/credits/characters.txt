@@ -81,7 +81,7 @@ Snake:
 PSA: OurBoyFoxy
 
 Bowser:
-PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy, Maye
 
 Yoshi:
 PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
