@@ -129,6 +129,42 @@ Spiral Mountain
 Test-o-Track
 Treasure Trove Cove
 
+Edo Town:
+Stage: Oedo Town (SoN1c2001, NickirixXT, StefBoyardee, Yahtzeh, Nezha, SirGimmick, vista_the_bunny, ShaolinSnake96, GRAND AZEL) https://gamebanana.com/mods/522538
+Tracklist: Compiled by DJ PVSTV
+A Pink Flower for Your Tbi (Yamato)
+At Ryugu, Daily Life on Turtle Back
+Burning My Soul
+Cloud Stronghold
+Diamond Head (Road to the Flying Castle)
+Ebisu in Osaka
+Edo Castle (Karakuri Dochuu Theme)
+Ganbare Goemon 2 Retro Medley
+Ganbare Goemon Boss Medley
+Goe Goe Spark (GaMetal Remix)
+Goe Goe Spark (Original)
+Groan! Rampage of the Wind
+Headquarters of the Otafu Army
+Heartbreak Corlin + I Am Impact! (Remix by DjtheSdotcom)
+I Am Impact!
+Iga Ninja Mansion
+Kappa Traveling in Roaming Road
+King Ryukyu's Secret
+Odeo Town (OC ReMix by Palpable)
+Planet Aquan
+Re-Seeing!
+Running Through the Pine Corridor
+Sanshirou
+Shikoku, Toukai, Chuubu + Karaburi Castle
+Smile Again
+Sogen Street
+Summer Vacation' Return (Ryukyu Resort)
+Sunset - Want You
+Taking Care of the Horses
+Theme of Ganbare Goemon
+Theme of Goemon Impact
+Wordly Town
+
 Edo Town (Z):
 Display: Up and Down
 Stage: Up and Down (Miokai, Peardian) https://gamebanana.com/mods/421846
@@ -153,6 +189,26 @@ Battle 4 (Super Bomberman 2) [ALMRemix]
 Vs Bagular
 With us in the flower garden (Saturn Bomberman Fight!!)
 Zip
+
+Edo Town (R):
+Display: Artisan's Hub
+Stage: Artisan's Hub (MG64, Insomniac, Nezha) https://gamebanana.com/mods/576730
+Tracklist: Compiled by DJ PVSTV
+Autumn Plains (Spyro 2)
+Charmed Ridge (Spyro 3)
+Cliff Town (Spryo)
+Dark Hollow (Spyro)
+Glimmer (Spyro 2)
+Gnasty's Loot (Spyro)
+Gnorc Cove (Spyro)
+Home (Spyro)
+Icy Peak (Spyro 3)
+Molten Crater (Spyro 3)
+Rypto's Arena (Spyro 2)
+Sunny Beach (Spyro 2)
+Super Bonus Round (Spyro 3)
+Winter Tundra (Spyro 2)
+Wizard Peak (Spyro 3)
 
 Bugaria:
 Stage: Bugaria Outskirts (Fruiter, WTails358, Moonsprout Games, theycallme, Boilingpot, Luigi_Maxwell) https://brawlm.art/mod/300011/b-RT4KkmWQ9MM71z
@@ -184,6 +240,17 @@ Castle / Fortress Boss (SMW / SMB3)
 Airship Theme (Super Mario Bros. 3)
 Battle with Bowser (Super Mario All-Stars)
 
+Bugaria (R):
+Display: Kremkrok Industries
+Stage: From REX (https://rexbuild.site)
+Tracklist: Compiled by DJ PVSTV
+Fear Factory
+Nuts and Bolts
+K. Rool's Acid Punk
+Gang-Plank Galleon
+Flight of the Zinger
+Lockjaw's Saga
+
 Yoshi's Island (Z):
 Display: Yoshi's Cookie Land
 Stage: Yoshi's Cookie / Cookie Land (MarioDox, Wildgoosespeeder, Tails777) https://gamebanana.com/mods/149189
@@ -193,6 +260,32 @@ Let's Bake!
 World Map (Yoshi's Cookie)
 Type A (Yoshi Cookie)
 Floating Castle
+
+The Pit:
+Stage: The Pit (CaliKingz01) https://brawlm.art/mod/203372/vN5fcuZCqsofzcOx
+Tracklist: Compiled by DJ PVSTV
+Armory (MK9)
+Armaggedon Hell (MK)
+Armory Genesis (MK2)
+Armory Theme (MK2)
+Artifacts - Paul Unfaces
+Character Select (Deadly Alliance)
+DeadPool Theme (MK3)
+DeadPool Theme (MK2)
+Deception Slaugter House Theme (MK)
+Living Forest Theme (MK2)
+Living Forest Theme (MK3)
+Living Forest Theme (MK9)
+Rain (MK4)
+Reptile's Theme (Skrillex)
+The Cave Theme (MK3)
+The Tower Theme (MK3)
+The Well (MK4)
+Unknown (1)
+Unknown (2)
+Unknown (3)
+Wasteland Theme (MK2)
+Wasteland Theme (MK9)
 
 The Pit (L):
 Display: Budokai Tenkaichi
@@ -216,3 +309,206 @@ Theme of Goku
 Ultimate Battle
 West City
 World Tournament Arena
+
+Pokemon Stadium 3:
+Stage: Pokemon Stadium 3 (NNEBF, _Silent_, DJ PVSTV) https://gamebanana.com/mods/430679
+Tracklist: Compiled by DJ PVSTV
+Advance Adventure (Orchestra & Guitar Arrangement)
+Battle Mode Theme 1
+Battle Mode Theme 2
+Burning Battlefield
+Burring Battlefield_b
+Colosseum Theme 1
+Dialga's Fight to the Finish
+First BattleGateway Colosseum
+Gotta Catch'em All (Mewtwo Strikes Back)
+Gym (Hoenn)
+Gym Theme II (Kanto)
+Ho-Oh Battle [Enhanced Remix] (HGSS)
+I Don't Want to Say Goodbye
+Miror B.'s Retro Groove
+MissingNo. Battle!
+National Park (HGSS)
+Normal Battle
+OK! (Orchestra & Guitar Arrangement)
+Palkia & Dialga Origin Form Battle (PLA)
+Pokemon Wielder Volo Battle (PLA)
+Ranger Wild Battle Medley
+Run Away (Drum & Bass) [Mystery Dungeon] Enndasche Remix
+Trainer Battle (PLA)
+Warden Galaxy Team Battle (PLA)
+Welcom To The World of Pokemon!
+Wild Pokemon Battle (Hoenn)
+Wild Pokemon Battle (Kanto) [Anime]
+Battle! VS Gym Leader (Drum & Bass) (SWSH)
+Marnie Theme (Liquid Drum & Bass) (SWSH)
+WYNDON - Orchestral Arangement (SWSH)
+
+Pokemon Stadium 3 (R):
+Display: Dash Dance Revolution
+Stage: Dash Dance Revolution Local PS2 (GARY NEVER GARY AGAIN, PMDT) https://gamebanana.com/mods/590633
+Tracklist: Compiled by DJ PVSTV
+Always Smiling
+Blooper Bop
+Boo Boogie
+Bowser's Castle (Longer Loop)
+Deep Freeze
+Hammer Dance
+Here We Go!
+Jump! Jump! Jump!
+Mario - Starring Wario! (Custom Loop)
+Moustache, Barrel, adn Gorilla
+Pirate Dance
+Piroli
+Rollercoasting
+Step By Step
+Underground Mozart
+Where's the Exit
+
+Pokemon Stadium 3 (Z):
+Display Name: Sprout Tower
+Stage: Sprout Tower (P+ CS 1:1) (Electropolitan, P+ Team) https://gamebanana.com/mods/435942
+Tracklist: Compiled by DJ PVSTV
+2BA Master
+Bycicle Theme (Orchestrated) (GSC)
+Game Corner Remix (GSC)
+Goldenrod City Remix (GSC)
+Legendary Beasts Battle (GSC)
+National Park (Remix) (GSC)
+Rival Encounter! (GSC)
+Route 38 (GSC)
+Route 38 (Happy Symphony remix by Y.W) (GSC)
+S.S. Aqua (Remastered) (GSC)
+Surf Theme EDM Remix (SilenDrumr) (GSC)
+Team Rocket Battle Theme Remix (GSC)
+Trainer Battle (Drum & Bass Hardcore) (GSC)
+Colosseaum Theme 1
+Gotta Catch'em All (Mewtwo Strikes Back)
+Gym Theme II (Kanto)
+Ho-Oh Battle [Enhanced Remix] (HGSS)
+MissingNo. Battle!
+National Park (HGSS)
+Wild Pokemon Battle (Kanto) [Anime]
+
+Pokemon Stadium 3 (L):
+Display Name: Bell Tower
+Stage: Bell Tower (HeartGold and SoulSilver Remake) (Lilothestitch16, Lensho) https://gamebanana.com/mods/376421
+Tracklist: Compiled by DJ PVSTV
+2BA Master
+Bycicle Theme (Orchestrated) (GSC)
+Game Corner Remix (GSC)
+Goldenrod City Remix (GSC)
+Legendary Beasts Battle (GSC)
+National Park (Remix) (GSC)
+Rival Encounter! (GSC)
+Route 38 (GSC)
+Route 38 (Happy Symphony remix by Y.W) (GSC)
+S.S. Aqua (Remastered) (GSC)
+Surf Theme EDM Remix (SilenDrumr) (GSC)
+Team Rocket Battle Theme Remix (GSC)
+Trainer Battle (Drum & Bass Hardcore) (GSC)
+Colosseaum Theme 1
+Gotta Catch'em All (Mewtwo Strikes Back)
+Gym Theme II (Kanto)
+Ho-Oh Battle [Enhanced Remix] (HGSS)
+MissingNo. Battle!
+National Park (HGSS)
+Wild Pokemon Battle (Kanto) [Anime]
+
+Menu:
+Textures: OurBoyFoxy
+Modeling: DJ PVSTV
+Tracklist: Compiled by OurBoyFoxy
+Comfort Cruise - Harrison
+Do The Astral Plane - Flying Lotus
+Infinity Repeating (2013 Demo) - Daft Punk
+Marcos - Kokonoku
+Clubbed to Death - The Matrix
+Discowav
+
+Metal Cavern:
+Stage: Metal Cavern (MaybeGreg, Project M Dev Team, Project Plus Dev Team) https://gamebanana.com/mods/148995
+Tracklist: Compiled by DJ PVSTV
+Metal Mario Fight
+Metal Battle
+Hazy Maze Cave
+X-Naut Fortress
+Crystal Caves (Yoshi's Island)
+Underground (Super Mario Bros.)
+Underground (Super Mario Land)
+
+Metal Cavern (R):
+Display Name: Underground 1-2
+Stage: Mushroomy Cavern (Motobug, davidbkimball, Scout, Wyld, Skeleton, LlamaJuice, jlcpepe, PMDT)
+
+Metal Cavern (Z):
+Display: Metal Cavern 64
+Stage: HD Metal Cavern (LlamaJuice, Mewtwo2000, Ryztiq) https://brawlm.art/mod/207030/xbSxwPTfKx4_UsMJ
+Tracklist: Compiled by DJ PVSTV
+Metal Mario Fight
+
+Metal Cavern (L):
+Display: Planet's Core
+Stage: FFVII Planet's Core (Yorch2296, DSX8) https://brawlm.art/mod/219292/cGj1FaKClCRQbAL4
+Tracklist: Compiled by DJ PVSTV
+One Winged Angel
+Advent: One Winged Angel
+Birth of a God
+J-E-N-O-V-A
+Fires of Resistance
+Fight with Seymour
+Opening (Bombing Mission)
+Those Who Fight (AC Version)
+Those Who Fight Further (AC Version)
+For Those Who Squat
+
+Frigate Husk (Z):
+Display: Phendrana Drifts
+Stage: Phendrana Husk (metanite64, Nezha, DukeItOut, Layell, Kirbeast, BustedSoda/Coolbuy) https://gamebanana.com/mods/468045
+Tracklist: Compiled by DJ PVSTV
+Phendrana Drifts Depths
+Vs. Serris
+Vs. Parasite Queen
+Hunters
+Data Selection ScreenSkytown
+
+Green Hill Zone:
+Stage: Green Hill Zone (The Project+ Art team, nnebf, Kirbeast, GRAND AZEL, mawwwk, tyleto, PMDT)
+
+Green Hill Zone (R):
+Display: Pumpkin Hill
+Stage: Pumpkin Hill Zone (Prim8, DukeItOut, ᆘ유 | 유유, PMDT, Layell)
+Tracklist: Compiled by DJ PVSTV
+A Ghost's Pumpkin Soup
+
+Green Hill Zone (L):
+Display: Sky Sanctuary Zone
+Stage: Sky Sanctuary Zone (ElevenZM, Noserus, Project+ Dev Team) https://gamebanana.com/mods/292213
+Tracklist: Compiled by DJ PVSTV
+Sky Sanctuary
+Theme of Knuckles (S3&K)
+Lava Reef Zone
+Angel Island Zone
+Unknown from M.E.
+Door into Summer
+Seascape
+Midnight Greenhouse
+Turquoise Hill Zone
+Tabloid Jargon
+Marble Zone
+Vs. Knuckles (Sonic Advance 2)
+Game Over (Altered Beast)
+
+Green Hill Zone (Z):
+Display: Radical Highway
+Stage: Radical Highway (NNEBF, PMDT) https://gamebanana.com/mods/149166
+Tracklist: Compiled by DJ PVSTV
+Radical Highway
+Rail Canyon
+City Escape
+Open Your Heart
+Live and Learn
+His World
+Go Straight (Streets of Rage 2)
+Fly Like A Butterfly (Jet Set Radio)
+Metal Harbor
