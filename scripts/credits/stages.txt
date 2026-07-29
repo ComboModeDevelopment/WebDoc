@@ -102,6 +102,69 @@ Duel Zone (Remix)
 Duel Zone
 Vs. Master Hand (Remix)
 
+Delfino Plaza:
+Stage: Stationary Delfino (Ricky Br3) https://brawlm.art/mod/206199/i9KUL38C5W__aC2y
+Tracklist: OST
+Delfino Plaza
+Title/Ending (Super Mario World)
+Main Them (New SUper Mario Bros.)
+Ricco Harbor
+Main Theme (Super Mario 64)
+
+Delfino Plaza (L):
+Display: Rising Star
+Stage: Rising Star Theater (Frof, YorchUZW, Perdian, Androu1) https://gamebanana.com/mods/562420
+Tracklist: Compiled by DJ PVSTV
+Battle - Cortez (TTYD)
+Battle - Cortez (TTYDHD)
+Battle - Dooplis (TTYDHD)
+Battle - Imposter Mario (TTYDYD)
+Battle - Macho Grubba (TTYDHD)
+Battle - Magnus Von Grapple (TTYD)
+Battle - Magnus Von Grapple (TTYDHD)
+Battle - Prince Mush (TTYDHD)
+Battle - Shadow Queen (TTYD)
+Battle - Shadow Queen (TTYDHD)
+Battle (TTYD)
+Battle (TTYDHD)
+Battle with King Olly (TOK)
+Boss Battle (TTYDHD)
+Castle Bleck (SPM)
+Disco Devil (TOK)
+Event Battle - The Champ (TTYDHD)
+Exploring the Great Sea (TOK)
+Final Battle! - Shadow Queen (TTYD)
+Final Battle! - Shadow Queen (TTYDHD)
+Flow Fields Rondo (PM64)
+Forever Forest Theme (PM64)
+Hufin' and Puffin' (PM64)
+King Koopa Boss Battle (TTYD)
+Paper Mario 64 Title Theme [Remix]
+Red Streamer Battle (TOK)
+Rogueport Sewers (TTYD)
+Shroom City (TOK)
+Snif City (TOK)
+Special Battle (TTYDHD)
+Swan Lake - Punk Remix (TOK)
+The Elastic Entertainer (TOK)
+The Fanged Fastner (TOK)
+The FInal Battle (Origami King)
+The Final Battle (TOK)
+The Missle Maestro (TOK)
+The Ultimate Show (SPM)
+Thrills and Night (TOK)
+Vellumental Area Battle (TOK)
+Vellumental Battle (TOK)
+X-Naut Base Remix (TTYD)
+
+Delfino Plaza (R):
+Display: Delfino Casino
+Stage: Casino Delfino (YorchUZW, PMDT, P+DT, Peardian) https://gamebanana.com/mods/431231
+
+Delfino Plaza (Z):
+Display: Sirena's Secret
+Stage: Sirena's Secret (MarioDox, davidvkimball, Toti, Edisonic, Hakirya, LTE Dev Team, PMDT, P+DT) https://gamebanana.com/mods/148982
+
 Smashville:
 Tracklist: Compiled by OurBoyFoxy
 Risin' n' Shinin'
@@ -111,6 +174,64 @@ KK Metal (Cover)
 KK Cruisin (Metal cover)
 Camel by Camel - Deadmac
 Looping the rooms (Hyperpop Mix)
+
+Smashville (L):
+Display: Ruins
+Stage: Undertale Ruins (Nezha, Lensho & DSX8, jkl72 the second, Sylv, Yahtzeh, StefBoyardee, Erdann, SadPotato, NickirixXT, Layell) https://gamebanana.com/mods/506316
+Tracklist: Compiled by Nezha
+CORE (LUCKYRick)
+Dark Darker Yet Darker
+I Miss You, Megalo Strike Back Remastered
+Megalovania (Earthbound Halloween Hack)
+NOW'S YOUR CHANCE TO BE A (Sturfall remix)
+Once Upon A Time (kibo)
+Ruins (Enemy Approaching) LUCKYRick
+Song That Might Play When You Fight Sans (LUCKYRick)
+Wrong Enemy
+Your Best Friend
+BIG SHOT
+Chaos King
+DigitalDreams
+Rude Buster
+Smart Race
+THE WORLD REVOLVING
+
+Smashville (R):
+Display: Beachville
+Stage: Beachville (pharoahfawcett, rihuganon) https://brawlm.art/mod/209248/nCgmOx7om7TfOWEH
+
+Smashville (Z):
+Display: Snowbound Village
+Stage: Snowbound Village (t_Mistico_t, rihuganon) https://brawlm.art/mod/210997/IKQcCUTJv6e5nZ3J
+
+Snowman's Land:
+Stage: Snowman's Land (YorchUZW, MetalLegacy, PMDT, P+DT, WTails358) https://gamebanana.com/mods/405934
+
+Snowman's Land (L):
+Display: Mushroomy Kingdom 64
+
+Snowman's Land (R):
+Display: Dream Land
+Stage: Return To Dreamland: Night (Ryztiq) https://brawlm.art/mod/207551/-CwwYbHtLxWHmPhW
+
+Snowman's Land (Z):
+Display: Peach's Castle 64
+Stage: Peach's Castle (Super Mario 64) (Mewtwo2000) https://brawlm.art/mod/21685/_zH_xq33NUgoxmfI
+
+Wario Land:
+Stage: Wario Land (PM: Red Ver.) (MaybeGreg) https://gamebanana.com/mods/149091
+
+Wario Land (L):
+Display: Wario Castle
+Stage: Wario's Castle HD (MarioDox, soopercool101, Ghost1548870, Smash 2 Dev Team) https://gamebanana.com/mods/149259
+
+Wario Land (R):
+Display: Wario Castle
+Stage: Wario's Castleware (MarioDox, Ghost1548870, Smash 2 Dev Team, WorseDoughnut, Nezha, PMDT) https://gamebanana.com/mods/149095
+
+Wario Land (Z):
+Display: Waluigi Pinball
+Stage: Waluigi Stadium Revamp (NNEBF, mawwwk, davidvkimball, Yohan1044) https://gamebanana.com/mods/399290
 
 Edo Town (L):
 Display: Clanker's Cavern
@@ -221,7 +342,7 @@ Outskirts
 Oh No! WASPS!! - GaMetal
 Transcending, Overpowering, Everlasting
 
-Bugaria (Z):
+Bugaria (L):
 Display: World Bowser
 Stage: World Bowser v3 (YorchUZW, Nezha, soopercool101, WTails358, mawwwk, P+DT) https://gamebanana.com/mods/523999
 Tracklist: Compiled by DJ PVSTV
@@ -251,8 +372,23 @@ Gang-Plank Galleon
 Flight of the Zinger
 Lockjaw's Saga
 
+Bugaria (Z):
+Display: Mushroom Kingdom III
+Stage: Mushroom Kingdom III (PurlSaturn) https://brawlm.art/mod/300006/SrV2M2kiG3-0udHR
+
+Yoshi's Island:
+Stage: Yoshi's Island '23 (Motobug, mawwwk, MarioDox) P+
+
+Yoshi's Island (L):
+Display: Yoshi's Story (Melee)
+Stage: Yoshi's Story (P+DT) P+
+
+Yoshi's Island (R):
+Display: Yoshi's Island
+Stage: Woolly World (Frof) https://gamebanana.com/mods/515046
+
 Yoshi's Island (Z):
-Display: Yoshi's Cookie Land
+Display: Yoshi Cookie
 Stage: Yoshi's Cookie / Cookie Land (MarioDox, Wildgoosespeeder, Tails777) https://gamebanana.com/mods/149189
 Tracklist: Compiled by DJ PVSTV
 Cookie Land
@@ -288,8 +424,8 @@ Wasteland Theme (MK2)
 Wasteland Theme (MK9)
 
 The Pit (L):
-Display: Budokai Tenkaichi
-Stage: Budokai Tenkaichi (Grass=die), (Mewtwo2000, RandomTBush) https://brawlm.art/mod/4906/h0kL1S3GuhA-2x7b
+Display: Budokai Tenka'ichi
+Stage: Budokai Tenka'ichi (Grass=die), (Mewtwo2000, RandomTBush) https://brawlm.art/mod/4906/h0kL1S3GuhA-2x7b
 Tracklist: Compiled by DJ PVSTV
 Broly's Theme (Dragon Ball FighterZ)
 Cell Ring (Super Dragon Ball Z)
@@ -309,6 +445,60 @@ Theme of Goku
 Ultimate Battle
 West City
 World Tournament Arena
+
+The Pit (R):
+Display: The Dead Pool
+Stage: (Da'Juan Simpson) https://www.dropbox.com/scl/fi/pgrv4d67mwzapf603wy95/GET-OVER-HERE.rar?rlkey=kqi4wyj7sgl94dcqx8jj3scuu&e=1&dl=0
+Tracklist: Compiled by DJ PVSTV
+Armory (MK9)
+Armaggedon Hell (MK)
+Armory Genesis (MK2)
+Armory Theme (MK2)
+Artifacts - Paul Unfaces
+Character Select (Deadly Alliance)
+DeadPool Theme (MK3)
+DeadPool Theme (MK2)
+Deception Slaugter House Theme (MK)
+Living Forest Theme (MK2)
+Living Forest Theme (MK3)
+Living Forest Theme (MK9)
+Rain (MK4)
+Reptile's Theme (Skrillex)
+The Cave Theme (MK3)
+The Tower Theme (MK3)
+The Well (MK4)
+Unknown (1)
+Unknown (2)
+Unknown (3)
+Wasteland Theme (MK2)
+Wasteland Theme (MK9)
+
+The Pit (Z):
+Display: Kuatan Palace
+Stage: (Da'Juan Simpson) https://www.dropbox.com/scl/fi/pgrv4d67mwzapf603wy95/GET-OVER-HERE.rar?rlkey=kqi4wyj7sgl94dcqx8jj3scuu&e=1&dl=0
+Tracklist: Compiled by DJ PVSTV
+Armory (MK9)
+Armaggedon Hell (MK)
+Armory Genesis (MK2)
+Armory Theme (MK2)
+Artifacts - Paul Unfaces
+Character Select (Deadly Alliance)
+DeadPool Theme (MK3)
+DeadPool Theme (MK2)
+Deception Slaugter House Theme (MK)
+Living Forest Theme (MK2)
+Living Forest Theme (MK3)
+Living Forest Theme (MK9)
+Rain (MK4)
+Reptile's Theme (Skrillex)
+The Cave Theme (MK3)
+The Tower Theme (MK3)
+The Well (MK4)
+Unknown (1)
+Unknown (2)
+Unknown (3)
+Wasteland Theme (MK2)
+Wasteland Theme (MK9)
 
 Pokemon Stadium 3:
 Stage: Pokemon Stadium 3 (NNEBF, _Silent_, DJ PVSTV) https://gamebanana.com/mods/430679
@@ -366,7 +556,7 @@ Underground Mozart
 Where's the Exit
 
 Pokemon Stadium 3 (Z):
-Display Name: Sprout Tower
+Display: Sprout Tower
 Stage: Sprout Tower (P+ CS 1:1) (Electropolitan, P+ Team) https://gamebanana.com/mods/435942
 Tracklist: Compiled by DJ PVSTV
 2BA Master
@@ -391,7 +581,7 @@ National Park (HGSS)
 Wild Pokemon Battle (Kanto) [Anime]
 
 Pokemon Stadium 3 (L):
-Display Name: Bell Tower
+Display: Bell Tower
 Stage: Bell Tower (HeartGold and SoulSilver Remake) (Lilothestitch16, Lensho) https://gamebanana.com/mods/376421
 Tracklist: Compiled by DJ PVSTV
 2BA Master
@@ -438,8 +628,8 @@ Underground (Super Mario Bros.)
 Underground (Super Mario Land)
 
 Metal Cavern (R):
-Display Name: Underground 1-2
-Stage: Mushroomy Cavern (Motobug, davidbkimball, Scout, Wyld, Skeleton, LlamaJuice, jlcpepe, PMDT)
+Display: Underground 1-2
+Stage: Mushroomy Cavern (Motobug, davidvkimball, Scout, Wyld, Skeleton, LlamaJuice, jlcpepe, PMDT) P+
 
 Metal Cavern (Z):
 Display: Metal Cavern 64
@@ -462,7 +652,17 @@ Those Who Fight (AC Version)
 Those Who Fight Further (AC Version)
 For Those Who Squat
 
-Frigate Husk (Z):
+Frigate Husk:
+Stage: Frigate Husk (Project+ Art Tem, Yorch, GRAND AZEL, SJ, mawwwk, Motobug) P+
+Tracklist: OST
+Vs. Ridley
+Vs. Parasite Queen
+Opening/Menu (Metroid Prime)
+Sector 1
+Vs. Meta Ridley
+Multiplayer (Metroid Prime 2)
+
+Frigate Husk (L):
 Display: Phendrana Drifts
 Stage: Phendrana Husk (metanite64, Nezha, DukeItOut, Layell, Kirbeast, BustedSoda/Coolbuy) https://gamebanana.com/mods/468045
 Tracklist: Compiled by DJ PVSTV
@@ -470,18 +670,40 @@ Phendrana Drifts Depths
 Vs. Serris
 Vs. Parasite Queen
 Hunters
-Data Selection ScreenSkytown
+Data Selection Screen
+Skytown
 
-Green Hill Zone:
+Frigate Husk (R):
+Display: Drowned Frigate
+Stage: Drowned Frigate (Yorch, Project+ Art Team, Motobug) P+
+
+Frigate Husk (Z):
+Display: Pyrosphere
+Stage: Pyrosphere Husk (metanite64, DSX8) https://gamebanana.com/mods/480051
+
+Green Hill Zone P+:
 Stage: Green Hill Zone (The Project+ Art team, nnebf, Kirbeast, GRAND AZEL, mawwwk, tyleto, PMDT)
+Tracklist: Compiled by Maye
+Green Hill Zone
+Angel Island Zone
+Scrap Brain Zone
+Emerald Hill Zone
+Sonic Boom
+Super Sonic Racing
+Open Your Heart
+Live & Learn
+Sonic Heroes
+Right There, Ride On
+HIS WORLD (Instrumental)
+Seven Rings In Hand
 
-Green Hill Zone (R):
+Green Hill Zone P+ (R):
 Display: Pumpkin Hill
-Stage: Pumpkin Hill Zone (Prim8, DukeItOut, ᆘ유 | 유유, PMDT, Layell)
+Stage: Pumpkin Hill Zone (Prim8, DukeItOut, ᆘ유 | 유유, PMDT, Layell) P+
 Tracklist: Compiled by DJ PVSTV
 A Ghost's Pumpkin Soup
 
-Green Hill Zone (L):
+Green Hill Zone P+ (L):
 Display: Sky Sanctuary Zone
 Stage: Sky Sanctuary Zone (ElevenZM, Noserus, Project+ Dev Team) https://gamebanana.com/mods/292213
 Tracklist: Compiled by DJ PVSTV
@@ -499,7 +721,7 @@ Marble Zone
 Vs. Knuckles (Sonic Advance 2)
 Game Over (Altered Beast)
 
-Green Hill Zone (Z):
+Green Hill Zone P+ (Z):
 Display: Radical Highway
 Stage: Radical Highway (NNEBF, PMDT) https://gamebanana.com/mods/149166
 Tracklist: Compiled by DJ PVSTV
