@@ -160,10 +160,22 @@ X-Naut Base Remix (TTYD)
 Delfino Plaza (R):
 Display: Delfino Casino
 Stage: Casino Delfino (YorchUZW, PMDT, P+DT, Peardian) https://gamebanana.com/mods/431231
+Tracklist: OST
+Delfino Plaza
+Title/Ending (Super Mario World)
+Main Them (New SUper Mario Bros.)
+Ricco Harbor
+Main Theme (Super Mario 64)
 
 Delfino Plaza (Z):
 Display: Sirena's Secret
 Stage: Sirena's Secret (MarioDox, davidvkimball, Toti, Edisonic, Hakirya, LTE Dev Team, PMDT, P+DT) https://gamebanana.com/mods/148982
+Tracklist: OST
+Delfino Plaza
+Title/Ending (Super Mario World)
+Main Them (New SUper Mario Bros.)
+Ricco Harbor
+Main Theme (Super Mario 64)
 
 Smashville:
 Tracklist: Compiled by OurBoyFoxy
@@ -199,39 +211,108 @@ THE WORLD REVOLVING
 Smashville (R):
 Display: Beachville
 Stage: Beachville (pharoahfawcett, rihuganon) https://brawlm.art/mod/209248/nCgmOx7om7TfOWEH
+Tracklist: Compiled by OurBoyFoxy
+Risin' n' Shinin'
+Femtanyl - PUSH UR T3MPRR
+5pm - Yung Battle
+KK Metal (Cover)
+KK Cruisin (Metal cover)
+Camel by Camel - Deadmac
+Looping the rooms (Hyperpop Mix)
 
 Smashville (Z):
 Display: Snowbound Village
 Stage: Snowbound Village (t_Mistico_t, rihuganon) https://brawlm.art/mod/210997/IKQcCUTJv6e5nZ3J
+Tracklist: Compiled by OurBoyFoxy
+Risin' n' Shinin'
+Femtanyl - PUSH UR T3MPRR
+5pm - Yung Battle
+KK Metal (Cover)
+KK Cruisin (Metal cover)
+Camel by Camel - Deadmac
+Looping the rooms (Hyperpop Mix)
 
 Snowman's Land:
 Stage: Snowman's Land (YorchUZW, MetalLegacy, PMDT, P+DT, WTails358) https://gamebanana.com/mods/405934
+Tracklist: DJ PVSTV
+Cool Cool Mountain
+Hazy Maze Cave
+Main Theme (Super Mario 64)
+Alternate Route - Paragonx9
 
 Snowman's Land (L):
 Display: Mushroomy Kingdom 64
+Tracklist: OST
+Mario Bros.
+Gyromite
+Famicom Medley
+Power-Up Music
+Douchuumen (Nazo no Murasamejo)
 
 Snowman's Land (R):
 Display: Dream Land
 Stage: Return To Dreamland: Night (Ryztiq) https://brawlm.art/mod/207551/-CwwYbHtLxWHmPhW
+Tracklist: OST
+Green Greens (Melee)
+Fountain of Dreams (Melee)
 
 Snowman's Land (Z):
 Display: Peach's Castle 64
 Stage: Peach's Castle (Super Mario 64) (Mewtwo2000) https://brawlm.art/mod/21685/_zH_xq33NUgoxmfI
+Tracklist: DJ PVSTV
+Cool Cool Mountain
+Hazy Maze Cave
+Main Theme (Super Mario 64)
+Alternate Route - Paragonx9
 
 Wario Land:
 Stage: Wario Land (PM: Red Ver.) (MaybeGreg) https://gamebanana.com/mods/149091
+Tracklist: Compiled by DJ PVSTV
+Tower of Revival / Main Theme
+Crescent Moon Village
+Pirate Level / Underwater (Wario Land)
+Greenhorn Ruins / Glittertown
+Greenhorn Ruins
+Wario's Castle
+Battle with Wario
+Terrormisu
+Body Rock
+Count Cannoli
+Mount Wario
+Battle Canyon
+Waluigi's Island
+Toad's Factory
+Manzai Birds (Rhythm Heaven Fever)
+Wrestler's Words (Rhythm Heaven Fever)
+Wario Laugh (10 Hours)
 
 Wario Land (L):
 Display: Wario Castle
 Stage: Wario's Castle HD (MarioDox, soopercool101, Ghost1548870, Smash 2 Dev Team) https://gamebanana.com/mods/149259
+Tracklist: Compiled by DJ PVSTV
+Level 2 (VB Wario Land)
+Pirate Level / Underwater (Wario Land)
+Lost in the Ruins
+Tower of Revival / Main Theme
+Crescent Moon Village
 
 Wario Land (R):
 Display: Wario Castle
 Stage: Wario's Castleware (MarioDox, Ghost1548870, Smash 2 Dev Team, WorseDoughnut, Nezha, PMDT) https://gamebanana.com/mods/149095
+Tracklist: Compiled by DJ PVSTV
+Level 2 (VB Wario Land)
+Pirate Level / Underwater (Wario Land)
+Lost in the Ruins
+Tower of Revival / Main Theme
+Crescent Moon Village
 
 Wario Land (Z):
 Display: Waluigi Pinball
 Stage: Waluigi Stadium Revamp (NNEBF, mawwwk, davidvkimball, Yohan1044) https://gamebanana.com/mods/399290
+Tracklist: Compiled by DJ PVSTV
+Luigi Raceway
+Waluigi Pinball
+Waluigi's Island
 
 Edo Town (L):
 Display: Clanker's Cavern
@@ -375,17 +456,41 @@ Lockjaw's Saga
 Bugaria (Z):
 Display: Mushroom Kingdom III
 Stage: Mushroom Kingdom III (PurlSaturn) https://brawlm.art/mod/300006/SrV2M2kiG3-0udHR
+Tracklist: OST
+Mario Bros.
+Gyromite
+Famicom Medley
+Power-Up Music
+Douchuumen (Nazo no Murasamejo)
 
 Yoshi's Island:
 Stage: Yoshi's Island '23 (Motobug, mawwwk, MarioDox) P+
+Tracklist: Compiled by DJ PVSTV
+Athletic (Yoshi's Island)
+Ending (Yoshi's Story)
+Yoshi's Island
+Flower Field
+Wildlands
+Yoshi Series Medley
 
 Yoshi's Island (L):
 Display: Yoshi's Story (Melee)
 Stage: Yoshi's Story (P+DT) P+
+Tracklist: Compiled by DJ PVSTV
+Yoshi's Island (Melee)
+Super Mario Bros. 3 (Melee)
+Crash Out - HBox
 
 Yoshi's Island (R):
 Display: Yoshi's Island
 Stage: Woolly World (Frof) https://gamebanana.com/mods/515046
+Tracklist: Compiled by DJ PVSTV
+Athletic (Yoshi's Island)
+Ending (Yoshi's Story)
+Yoshi's Island
+Flower Field
+Wildlands
+Yoshi Series Medley
 
 Yoshi's Island (Z):
 Display: Yoshi Cookie
@@ -630,12 +735,26 @@ Underground (Super Mario Land)
 Metal Cavern (R):
 Display: Underground 1-2
 Stage: Mushroomy Cavern (Motobug, davidvkimball, Scout, Wyld, Skeleton, LlamaJuice, jlcpepe, PMDT) P+
+Tracklist: Compiled by DJ PVSTV
+Metal Mario Fight
+Metal Battle
+Hazy Maze Cave
+X-Naut Fortress
+Crystal Caves (Yoshi's Island)
+Underground (Super Mario Bros.)
+Underground (Super Mario Land)
 
 Metal Cavern (Z):
 Display: Metal Cavern 64
 Stage: HD Metal Cavern (LlamaJuice, Mewtwo2000, Ryztiq) https://brawlm.art/mod/207030/xbSxwPTfKx4_UsMJ
 Tracklist: Compiled by DJ PVSTV
 Metal Mario Fight
+Metal Battle
+Hazy Maze Cave
+X-Naut Fortress
+Crystal Caves (Yoshi's Island)
+Underground (Super Mario Bros.)
+Underground (Super Mario Land)
 
 Metal Cavern (L):
 Display: Planet's Core
@@ -676,10 +795,24 @@ Skytown
 Frigate Husk (R):
 Display: Drowned Frigate
 Stage: Drowned Frigate (Yorch, Project+ Art Team, Motobug) P+
+Tracklist: OST
+Vs. Ridley
+Vs. Parasite Queen
+Opening/Menu (Metroid Prime)
+Sector 1
+Vs. Meta Ridley
+Multiplayer (Metroid Prime 2)
 
 Frigate Husk (Z):
 Display: Pyrosphere
 Stage: Pyrosphere Husk (metanite64, DSX8) https://gamebanana.com/mods/480051
+Tracklist: OST
+Vs. Ridley
+Vs. Parasite Queen
+Opening/Menu (Metroid Prime)
+Sector 1
+Vs. Meta Ridley
+Multiplayer (Metroid Prime 2)
 
 Green Hill Zone P+:
 Stage: Green Hill Zone (The Project+ Art team, nnebf, Kirbeast, GRAND AZEL, mawwwk, tyleto, PMDT)
