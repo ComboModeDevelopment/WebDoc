@@ -3,10 +3,18 @@
 
 The site is static, so the browser can't list directories. This script walks:
 
-    docs/changes/<release>/characters/<Character>.md
+    docs/changes/<release>/characters/<Character>.md   (cumulative, since 0.0.0)
+    docs/changes/<release>/deltas/<Character>.md       (just this release)
 
 and writes a manifest the front-end reads to build the release dropdown and the
 per-release character list.
+
+The `characters/` file is the full history up to that release; the optional
+`deltas/` file covers only what changed versus the previous release, and powers
+the "What changed in this release" view. Delta files are hand-written and are
+being added character by character, so a release may have deltas for only some
+of its roster — each release also records `previous` so the UI can label the
+comparison.
 
 Run it locally before previewing, or let the deploy workflow run it (it does).
 
@@ -24,25 +32,45 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CHANGES_DIR = os.path.join(REPO_ROOT, "docs", "changes")
 
 
+def _md_files(directory):
+    if not os.path.isdir(directory):
+        return set()
+    return {f for f in os.listdir(directory) if f.lower().endswith(".md")}
+
+
 def build():
     releases = []
     if os.path.isdir(CHANGES_DIR):
-        for version in os.listdir(CHANGES_DIR):
-            char_dir = os.path.join(CHANGES_DIR, version, "characters")
-            if not os.path.isdir(char_dir):
+        for version in sorted(os.listdir(CHANGES_DIR)):
+            version_dir = os.path.join(CHANGES_DIR, version)
+            if not os.path.isdir(version_dir):
                 continue
+            cumulative = _md_files(os.path.join(version_dir, "characters"))
+            deltas = _md_files(os.path.join(version_dir, "deltas"))
+            # A release needs at least one of the two kinds of file. Either may
+            # stand alone: a release can ship delta notes before its cumulative
+            # files have been copied over, or vice versa.
             characters = []
-            for filename in sorted(os.listdir(char_dir)):
-                if filename.lower().endswith(".md"):
-                    characters.append({
-                        "name": os.path.splitext(filename)[0],
-                        "file": filename,
-                    })
+            for filename in sorted(cumulative | deltas):
+                entry = {"name": os.path.splitext(filename)[0]}
+                # The front-end keys off these two: `file` puts a character in
+                # the "All changes so far" view, `delta` in "Changes this
+                # release". Absent means that view skips them.
+                if filename in cumulative:
+                    entry["file"] = filename
+                if filename in deltas:
+                    entry["delta"] = filename
+                characters.append(entry)
             if characters:
                 releases.append({"version": version, "characters": characters})
 
     releases, hidden = releasecfg.partition_releases(releases)
     releases.sort(key=lambda r: releasecfg.version_key(r["version"]), reverse=True)
+
+    # Sorted newest-first, so each release's predecessor is the next entry along.
+    for i, rel in enumerate(releases):
+        if i + 1 < len(releases):
+            rel["previous"] = releases[i + 1]["version"]
 
     os.makedirs(CHANGES_DIR, exist_ok=True)
     out_path = os.path.join(CHANGES_DIR, "index.json")
@@ -50,12 +78,25 @@ def build():
         json.dump({"releases": releases}, f, indent=2)
         f.write("\n")
 
-    total_chars = sum(len(r["characters"]) for r in releases)
+    total_chars = sum(1 for r in releases for c in r["characters"] if c.get("file"))
+    total_deltas = sum(1 for r in releases for c in r["characters"] if c.get("delta"))
     note = ""
     if hidden:
-        note = "  (hidden: %s)" % ", ".join(sorted(h["version"] for h in hidden))
-    print("Wrote %s: %d release(s), %d character file(s).%s"
-          % (os.path.relpath(out_path, REPO_ROOT), len(releases), total_chars, note))
+        note = "  (hidden by latest_published: %s)" % ", ".join(
+            sorted(h["version"] for h in hidden))
+    print("Wrote %s: %d release(s), %d character file(s), %d delta file(s).%s"
+          % (os.path.relpath(out_path, REPO_ROOT), len(releases), total_chars,
+             total_deltas, note))
+
+    # Call out releases that are only half-populated, so an empty folder
+    # doesn't quietly drop a view's worth of content.
+    for rel in releases:
+        if not any(c.get("file") for c in rel["characters"]):
+            print("  note: %s has no characters/*.md — it will only appear "
+                  "under \"Changes this release\"." % rel["version"])
+        elif not any(c.get("delta") for c in rel["characters"]):
+            print("  note: %s has no deltas/*.md — it will only appear "
+                  "under \"All changes so far\"." % rel["version"])
 
 
 if __name__ == "__main__":

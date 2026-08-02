@@ -205,10 +205,21 @@
     });
   }
 
-  function openCharacterChanges(version, character) {
+  // Two ways to read a release:
+  //   "cumulative" -> changes/<release>/characters/<Name>.md  (everything so far)
+  //   "delta"      -> changes/<release>/deltas/<Name>.md      (vs the release before)
+  // Delta files are hand-written and only exist for some characters, so the
+  // compare view shows just the ones that have been written up.
+  function changesUrl(mode, version, character) {
+    var folder = mode === "delta" ? "deltas" : "characters";
+    var file = mode === "delta" ? character.delta : character.file;
+    return changesBase + "/" + encodeURIComponent(version) +
+      "/" + folder + "/" + encodeURIComponent(file);
+  }
+
+  function openCharacterChanges(mode, version, character) {
     openModal(character.name, '<p class="loading">Loading…</p>');
-    var url = changesBase + "/" + encodeURIComponent(version) +
-      "/characters/" + encodeURIComponent(character.file);
+    var url = changesUrl(mode, version, character);
     fetch(url)
       .then(function (r) {
         if (!r.ok) throw new Error("HTTP " + r.status);
@@ -226,15 +237,20 @@
 
   var changesIconBase = cfg.changesIconBase || "images/characters";
 
-  function renderCharacterGrid(container, version, characters) {
+  function renderCharacterGrid(container, mode, version, characters, emptyMsg) {
     renderIconGrid(container, characters, changesIconBase, function (c) {
-      openCharacterChanges(version, c);
-    }, "No characters for this release.");
+      openCharacterChanges(mode, version, c);
+    }, emptyMsg || "No characters for this release.");
   }
 
   function loadChangesSection() {
     var listEl = el("characters-list");
     var select = el("release-select");
+    var noteEl = el("release-compare-note");
+    var modeNoteEl = el("changes-mode-note");
+    var toggleEl = document.querySelector("#characters .mode-toggle");
+    // Must match the button marked .is-active in index.html.
+    var mode = "delta";
 
     fetch(changesBase + "/index.json")
       .then(function (r) {
@@ -246,6 +262,7 @@
         if (releases.length === 0) {
           select.innerHTML = "";
           select.disabled = true;
+          if (toggleEl) toggleEl.hidden = true;
           listEl.innerHTML =
             '<p class="loading">No releases available yet. Add change files under ' +
             esc(changesBase) + "/&lt;release&gt;/characters/.</p>";
@@ -254,17 +271,79 @@
         select.innerHTML = releases.map(function (rel) {
           return '<option value="' + esc(rel.version) + '">' + esc(rel.version) + "</option>";
         }).join("");
+
         function showSelected() {
           var rel = releases.filter(function (r) {
             return r.version === select.value;
           })[0] || releases[0];
-          renderCharacterGrid(listEl, rel.version, rel.characters);
+
+          // A character only appears in a view if it has that view's file;
+          // a release may legitimately have one kind and not the other.
+          if (mode === "delta") {
+            var withDeltas = (rel.characters || []).filter(function (c) {
+              return c.delta;
+            });
+            noteEl.textContent = rel.previous
+              ? "vs " + rel.previous
+              : "first release";
+            noteEl.hidden = false;
+            // Count against the roster (characters with a cumulative file), not
+            // the index entries — a delta-only release would otherwise report
+            // the meaningless "1 of 1".
+            var roster = (rel.characters || []).filter(function (c) {
+              return c.file;
+            }).length;
+            modeNoteEl.hidden = false;
+            if (!withDeltas.length) {
+              modeNoteEl.textContent =
+                "No release-by-release notes written for " + rel.version +
+                " yet. Switch to “All changes so far” to read this " +
+                "release’s full history.";
+            } else if (roster > withDeltas.length) {
+              modeNoteEl.textContent =
+                "Release-by-release notes are being written up character by " +
+                "character — " + withDeltas.length + " of " + roster +
+                " so far for " + rel.version +
+                ". Switch to “All changes so far” for the rest.";
+            } else {
+              modeNoteEl.hidden = true;
+            }
+            renderCharacterGrid(listEl, mode, rel.version, withDeltas,
+              "No release-by-release notes for this release yet.");
+          } else {
+            var withHistory = (rel.characters || []).filter(function (c) {
+              return c.file;
+            });
+            noteEl.hidden = true;
+            modeNoteEl.hidden = true;
+            renderCharacterGrid(listEl, mode, rel.version, withHistory,
+              "No cumulative notes for this release yet. Switch to " +
+              "“Changes this release” to see what changed in " +
+              rel.version + ".");
+          }
         }
+
+        if (toggleEl) {
+          toggleEl.addEventListener("click", function (e) {
+            var btn = e.target.closest(".mode-btn");
+            if (!btn || btn.dataset.mode === mode) return;
+            mode = btn.dataset.mode;
+            Array.prototype.forEach.call(
+              toggleEl.querySelectorAll(".mode-btn"), function (b) {
+                var on = b.dataset.mode === mode;
+                b.classList.toggle("is-active", on);
+                b.setAttribute("aria-checked", on ? "true" : "false");
+              });
+            showSelected();
+          });
+        }
+
         select.addEventListener("change", showSelected);
-        showSelected(); // default = first (latest) release
+        showSelected(); // default = first (latest) release, this-release view
       })
       .catch(function (err) {
         select.disabled = true;
+        if (toggleEl) toggleEl.hidden = true;
         listEl.innerHTML =
           '<p class="loading">No change data found. Copy the character ' +
           ".md files into " + esc(changesBase) + "/&lt;release&gt;/characters/.</p>";

@@ -170,7 +170,7 @@
       "name": "Bowser",
       "icon": "bowser",
       "credits": [
-        "PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy"
+        "PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy, Maye"
       ]
     },
     {
@@ -611,7 +611,8 @@
       "tracklist": {
         "note": "Compiled by OurBoyFoxy",
         "tracks": [
-          "God Only Knows - A-OneMEMODEMO - Weekend Anyarchist",
+          "God Only Knows - A-One",
+          "MEMODEMO - Weekend Anyarchist",
           "Nico's Nextbots Menu Theme",
           "ryunomai",
           "Move Me - Ryu Remix"
@@ -649,7 +650,8 @@
       "tracklist": {
         "note": "Compiled by OurBoyFoxy",
         "tracks": [
-          "God Only Knows - A-OneMEMODEMO - Weekend Anyarchist",
+          "God Only Knows - A-One",
+          "MEMODEMO - Weekend Anyarchist",
           "Nico's Nextbots Menu Theme",
           "ryunomai",
           "Move Me - Ryu Remix"
@@ -681,7 +683,7 @@
       "name": "Final Destination",
       "icon": "final-destination",
       "credits": [
-        "Stage: Melee Final Destination by vista_the_bunny, Mewtwo 2000, OurBoyFoxy, DJPVSTV (https://gamebanana.com/mods/512991)"
+        "Stage: Melee Final Destination by vista_the_bunny, Mewtwo 2000, OurBoyFoxy, DJ PVSTV (https://gamebanana.com/mods/512991)"
       ],
       "tracklist": {
         "note": "Compiled by OurBoyFoxy",
@@ -763,6 +765,1198 @@
           "Duel Zone (Remix)",
           "Duel Zone",
           "Vs. Master Hand (Remix)"
+        ]
+      }
+    },
+    {
+      "name": "Delfino Plaza",
+      "icon": "delfino-plaza",
+      "credits": [
+        "Stage: Stationary Delfino (Ricky Br3) https://brawlm.art/mod/206199/i9KUL38C5W__aC2y"
+      ],
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Delfino Plaza",
+          "Title/Ending (Super Mario World)",
+          "Main Them (New SUper Mario Bros.)",
+          "Ricco Harbor",
+          "Main Theme (Super Mario 64)"
+        ]
+      }
+    },
+    {
+      "name": "Delfino Plaza (L)",
+      "icon": "delfino-plaza",
+      "credits": [
+        "Stage: Rising Star Theater (Frof, YorchUZW, Perdian, Androu1) https://gamebanana.com/mods/562420"
+      ],
+      "alt": "L",
+      "displayName": "Rising Star",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Battle - Cortez (TTYD)",
+          "Battle - Cortez (TTYDHD)",
+          "Battle - Dooplis (TTYDHD)",
+          "Battle - Imposter Mario (TTYDYD)",
+          "Battle - Macho Grubba (TTYDHD)",
+          "Battle - Magnus Von Grapple (TTYD)",
+          "Battle - Magnus Von Grapple (TTYDHD)",
+          "Battle - Prince Mush (TTYDHD)",
+          "Battle - Shadow Queen (TTYD)",
+          "Battle - Shadow Queen (TTYDHD)",
+          "Battle (TTYD)",
+          "Battle (TTYDHD)",
+          "Battle with King Olly (TOK)",
+          "Boss Battle (TTYDHD)",
+          "Castle Bleck (SPM)",
+          "Disco Devil (TOK)",
+          "Event Battle - The Champ (TTYDHD)",
+          "Exploring the Great Sea (TOK)",
+          "Final Battle! - Shadow Queen (TTYD)",
+          "Final Battle! - Shadow Queen (TTYDHD)",
+          "Flow Fields Rondo (PM64)",
+          "Forever Forest Theme (PM64)",
+          "Hufin' and Puffin' (PM64)",
+          "King Koopa Boss Battle (TTYD)",
+          "Paper Mario 64 Title Theme [Remix]",
+          "Red Streamer Battle (TOK)",
+          "Rogueport Sewers (TTYD)",
+          "Shroom City (TOK)",
+          "Snif City (TOK)",
+          "Special Battle (TTYDHD)",
+          "Swan Lake - Punk Remix (TOK)",
+          "The Elastic Entertainer (TOK)",
+          "The Fanged Fastner (TOK)",
+          "The FInal Battle (Origami King)",
+          "The Final Battle (TOK)",
+          "The Missle Maestro (TOK)",
+          "The Ultimate Show (SPM)",
+          "Thrills and Night (TOK)",
+          "Vellumental Area Battle (TOK)",
+          "Vellumental Battle (TOK)",
+          "X-Naut Base Remix (TTYD)"
+        ]
+      }
+    },
+    {
+      "name": "Delfino Plaza (R)",
+      "icon": "delfino-plaza",
+      "credits": [
+        "Stage: Casino Delfino (YorchUZW, PMDT, P+DT, Peardian) https://gamebanana.com/mods/431231"
+      ],
+      "alt": "R",
+      "displayName": "Delfino Casino",
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Delfino Plaza",
+          "Title/Ending (Super Mario World)",
+          "Main Them (New SUper Mario Bros.)",
+          "Ricco Harbor",
+          "Main Theme (Super Mario 64)"
+        ]
+      }
+    },
+    {
+      "name": "Delfino Plaza (Z)",
+      "icon": "delfino-plaza",
+      "credits": [
+        "Stage: Sirena's Secret (MarioDox, davidvkimball, Toti, Edisonic, Hakirya, LTE Dev Team, PMDT, P+DT) https://gamebanana.com/mods/148982"
+      ],
+      "alt": "Z",
+      "displayName": "Sirena's Secret",
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Delfino Plaza",
+          "Title/Ending (Super Mario World)",
+          "Main Them (New SUper Mario Bros.)",
+          "Ricco Harbor",
+          "Main Theme (Super Mario 64)"
+        ]
+      }
+    },
+    {
+      "name": "Smashville",
+      "icon": "smashville",
+      "credits": [],
+      "tracklist": {
+        "note": "Compiled by OurBoyFoxy",
+        "tracks": [
+          "Risin' n' Shinin'",
+          "Femtanyl - PUSH UR T3MPRR",
+          "5pm - Yung Battle",
+          "KK Metal (Cover)",
+          "KK Cruisin (Metal cover)",
+          "Camel by Camel - Deadmac",
+          "Looping the rooms (Hyperpop Mix)"
+        ]
+      }
+    },
+    {
+      "name": "Smashville (L)",
+      "icon": "smashville",
+      "credits": [
+        "Stage: Undertale Ruins (Nezha, Lensho & DSX8, jkl72 the second, Sylv, Yahtzeh, StefBoyardee, Erdann, SadPotato, NickirixXT, Layell) https://gamebanana.com/mods/506316"
+      ],
+      "alt": "L",
+      "displayName": "Ruins",
+      "tracklist": {
+        "note": "Compiled by Nezha",
+        "tracks": [
+          "CORE (LUCKYRick)",
+          "Dark Darker Yet Darker",
+          "I Miss You, Megalo Strike Back Remastered",
+          "Megalovania (Earthbound Halloween Hack)",
+          "NOW'S YOUR CHANCE TO BE A (Sturfall remix)",
+          "Once Upon A Time (kibo)",
+          "Ruins (Enemy Approaching) LUCKYRick",
+          "Song That Might Play When You Fight Sans (LUCKYRick)",
+          "Wrong Enemy",
+          "Your Best Friend",
+          "BIG SHOT",
+          "Chaos King",
+          "DigitalDreams",
+          "Rude Buster",
+          "Smart Race",
+          "THE WORLD REVOLVING"
+        ]
+      }
+    },
+    {
+      "name": "Smashville (R)",
+      "icon": "smashville",
+      "credits": [
+        "Stage: Beachville (pharoahfawcett, rihuganon) https://brawlm.art/mod/209248/nCgmOx7om7TfOWEH"
+      ],
+      "alt": "R",
+      "displayName": "Beachville",
+      "tracklist": {
+        "note": "Compiled by OurBoyFoxy",
+        "tracks": [
+          "Risin' n' Shinin'",
+          "Femtanyl - PUSH UR T3MPRR",
+          "5pm - Yung Battle",
+          "KK Metal (Cover)",
+          "KK Cruisin (Metal cover)",
+          "Camel by Camel - Deadmac",
+          "Looping the rooms (Hyperpop Mix)"
+        ]
+      }
+    },
+    {
+      "name": "Smashville (Z)",
+      "icon": "smashville",
+      "credits": [
+        "Stage: Snowbound Village (t_Mistico_t, rihuganon) https://brawlm.art/mod/210997/IKQcCUTJv6e5nZ3J"
+      ],
+      "alt": "Z",
+      "displayName": "Snowbound Village",
+      "tracklist": {
+        "note": "Compiled by OurBoyFoxy",
+        "tracks": [
+          "Risin' n' Shinin'",
+          "Femtanyl - PUSH UR T3MPRR",
+          "5pm - Yung Battle",
+          "KK Metal (Cover)",
+          "KK Cruisin (Metal cover)",
+          "Camel by Camel - Deadmac",
+          "Looping the rooms (Hyperpop Mix)"
+        ]
+      }
+    },
+    {
+      "name": "Snowman's Land",
+      "icon": "snowman-s-land",
+      "credits": [
+        "Stage: Snowman's Land (YorchUZW, MetalLegacy, PMDT, P+DT, WTails358) https://gamebanana.com/mods/405934"
+      ],
+      "tracklist": {
+        "note": "DJ PVSTV",
+        "tracks": [
+          "Cool Cool Mountain",
+          "Hazy Maze Cave",
+          "Main Theme (Super Mario 64)",
+          "Alternate Route - Paragonx9"
+        ]
+      }
+    },
+    {
+      "name": "Snowman's Land (L)",
+      "icon": "snowman-s-land",
+      "credits": [],
+      "alt": "L",
+      "displayName": "Mushroomy Kingdom 64",
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Mario Bros.",
+          "Gyromite",
+          "Famicom Medley",
+          "Power-Up Music",
+          "Douchuumen (Nazo no Murasamejo)"
+        ]
+      }
+    },
+    {
+      "name": "Snowman's Land (R)",
+      "icon": "snowman-s-land",
+      "credits": [
+        "Stage: Return To Dreamland: Night (Ryztiq) https://brawlm.art/mod/207551/-CwwYbHtLxWHmPhW"
+      ],
+      "alt": "R",
+      "displayName": "Dream Land",
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Green Greens (Melee)",
+          "Fountain of Dreams (Melee)"
+        ]
+      }
+    },
+    {
+      "name": "Snowman's Land (Z)",
+      "icon": "snowman-s-land",
+      "credits": [
+        "Stage: Peach's Castle (Super Mario 64) (Mewtwo2000) https://brawlm.art/mod/21685/_zH_xq33NUgoxmfI"
+      ],
+      "alt": "Z",
+      "displayName": "Peach's Castle 64",
+      "tracklist": {
+        "note": "DJ PVSTV",
+        "tracks": [
+          "Cool Cool Mountain",
+          "Hazy Maze Cave",
+          "Main Theme (Super Mario 64)",
+          "Alternate Route - Paragonx9"
+        ]
+      }
+    },
+    {
+      "name": "Wario Land",
+      "icon": "wario-land",
+      "credits": [
+        "Stage: Wario Land (PM: Red Ver.) (MaybeGreg) https://gamebanana.com/mods/149091"
+      ],
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Tower of Revival / Main Theme",
+          "Crescent Moon Village",
+          "Pirate Level / Underwater (Wario Land)",
+          "Greenhorn Ruins / Glittertown",
+          "Greenhorn Ruins",
+          "Wario's Castle",
+          "Battle with Wario",
+          "Terrormisu",
+          "Body Rock",
+          "Count Cannoli",
+          "Mount Wario",
+          "Battle Canyon",
+          "Waluigi's Island",
+          "Toad's Factory",
+          "Manzai Birds (Rhythm Heaven Fever)",
+          "Wrestler's Words (Rhythm Heaven Fever)",
+          "Wario Laugh (10 Hours)"
+        ]
+      }
+    },
+    {
+      "name": "Wario Land (L)",
+      "icon": "wario-land",
+      "credits": [
+        "Stage: Wario's Castle HD (MarioDox, soopercool101, Ghost1548870, Smash 2 Dev Team) https://gamebanana.com/mods/149259"
+      ],
+      "alt": "L",
+      "displayName": "Wario Castle",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Level 2 (VB Wario Land)",
+          "Pirate Level / Underwater (Wario Land)",
+          "Lost in the Ruins",
+          "Tower of Revival / Main Theme",
+          "Crescent Moon Village"
+        ]
+      }
+    },
+    {
+      "name": "Wario Land (R)",
+      "icon": "wario-land",
+      "credits": [
+        "Stage: Wario's Castleware (MarioDox, Ghost1548870, Smash 2 Dev Team, WorseDoughnut, Nezha, PMDT) https://gamebanana.com/mods/149095"
+      ],
+      "alt": "R",
+      "displayName": "Wario Castle",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Level 2 (VB Wario Land)",
+          "Pirate Level / Underwater (Wario Land)",
+          "Lost in the Ruins",
+          "Tower of Revival / Main Theme",
+          "Crescent Moon Village"
+        ]
+      }
+    },
+    {
+      "name": "Wario Land (Z)",
+      "icon": "wario-land",
+      "credits": [
+        "Stage: Waluigi Stadium Revamp (NNEBF, mawwwk, davidvkimball, Yohan1044) https://gamebanana.com/mods/399290"
+      ],
+      "alt": "Z",
+      "displayName": "Waluigi Pinball",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Luigi Raceway",
+          "Waluigi Pinball",
+          "Waluigi's Island"
+        ]
+      }
+    },
+    {
+      "name": "Edo Town (L)",
+      "icon": "edo-town",
+      "credits": [
+        "Stage: Clanker's Cavern v1.5 (Nezha, Survivian, WTails358, Zenith, DSX8, Mewtwo2k, soopercool101, MarioDox, eon, fudgepop01, StarWafle, Dranakar) https://gamebanana.com/mods/300848"
+      ],
+      "alt": "L",
+      "displayName": "Clanker's Cavern",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Clanker's Cavern",
+          "Bubblegloop Swamp",
+          "Final Battle (Vs. Gruntilda)",
+          "Glitter Gulch Mine",
+          "Isle 'O Hags",
+          "Main Theme (Nuts and Bolts)",
+          "Mayahem Temple",
+          "Mumbo's Mountain",
+          "Porch Swing Paws",
+          "Spiral Mountain",
+          "Test-o-Track",
+          "Treasure Trove Cove"
+        ]
+      }
+    },
+    {
+      "name": "Edo Town",
+      "icon": "edo-town",
+      "credits": [
+        "Stage: Oedo Town (SoN1c2001, NickirixXT, StefBoyardee, Yahtzeh, Nezha, SirGimmick, vista_the_bunny, ShaolinSnake96, GRAND AZEL) https://gamebanana.com/mods/522538"
+      ],
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "A Pink Flower for Your Tbi (Yamato)",
+          "At Ryugu, Daily Life on Turtle Back",
+          "Burning My Soul",
+          "Cloud Stronghold",
+          "Diamond Head (Road to the Flying Castle)",
+          "Ebisu in Osaka",
+          "Edo Castle (Karakuri Dochuu Theme)",
+          "Ganbare Goemon 2 Retro Medley",
+          "Ganbare Goemon Boss Medley",
+          "Goe Goe Spark (GaMetal Remix)",
+          "Goe Goe Spark (Original)",
+          "Groan! Rampage of the Wind",
+          "Headquarters of the Otafu Army",
+          "Heartbreak Corlin + I Am Impact! (Remix by DjtheSdotcom)",
+          "I Am Impact!",
+          "Iga Ninja Mansion",
+          "Kappa Traveling in Roaming Road",
+          "King Ryukyu's Secret",
+          "Odeo Town (OC ReMix by Palpable)",
+          "Planet Aquan",
+          "Re-Seeing!",
+          "Running Through the Pine Corridor",
+          "Sanshirou",
+          "Shikoku, Toukai, Chuubu + Karaburi Castle",
+          "Smile Again",
+          "Sogen Street",
+          "Summer Vacation' Return (Ryukyu Resort)",
+          "Sunset - Want You",
+          "Taking Care of the Horses",
+          "Theme of Ganbare Goemon",
+          "Theme of Goemon Impact",
+          "Wordly Town"
+        ]
+      }
+    },
+    {
+      "name": "Edo Town (Z)",
+      "icon": "edo-town",
+      "credits": [
+        "Stage: Up and Down (Miokai, Peardian) https://gamebanana.com/mods/421846"
+      ],
+      "alt": "Z",
+      "displayName": "Up and Down",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "ANOTHER REDIAL - BOMBERMAN HERO REMIX 2018",
+          "Battle (Bomberman 64)",
+          "Battle B (Bomberman 64)",
+          "Opening (Bomberman 64)",
+          "Battle (Bomberman Blast)",
+          "Bomberman Blast (Remix)",
+          "Standard Battle (Bomberman Generation)",
+          "Battle 1 (Bomberman Online)",
+          "Boss BattleDastadly Bomber Fight (Bomberman Tournament)",
+          "Off to Magnet Bomber's Castle (Super Bomberman 2) [REMASTERED]",
+          "Planet Brainwave",
+          "Redial",
+          "Battle 2 (Super Bomberman 2)",
+          "Battle 3 (Super Bomberman 2)",
+          "Main Menu (Super Bomberman R Online)",
+          "Battle 2 (Super Bomberman 2) [ALMRemix]",
+          "Battle 4 (Super Bomberman 2) [ALMRemix]",
+          "Vs Bagular",
+          "With us in the flower garden (Saturn Bomberman Fight!!)",
+          "Zip"
+        ]
+      }
+    },
+    {
+      "name": "Edo Town (R)",
+      "icon": "edo-town",
+      "credits": [
+        "Stage: Artisan's Hub (MG64, Insomniac, Nezha) https://gamebanana.com/mods/576730"
+      ],
+      "alt": "R",
+      "displayName": "Artisan's Hub",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Autumn Plains (Spyro 2)",
+          "Charmed Ridge (Spyro 3)",
+          "Cliff Town (Spryo)",
+          "Dark Hollow (Spyro)",
+          "Glimmer (Spyro 2)",
+          "Gnasty's Loot (Spyro)",
+          "Gnorc Cove (Spyro)",
+          "Home (Spyro)",
+          "Icy Peak (Spyro 3)",
+          "Molten Crater (Spyro 3)",
+          "Rypto's Arena (Spyro 2)",
+          "Sunny Beach (Spyro 2)",
+          "Super Bonus Round (Spyro 3)",
+          "Winter Tundra (Spyro 2)",
+          "Wizard Peak (Spyro 3)"
+        ]
+      }
+    },
+    {
+      "name": "Bugaria",
+      "icon": "bugaria",
+      "credits": [
+        "Stage: Bugaria Outskirts (Fruiter, WTails358, Moonsprout Games, theycallme, Boilingpot, Luigi_Maxwell) https://brawlm.art/mod/300011/b-RT4KkmWQ9MM71z"
+      ],
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Bug Fables",
+          "FIGHT!",
+          "Golden Lands",
+          "Oh No! WASPS!!",
+          "Outskirts",
+          "Oh No! WASPS!! - GaMetal",
+          "Transcending, Overpowering, Everlasting"
+        ]
+      }
+    },
+    {
+      "name": "Bugaria (L)",
+      "icon": "bugaria",
+      "credits": [
+        "Stage: World Bowser v3 (YorchUZW, Nezha, soopercool101, WTails358, mawwwk, P+DT) https://gamebanana.com/mods/523999"
+      ],
+      "alt": "L",
+      "displayName": "World Bowser",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Castle (Super Mario World)",
+          "The Evil King Bowser",
+          "Koopa's Road",
+          "Ultimate Koopa",
+          "Bowser's Theme (Super Mario 64)",
+          "Bowser's Rage",
+          "Bowser's Castle (Mario Kart 8)",
+          "Bowser's Highway Showdown",
+          "Bowser's Castle (Mario Kart: Double Dash)",
+          "In the Final",
+          "Final Bowser (New Super Mario Bros. Wii)",
+          "Castle / Fortress Boss (SMW / SMB3)",
+          "Airship Theme (Super Mario Bros. 3)",
+          "Battle with Bowser (Super Mario All-Stars)"
+        ]
+      }
+    },
+    {
+      "name": "Bugaria (R)",
+      "icon": "bugaria",
+      "credits": [
+        "Stage: From REX (https://rexbuild.site)"
+      ],
+      "alt": "R",
+      "displayName": "Kremkrok Industries",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Fear Factory",
+          "Nuts and Bolts",
+          "K. Rool's Acid Punk",
+          "Gang-Plank Galleon",
+          "Flight of the Zinger",
+          "Lockjaw's Saga"
+        ]
+      }
+    },
+    {
+      "name": "Bugaria (Z)",
+      "icon": "bugaria",
+      "credits": [
+        "Stage: Mushroom Kingdom III (PurlSaturn) https://brawlm.art/mod/300006/SrV2M2kiG3-0udHR"
+      ],
+      "alt": "Z",
+      "displayName": "Mushroom Kingdom III",
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Mario Bros.",
+          "Gyromite",
+          "Famicom Medley",
+          "Power-Up Music",
+          "Douchuumen (Nazo no Murasamejo)"
+        ]
+      }
+    },
+    {
+      "name": "Yoshi's Island",
+      "icon": "yoshi-s-island",
+      "credits": [
+        "Stage: Yoshi's Island '23 (Motobug, mawwwk, MarioDox) P+"
+      ],
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Athletic (Yoshi's Island)",
+          "Ending (Yoshi's Story)",
+          "Yoshi's Island",
+          "Flower Field",
+          "Wildlands",
+          "Yoshi Series Medley"
+        ]
+      }
+    },
+    {
+      "name": "Yoshi's Island (L)",
+      "icon": "yoshi-s-island",
+      "credits": [
+        "Stage: Yoshi's Story (P+DT) P+"
+      ],
+      "alt": "L",
+      "displayName": "Yoshi's Story (Melee)",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Yoshi's Island (Melee)",
+          "Super Mario Bros. 3 (Melee)",
+          "Crash Out - HBox"
+        ]
+      }
+    },
+    {
+      "name": "Yoshi's Island (R)",
+      "icon": "yoshi-s-island",
+      "credits": [
+        "Stage: Woolly World (Frof) https://gamebanana.com/mods/515046"
+      ],
+      "alt": "R",
+      "displayName": "Yoshi's Island",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Athletic (Yoshi's Island)",
+          "Ending (Yoshi's Story)",
+          "Yoshi's Island",
+          "Flower Field",
+          "Wildlands",
+          "Yoshi Series Medley"
+        ]
+      }
+    },
+    {
+      "name": "Yoshi's Island (Z)",
+      "icon": "yoshi-s-island",
+      "credits": [
+        "Stage: Yoshi's Cookie / Cookie Land (MarioDox, Wildgoosespeeder, Tails777) https://gamebanana.com/mods/149189"
+      ],
+      "alt": "Z",
+      "displayName": "Yoshi Cookie",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Cookie Land",
+          "Let's Bake!",
+          "World Map (Yoshi's Cookie)",
+          "Type A (Yoshi Cookie)",
+          "Floating Castle"
+        ]
+      }
+    },
+    {
+      "name": "The Pit",
+      "icon": "the-pit",
+      "credits": [
+        "Stage: The Pit (CaliKingz01) https://brawlm.art/mod/203372/vN5fcuZCqsofzcOx"
+      ],
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Armory (MK9)",
+          "Armaggedon Hell (MK)",
+          "Armory Genesis (MK2)",
+          "Armory Theme (MK2)",
+          "Artifacts - Paul Unfaces",
+          "Character Select (Deadly Alliance)",
+          "DeadPool Theme (MK3)",
+          "DeadPool Theme (MK2)",
+          "Deception Slaugter House Theme (MK)",
+          "Living Forest Theme (MK2)",
+          "Living Forest Theme (MK3)",
+          "Living Forest Theme (MK9)",
+          "Rain (MK4)",
+          "Reptile's Theme (Skrillex)",
+          "The Cave Theme (MK3)",
+          "The Tower Theme (MK3)",
+          "The Well (MK4)",
+          "Unknown (1)",
+          "Unknown (2)",
+          "Unknown (3)",
+          "Wasteland Theme (MK2)",
+          "Wasteland Theme (MK9)"
+        ]
+      }
+    },
+    {
+      "name": "The Pit (L)",
+      "icon": "the-pit",
+      "credits": [
+        "Stage: Budokai Tenka'ichi (Grass=die), (Mewtwo2000, RandomTBush) https://brawlm.art/mod/4906/h0kL1S3GuhA-2x7b"
+      ],
+      "alt": "L",
+      "displayName": "Budokai Tenka'ichi",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Broly's Theme (Dragon Ball FighterZ)",
+          "Cell Ring (Super Dragon Ball Z)",
+          "Ending Credits (Battle of the Gods)",
+          "Hyperbolic Time Chamber (Budokai Tenkaichi 3)",
+          "Opening (Budokai Tenkaichi 3)",
+          "Perfect Cell Theme (US Ver.)",
+          "Wild Rush (Budokai Tenkaichi 3)",
+          "Wild Soul",
+          "World Martial Arts Tournament Theme",
+          "World Martial Arts Tournament",
+          "CHA-LA-HEAD-CHA-LA",
+          "Hyperbolic Time Chamber",
+          "Kami's Lookout",
+          "Planet Namek",
+          "Theme of Goku",
+          "Ultimate Battle",
+          "West City",
+          "World Tournament Arena"
+        ]
+      }
+    },
+    {
+      "name": "The Pit (R)",
+      "icon": "the-pit",
+      "credits": [
+        "Stage: (Da'Juan Simpson) https://www.dropbox.com/scl/fi/pgrv4d67mwzapf603wy95/GET-OVER-HERE.rar?rlkey=kqi4wyj7sgl94dcqx8jj3scuu&e=1&dl=0"
+      ],
+      "alt": "R",
+      "displayName": "The Dead Pool",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Armory (MK9)",
+          "Armaggedon Hell (MK)",
+          "Armory Genesis (MK2)",
+          "Armory Theme (MK2)",
+          "Artifacts - Paul Unfaces",
+          "Character Select (Deadly Alliance)",
+          "DeadPool Theme (MK3)",
+          "DeadPool Theme (MK2)",
+          "Deception Slaugter House Theme (MK)",
+          "Living Forest Theme (MK2)",
+          "Living Forest Theme (MK3)",
+          "Living Forest Theme (MK9)",
+          "Rain (MK4)",
+          "Reptile's Theme (Skrillex)",
+          "The Cave Theme (MK3)",
+          "The Tower Theme (MK3)",
+          "The Well (MK4)",
+          "Unknown (1)",
+          "Unknown (2)",
+          "Unknown (3)",
+          "Wasteland Theme (MK2)",
+          "Wasteland Theme (MK9)"
+        ]
+      }
+    },
+    {
+      "name": "The Pit (Z)",
+      "icon": "the-pit",
+      "credits": [
+        "Stage: (Da'Juan Simpson) https://www.dropbox.com/scl/fi/pgrv4d67mwzapf603wy95/GET-OVER-HERE.rar?rlkey=kqi4wyj7sgl94dcqx8jj3scuu&e=1&dl=0"
+      ],
+      "alt": "Z",
+      "displayName": "Kuatan Palace",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Armory (MK9)",
+          "Armaggedon Hell (MK)",
+          "Armory Genesis (MK2)",
+          "Armory Theme (MK2)",
+          "Artifacts - Paul Unfaces",
+          "Character Select (Deadly Alliance)",
+          "DeadPool Theme (MK3)",
+          "DeadPool Theme (MK2)",
+          "Deception Slaugter House Theme (MK)",
+          "Living Forest Theme (MK2)",
+          "Living Forest Theme (MK3)",
+          "Living Forest Theme (MK9)",
+          "Rain (MK4)",
+          "Reptile's Theme (Skrillex)",
+          "The Cave Theme (MK3)",
+          "The Tower Theme (MK3)",
+          "The Well (MK4)",
+          "Unknown (1)",
+          "Unknown (2)",
+          "Unknown (3)",
+          "Wasteland Theme (MK2)",
+          "Wasteland Theme (MK9)"
+        ]
+      }
+    },
+    {
+      "name": "Pokemon Stadium 3",
+      "icon": "pokemon-stadium-3",
+      "credits": [
+        "Stage: Pokemon Stadium 3 (NNEBF, _Silent_, DJ PVSTV) https://gamebanana.com/mods/430679"
+      ],
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Advance Adventure (Orchestra & Guitar Arrangement)",
+          "Battle Mode Theme 1",
+          "Battle Mode Theme 2",
+          "Burning Battlefield",
+          "Burring Battlefield_b",
+          "Colosseum Theme 1",
+          "Dialga's Fight to the Finish",
+          "First BattleGateway Colosseum",
+          "Gotta Catch'em All (Mewtwo Strikes Back)",
+          "Gym (Hoenn)",
+          "Gym Theme II (Kanto)",
+          "Ho-Oh Battle [Enhanced Remix] (HGSS)",
+          "I Don't Want to Say Goodbye",
+          "Miror B.'s Retro Groove",
+          "MissingNo. Battle!",
+          "National Park (HGSS)",
+          "Normal Battle",
+          "OK! (Orchestra & Guitar Arrangement)",
+          "Palkia & Dialga Origin Form Battle (PLA)",
+          "Pokemon Wielder Volo Battle (PLA)",
+          "Ranger Wild Battle Medley",
+          "Run Away (Drum & Bass) [Mystery Dungeon] Enndasche Remix",
+          "Trainer Battle (PLA)",
+          "Warden Galaxy Team Battle (PLA)",
+          "Welcom To The World of Pokemon!",
+          "Wild Pokemon Battle (Hoenn)",
+          "Wild Pokemon Battle (Kanto) [Anime]",
+          "Battle! VS Gym Leader (Drum & Bass) (SWSH)",
+          "Marnie Theme (Liquid Drum & Bass) (SWSH)",
+          "WYNDON - Orchestral Arangement (SWSH)"
+        ]
+      }
+    },
+    {
+      "name": "Pokemon Stadium 3 (R)",
+      "icon": "pokemon-stadium-3",
+      "credits": [
+        "Stage: Dash Dance Revolution Local PS2 (GARY NEVER GARY AGAIN, PMDT) https://gamebanana.com/mods/590633"
+      ],
+      "alt": "R",
+      "displayName": "Dash Dance Revolution",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Always Smiling",
+          "Blooper Bop",
+          "Boo Boogie",
+          "Bowser's Castle (Longer Loop)",
+          "Deep Freeze",
+          "Hammer Dance",
+          "Here We Go!",
+          "Jump! Jump! Jump!",
+          "Mario - Starring Wario! (Custom Loop)",
+          "Moustache, Barrel, adn Gorilla",
+          "Pirate Dance",
+          "Piroli",
+          "Rollercoasting",
+          "Step By Step",
+          "Underground Mozart",
+          "Where's the Exit"
+        ]
+      }
+    },
+    {
+      "name": "Pokemon Stadium 3 (Z)",
+      "icon": "pokemon-stadium-3",
+      "credits": [
+        "Stage: Sprout Tower (P+ CS 1:1) (Electropolitan, P+ Team) https://gamebanana.com/mods/435942"
+      ],
+      "alt": "Z",
+      "displayName": "Sprout Tower",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "2BA Master",
+          "Bycicle Theme (Orchestrated) (GSC)",
+          "Game Corner Remix (GSC)",
+          "Goldenrod City Remix (GSC)",
+          "Legendary Beasts Battle (GSC)",
+          "National Park (Remix) (GSC)",
+          "Rival Encounter! (GSC)",
+          "Route 38 (GSC)",
+          "Route 38 (Happy Symphony remix by Y.W) (GSC)",
+          "S.S. Aqua (Remastered) (GSC)",
+          "Surf Theme EDM Remix (SilenDrumr) (GSC)",
+          "Team Rocket Battle Theme Remix (GSC)",
+          "Trainer Battle (Drum & Bass Hardcore) (GSC)",
+          "Colosseaum Theme 1",
+          "Gotta Catch'em All (Mewtwo Strikes Back)",
+          "Gym Theme II (Kanto)",
+          "Ho-Oh Battle [Enhanced Remix] (HGSS)",
+          "MissingNo. Battle!",
+          "National Park (HGSS)",
+          "Wild Pokemon Battle (Kanto) [Anime]"
+        ]
+      }
+    },
+    {
+      "name": "Pokemon Stadium 3 (L)",
+      "icon": "pokemon-stadium-3",
+      "credits": [
+        "Stage: Bell Tower (HeartGold and SoulSilver Remake) (Lilothestitch16, Lensho) https://gamebanana.com/mods/376421"
+      ],
+      "alt": "L",
+      "displayName": "Bell Tower",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "2BA Master",
+          "Bycicle Theme (Orchestrated) (GSC)",
+          "Game Corner Remix (GSC)",
+          "Goldenrod City Remix (GSC)",
+          "Legendary Beasts Battle (GSC)",
+          "National Park (Remix) (GSC)",
+          "Rival Encounter! (GSC)",
+          "Route 38 (GSC)",
+          "Route 38 (Happy Symphony remix by Y.W) (GSC)",
+          "S.S. Aqua (Remastered) (GSC)",
+          "Surf Theme EDM Remix (SilenDrumr) (GSC)",
+          "Team Rocket Battle Theme Remix (GSC)",
+          "Trainer Battle (Drum & Bass Hardcore) (GSC)",
+          "Colosseaum Theme 1",
+          "Gotta Catch'em All (Mewtwo Strikes Back)",
+          "Gym Theme II (Kanto)",
+          "Ho-Oh Battle [Enhanced Remix] (HGSS)",
+          "MissingNo. Battle!",
+          "National Park (HGSS)",
+          "Wild Pokemon Battle (Kanto) [Anime]"
+        ]
+      }
+    },
+    {
+      "name": "Menu",
+      "icon": "menu",
+      "credits": [
+        "Textures: OurBoyFoxy",
+        "Modeling: DJ PVSTV"
+      ],
+      "tracklist": {
+        "note": "Compiled by OurBoyFoxy",
+        "tracks": [
+          "Comfort Cruise - Harrison",
+          "Do The Astral Plane - Flying Lotus",
+          "Infinity Repeating (2013 Demo) - Daft Punk",
+          "Marcos - Kokonoku",
+          "Clubbed to Death - The Matrix",
+          "Discowav"
+        ]
+      }
+    },
+    {
+      "name": "Metal Cavern",
+      "icon": "metal-cavern",
+      "credits": [
+        "Stage: Metal Cavern (MaybeGreg, Project M Dev Team, Project Plus Dev Team) https://gamebanana.com/mods/148995"
+      ],
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Metal Mario Fight",
+          "Metal Battle",
+          "Hazy Maze Cave",
+          "X-Naut Fortress",
+          "Crystal Caves (Yoshi's Island)",
+          "Underground (Super Mario Bros.)",
+          "Underground (Super Mario Land)"
+        ]
+      }
+    },
+    {
+      "name": "Metal Cavern (R)",
+      "icon": "metal-cavern",
+      "credits": [
+        "Stage: Mushroomy Cavern (Motobug, davidvkimball, Scout, Wyld, Skeleton, LlamaJuice, jlcpepe, PMDT) P+"
+      ],
+      "alt": "R",
+      "displayName": "Underground 1-2",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Metal Mario Fight",
+          "Metal Battle",
+          "Hazy Maze Cave",
+          "X-Naut Fortress",
+          "Crystal Caves (Yoshi's Island)",
+          "Underground (Super Mario Bros.)",
+          "Underground (Super Mario Land)"
+        ]
+      }
+    },
+    {
+      "name": "Metal Cavern (Z)",
+      "icon": "metal-cavern",
+      "credits": [
+        "Stage: HD Metal Cavern (LlamaJuice, Mewtwo2000, Ryztiq) https://brawlm.art/mod/207030/xbSxwPTfKx4_UsMJ"
+      ],
+      "alt": "Z",
+      "displayName": "Metal Cavern 64",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Metal Mario Fight",
+          "Metal Battle",
+          "Hazy Maze Cave",
+          "X-Naut Fortress",
+          "Crystal Caves (Yoshi's Island)",
+          "Underground (Super Mario Bros.)",
+          "Underground (Super Mario Land)"
+        ]
+      }
+    },
+    {
+      "name": "Metal Cavern (L)",
+      "icon": "metal-cavern",
+      "credits": [
+        "Stage: FFVII Planet's Core (Yorch2296, DSX8) https://brawlm.art/mod/219292/cGj1FaKClCRQbAL4"
+      ],
+      "alt": "L",
+      "displayName": "Planet's Core",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "One Winged Angel",
+          "Advent: One Winged Angel",
+          "Birth of a God",
+          "J-E-N-O-V-A",
+          "Fires of Resistance",
+          "Fight with Seymour",
+          "Opening (Bombing Mission)",
+          "Those Who Fight (AC Version)",
+          "Those Who Fight Further (AC Version)",
+          "For Those Who Squat"
+        ]
+      }
+    },
+    {
+      "name": "Frigate Husk",
+      "icon": "frigate-husk",
+      "credits": [
+        "Stage: Frigate Husk (Project+ Art Tem, Yorch, GRAND AZEL, SJ, mawwwk, Motobug) P+"
+      ],
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Vs. Ridley",
+          "Vs. Parasite Queen",
+          "Opening/Menu (Metroid Prime)",
+          "Sector 1",
+          "Vs. Meta Ridley",
+          "Multiplayer (Metroid Prime 2)"
+        ]
+      }
+    },
+    {
+      "name": "Frigate Husk (L)",
+      "icon": "frigate-husk",
+      "credits": [
+        "Stage: Phendrana Husk (metanite64, Nezha, DukeItOut, Layell, Kirbeast, BustedSoda/Coolbuy) https://gamebanana.com/mods/468045"
+      ],
+      "alt": "L",
+      "displayName": "Phendrana Drifts",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Phendrana Drifts Depths",
+          "Vs. Serris",
+          "Vs. Parasite Queen",
+          "Hunters",
+          "Data Selection Screen",
+          "Skytown"
+        ]
+      }
+    },
+    {
+      "name": "Frigate Husk (R)",
+      "icon": "frigate-husk",
+      "credits": [
+        "Stage: Drowned Frigate (Yorch, Project+ Art Team, Motobug) P+"
+      ],
+      "alt": "R",
+      "displayName": "Drowned Frigate",
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Vs. Ridley",
+          "Vs. Parasite Queen",
+          "Opening/Menu (Metroid Prime)",
+          "Sector 1",
+          "Vs. Meta Ridley",
+          "Multiplayer (Metroid Prime 2)"
+        ]
+      }
+    },
+    {
+      "name": "Frigate Husk (Z)",
+      "icon": "frigate-husk",
+      "credits": [
+        "Stage: Pyrosphere Husk (metanite64, DSX8) https://gamebanana.com/mods/480051"
+      ],
+      "alt": "Z",
+      "displayName": "Pyrosphere",
+      "tracklist": {
+        "note": "OST",
+        "tracks": [
+          "Vs. Ridley",
+          "Vs. Parasite Queen",
+          "Opening/Menu (Metroid Prime)",
+          "Sector 1",
+          "Vs. Meta Ridley",
+          "Multiplayer (Metroid Prime 2)"
+        ]
+      }
+    },
+    {
+      "name": "Green Hill Zone P+",
+      "icon": "green-hill-zone-p",
+      "credits": [
+        "Stage: Green Hill Zone (The Project+ Art team, nnebf, Kirbeast, GRAND AZEL, mawwwk, tyleto, PMDT)"
+      ],
+      "tracklist": {
+        "note": "Compiled by Maye",
+        "tracks": [
+          "Green Hill Zone",
+          "Angel Island Zone",
+          "Scrap Brain Zone",
+          "Emerald Hill Zone",
+          "Sonic Boom",
+          "Super Sonic Racing",
+          "Open Your Heart",
+          "Live & Learn",
+          "Sonic Heroes",
+          "Right There, Ride On",
+          "HIS WORLD (Instrumental)",
+          "Seven Rings In Hand"
+        ]
+      }
+    },
+    {
+      "name": "Green Hill Zone P+ (R)",
+      "icon": "green-hill-zone-p",
+      "credits": [
+        "Stage: Pumpkin Hill Zone (Prim8, DukeItOut, ᆘ유 | 유유, PMDT, Layell) P+"
+      ],
+      "alt": "R",
+      "displayName": "Pumpkin Hill",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "A Ghost's Pumpkin Soup"
+        ]
+      }
+    },
+    {
+      "name": "Green Hill Zone P+ (L)",
+      "icon": "green-hill-zone-p",
+      "credits": [
+        "Stage: Sky Sanctuary Zone (ElevenZM, Noserus, Project+ Dev Team) https://gamebanana.com/mods/292213"
+      ],
+      "alt": "L",
+      "displayName": "Sky Sanctuary Zone",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Sky Sanctuary",
+          "Theme of Knuckles (S3&K)",
+          "Lava Reef Zone",
+          "Angel Island Zone",
+          "Unknown from M.E.",
+          "Door into Summer",
+          "Seascape",
+          "Midnight Greenhouse",
+          "Turquoise Hill Zone",
+          "Tabloid Jargon",
+          "Marble Zone",
+          "Vs. Knuckles (Sonic Advance 2)",
+          "Game Over (Altered Beast)"
+        ]
+      }
+    },
+    {
+      "name": "Green Hill Zone P+ (Z)",
+      "icon": "green-hill-zone-p",
+      "credits": [
+        "Stage: Radical Highway (NNEBF, PMDT) https://gamebanana.com/mods/149166"
+      ],
+      "alt": "Z",
+      "displayName": "Radical Highway",
+      "tracklist": {
+        "note": "Compiled by DJ PVSTV",
+        "tracks": [
+          "Radical Highway",
+          "Rail Canyon",
+          "City Escape",
+          "Open Your Heart",
+          "Live and Learn",
+          "His World",
+          "Go Straight (Streets of Rage 2)",
+          "Fly Like A Butterfly (Jet Set Radio)",
+          "Metal Harbor"
         ]
       }
     }

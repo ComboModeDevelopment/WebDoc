@@ -199,6 +199,7 @@ td ul { margin: 0; padding-left: 18px; }
 .changes-controls {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 24px;
 }
@@ -212,6 +213,49 @@ td ul { margin: 0; padding-left: 18px; }
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: 6px;
+}
+
+/* Segmented control: cumulative history vs. just-this-release changes. */
+.mode-toggle {
+  display: inline-flex;
+  padding: 2px;
+  margin-right: 6px;
+  background: var(--th-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.mode-btn {
+  font: inherit;
+  padding: 5px 12px;
+  color: var(--text-muted);
+  background: none;
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.mode-btn:hover { color: var(--text); }
+
+.mode-btn.is-active {
+  color: var(--accent-text);
+  background: var(--accent);
+  font-weight: 600;
+}
+
+/* "vs 0.9.0" pill next to the release picker in compare mode. */
+.compare-note {
+  padding: 4px 10px;
+  font-size: 14px;
+  color: var(--text-muted);
+  background: var(--th-bg);
+  border-radius: 999px;
+}
+
+.changes-mode-note {
+  margin: -14px 0 20px;
+  font-size: 14px;
+  color: var(--text-muted);
 }
 
 /* Subsection headings (e.g. Credits > Characters/Stages/Other) */

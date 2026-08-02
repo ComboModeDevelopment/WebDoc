@@ -1,4 +1,4 @@
 {
   "_comment": "Publish gate for BOTH quirks and character changes. Set 'latest_published' to the newest version that should be visible on the live site. Any release NEWER than this is excluded from the generated JSON at build time, so you can push future-release content (e.g. 1.0.0) without it showing yet. Bump this value (and push) when you're ready to reveal it. Set to null or \"\" to show everything. To preview unpublished releases locally without changing this, run the build with SHOW_UNPUBLISHED=1.",
-  "latest_published": "1.0.0"
+  "latest_published": "1.1.0"
 }

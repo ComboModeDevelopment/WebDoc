@@ -1,2 +1,7 @@
 .claude/settings.local.json
 scripts/__pycache__/releasecfg.cpython-310.pyc
+
+# Working copy of the private Combo-Mode repo's changes/ folder, pulled in as
+# the source for the site's change notes. The leading slash anchors this to the
+# repo root so docs/changes/ (the published content) is unaffected.
+/changes/
