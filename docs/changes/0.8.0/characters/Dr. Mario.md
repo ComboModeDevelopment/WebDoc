@@ -1,4 +1,4 @@
-# Doctor Mario — 0.9.5
+# Dr. Mario — 0.8.0
 
 ## Changes
 
@@ -20,15 +20,10 @@ range buffed
 
 **Neutral Air**
 initial hit active frames: 1 → 3
-late hit kbg: 110 → 100
-initial hit angle: 361 → 55
 
 **Forward Air**
 removed slowdown
 no longer has a sourspot
-bkb: 50 → 45
-damage: 19 → 18
-kbg: 100 → 95
 
 **Up Air**
 bkb: 9 → 25
@@ -55,7 +50,6 @@ can cancel into attacks
 
 **Down B**
 gives better lift in air
-endlag sped up 1.5x → 1.2x
 
 ### Other
 

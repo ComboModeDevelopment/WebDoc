@@ -1,4 +1,4 @@
-# Doctor Mario — 0.9.0
+# Dr. Mario — 0.9.0
 
 ## Changes
 

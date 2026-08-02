@@ -1,4 +1,4 @@
-# Doctor Mario — 0.8.0
+# Dr. Mario — 0.7.0
 
 ## Changes
 
@@ -14,22 +14,12 @@ damage: 9 → 12
 
 **Down Tilt**
 damage: 10 → 12
-range buffed
 
 ### Aerial Attacks
-
-**Neutral Air**
-initial hit active frames: 1 → 3
-
-**Forward Air**
-removed slowdown
-no longer has a sourspot
 
 **Up Air**
 bkb: 9 → 25
 kbg: 100 → 85
-range buffed
-endlag sped up 1.3x
 
 **Down Air**
 startup sped up 0.9x → 1.2x
@@ -38,18 +28,11 @@ kbg: 50 → 80
 
 ### Special Moves
 
-**Neutral B**
-sped up
-
 **Up B**
 can no longer hit the sourspot after the sweetspot
-can now perform an up b cancel by holding shield on the ground
 
 **Side B**
 can cancel into attacks
-
-**Down B**
-gives better lift in air
 
 ### Other
 
@@ -64,13 +47,10 @@ sweetspot kbg: 50 → 35
 sweetspot damage: 11 → 13
 sourspot bkb: 45 → 65
 sourspot damage: 9 → 10
-sped up after 1st hit 1.3x
 
 ### Character Parameters
 
 | Parameter | Change |
 |-----------|--------|
-| Run Speed | 1.45 → 1.59 |
-| Initial Dash Speed | 1.5 → 1.7 |
 | Traction | 0.06 → 0.07 |
 | Air Mobility | buffed |
