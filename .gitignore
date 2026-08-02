@@ -5,3 +5,7 @@ scripts/__pycache__/releasecfg.cpython-310.pyc
 # the source for the site's change notes. The leading slash anchors this to the
 # repo root so docs/changes/ (the published content) is unaffected.
 /changes/
+
+# Generated cumulative files for 1.0.0/1.1.0 awaiting review before they get
+# copied into docs/changes/.
+/staged/

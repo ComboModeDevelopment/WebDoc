@@ -2,4 +2,7 @@
 
 ## Changes since 1.0.0
 
-No changes this release.
+### Other
+
+**Down Throw**
+angle: 90 → 120

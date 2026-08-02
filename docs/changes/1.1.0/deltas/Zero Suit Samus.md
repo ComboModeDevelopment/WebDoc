@@ -1,4 +1,4 @@
-# Zelda — 1.1.0
+# Zero Suit Samus — 1.1.0
 
 ## Changes since 1.0.0
 
