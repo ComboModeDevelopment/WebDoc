@@ -16,6 +16,11 @@
           "file": "Charizard.md"
         },
         {
+          "name": "Daisy",
+          "file": "Daisy.md",
+          "delta": "Daisy.md"
+        },
+        {
           "name": "Diddy Kong",
           "file": "Diddy Kong.md"
         },
@@ -30,6 +35,11 @@
         {
           "name": "Falco",
           "file": "Falco.md"
+        },
+        {
+          "name": "Fox (Melee)",
+          "file": "Fox (Melee).md",
+          "delta": "Fox (Melee).md"
         },
         {
           "name": "Fox",
@@ -213,6 +223,11 @@
           "file": "Charizard.md"
         },
         {
+          "name": "Daisy",
+          "file": "Daisy.md",
+          "delta": "Daisy.md"
+        },
+        {
           "name": "Diddy Kong",
           "file": "Diddy Kong.md"
         },
@@ -227,6 +242,11 @@
         {
           "name": "Falco",
           "file": "Falco.md"
+        },
+        {
+          "name": "Fox (Melee)",
+          "file": "Fox (Melee).md",
+          "delta": "Fox (Melee).md"
         },
         {
           "name": "Fox",

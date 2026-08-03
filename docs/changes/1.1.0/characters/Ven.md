@@ -2,8 +2,6 @@
 
 ## Changes
 
-*Ven joins the Combo Mode roster as an ice-based Roy variant.*
-
 ### Jab / Tilts
 
 **Jab**
