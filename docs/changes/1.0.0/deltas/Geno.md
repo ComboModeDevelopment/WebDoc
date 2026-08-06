@@ -49,6 +49,7 @@ increased distance
 
 **Up Throw**
 fixed bug where this move didn't put opponent in hitstun
+
 all specials buffed speed
 
 ### Character Parameters
