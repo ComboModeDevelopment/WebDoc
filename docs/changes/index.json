@@ -149,7 +149,8 @@
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mage Ganondorf",
@@ -290,7 +291,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 18,
+      "unchanged": 21,
       "previous": "1.0.0"
     },
     {
@@ -449,11 +450,13 @@
         },
         {
           "name": "Lucina",
-          "file": "Lucina.md"
+          "file": "Lucina.md",
+          "delta": "Lucina.md"
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mage Ganondorf",
@@ -462,7 +465,8 @@
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -481,7 +485,8 @@
         },
         {
           "name": "Mr. Game & Watch",
-          "file": "Mr. Game & Watch.md"
+          "file": "Mr. Game & Watch.md",
+          "delta": "Mr. Game & Watch.md"
         },
         {
           "name": "Ness",
@@ -704,7 +709,8 @@
         },
         {
           "name": "Lucina",
-          "file": "Lucina.md"
+          "file": "Lucina.md",
+          "delta": "Lucina.md"
         },
         {
           "name": "Luigi",
@@ -712,7 +718,8 @@
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -730,7 +737,8 @@
         },
         {
           "name": "Mr. Game & Watch",
-          "file": "Mr. Game & Watch.md"
+          "file": "Mr. Game & Watch.md",
+          "delta": "Mr. Game & Watch.md"
         },
         {
           "name": "Ness",
@@ -828,7 +836,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 14,
+      "unchanged": 15,
       "previous": "0.9.0"
     },
     {
@@ -927,15 +935,18 @@
         },
         {
           "name": "Lucina",
-          "file": "Lucina.md"
+          "file": "Lucina.md",
+          "delta": "Lucina.md"
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -1055,7 +1066,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 8,
+      "unchanged": 9,
       "previous": "0.8.0"
     },
     {
@@ -1146,11 +1157,13 @@
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -1266,7 +1279,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 1,
+      "unchanged": 2,
       "previous": "0.7.0"
     },
     {
@@ -1347,11 +1360,13 @@
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -1461,7 +1476,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 2,
+      "unchanged": 3,
       "previous": "0.6.0"
     },
     {
@@ -1565,7 +1580,8 @@
         },
         {
           "name": "Mr. Game & Watch",
-          "file": "Mr. Game & Watch.md"
+          "file": "Mr. Game & Watch.md",
+          "delta": "Mr. Game & Watch.md"
         },
         {
           "name": "Ness",
@@ -1644,7 +1660,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 16,
+      "unchanged": 18,
       "previous": "0.5.0"
     },
     {
@@ -1716,11 +1732,13 @@
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -1816,7 +1834,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 12,
+      "unchanged": 13,
       "previous": "0.4.0"
     },
     {
@@ -1889,11 +1907,13 @@
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -1983,7 +2003,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 12,
+      "unchanged": 13,
       "previous": "0.3.0"
     },
     {
@@ -2059,7 +2079,8 @@
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -2071,7 +2092,8 @@
         },
         {
           "name": "Mr. Game & Watch",
-          "file": "Mr. Game & Watch.md"
+          "file": "Mr. Game & Watch.md",
+          "delta": "Mr. Game & Watch.md"
         },
         {
           "name": "Ness",
@@ -2146,7 +2168,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 11,
+      "unchanged": 12,
       "previous": "0.2.0"
     },
     {
@@ -2222,7 +2244,8 @@
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -2235,7 +2258,8 @@
         },
         {
           "name": "Mr. Game & Watch",
-          "file": "Mr. Game & Watch.md"
+          "file": "Mr. Game & Watch.md",
+          "delta": "Mr. Game & Watch.md"
         },
         {
           "name": "Ness",
@@ -2305,7 +2329,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 15,
+      "unchanged": 16,
       "previous": "0.1.0"
     },
     {
@@ -2378,11 +2402,13 @@
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -2395,7 +2421,8 @@
         },
         {
           "name": "Mr. Game & Watch",
-          "file": "Mr. Game & Watch.md"
+          "file": "Mr. Game & Watch.md",
+          "delta": "Mr. Game & Watch.md"
         },
         {
           "name": "Ness",
