@@ -1,0 +1,292 @@
+Bowser:
+Built off P+ bowser (still heavily rebalanced/reworked) so has all the P+ specials. Otherwise pretty standard with no quirks.
+
+Captain Falcon:
+If A is held during side b, falcon will grab instead of doing the uppercut
+If aerial side b connects, falcon gets his double jump back and can jump out of the end lag
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+Charizard:
+Built off P+ zard (still heavily rebalanced/reworked) so has all the P+ specials.
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+Cloud:
+Nothing very quirky, just a heavily rebalanced Cloud from REX
+
+Daisy:
+Aerial down b command grab has set knockback and can be used to combo into fair or side b
+Side b is a self damaging kill move and combo ender
+
+Dark Samus:
+Down b bombs stay active on the ground for a long duration and stun opponents
+Aerial side b missiles landing cancel
+
+Diddy kong:
+Can cancel jab 2 into any attack
+Neutral B can landing cancel
+
+Donkey Kong:
+D-tilt guarantees trip on hitboxes close to DK
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+Dr.Mario:
+Can cancel cape into attacks
+Up b functions same as Mario, can wall jump out of it and cancel move while grounded if b is held (kill move unlike mario)
+
+Falco:
+Shine launchers opponents into falco but can only be canceled in the air with double jump and aerials
+If you’re fast, falco can short hop double laser
+
+Fox:
+Shine has set knockback leaving opponents in grounded stun and can be canceled only on the ground by moving and crouching (can combo into itself/kill confirms)
+
+Fox (Melee):
+Same as fox, but can also still jump cancel his aerial shine
+
+Ganon:
+Pressing b gives cape while holding it throws a projectile
+Down b can cancel into attacks
+Side b is a kill move unlike ganondorf
+
+Ganondorf:
+Opponents cannot tech grounded side b
+Hold B after grabbing the opponent with aerial side b and it will launch away instead of up
+If ganon still has his double jump during aerial side b, he can jump out of it
+His up and down angled f tilts are his P+ up tilt and down angled f tilt
+
+Geno:
+If a is held/pressed during down angled F-tilt, the move automatically links into f smash
+Geno has a crit mechanic where if you press A before your attack lands, it’s stronger
+Press b to charge neutral b 1 level at a time, fully charged at level 3
+
+Giga Bowser:
+Running has a multihit
+Can cancel up b into attacks
+
+Goemon:
+Removed from 1.1.0 due to creator's request.
+Goemon will return in Avenger's Endgame.
+
+Greninja:
+outdated build of character, N/A
+
+Ice Climbers:
+Nana cannot grab
+Nana cannot f smash, this is to allow Popo to have a stronger f smash solo
+Nana fair and popo up/down throw have set knockback
+
+Ike:
+Grounded side b can be jumped out of
+Aerial side be can be double jumped out of and has no landing lag
+
+Incineroar:
+Side b can grab opponents off missed tech
+Failed side b can combo into some attacks (jab, d tilt, f tilt)
+
+Isabelle:
+Nothing very quirky, just a heavily rebalanced Isabelle from PMEX
+
+Ivysaur:
+Built off P+ ivysaur (still heavily rebalanced/reworked) so has all the P+ specials.
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+JigglyPuff:
+Can cancel airdodge into aerials
+Sing is cancelable much sooner (now good move for tech chase on plats)
+Side b has a 2nd version that is slower + kills if b is held
+
+King Dedede:
+Nearly all of his attacks have had their ranged greatly increased
+Side b alternates between throwing gordos and waddle dees
+
+King Dedede (Ultimate):
+Nothing very quirky, just a heavily rebalanced Ultimate Dedede from REX
+
+King K. Rool:
+Tummy armor is removed on everything but side taunt
+Side taunt can be canceled into attacks
+
+Kirby:
+Built off P+ kirby (still heavily rebalanced/reworked) so has all the P+ specials.
+The full jab combo ends in a dash attack automatically
+
+Knuckles:
+Aerial neutral b is a dragdown with low landing lag, can combo into nicely into up tilt
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+Kumatora:
+Has double jump cancel
+If you airdodge during double jump, you’ll stay locked on the x axis and still be able to drift (this is universal among all double jump cancel characters)
+Down b stuns opponents and can combo into attacks
+
+Link:
+Can cancel jab 2 into any attack/special
+F smash first hit trips opponents and can be jump canceled
+Arrows are much stronger and can kill
+
+Little Mac:
+Can cancel rolls into attacks
+Down b is an unblockable that trips, it can also be canceled into attacks
+F tilt 1st hit trips and can cancel into specials
+Can double jump out of side b
+
+Lucario:
+Jab 2 can cancel into attacks and specials
+F tilt can cancel into specials
+If A is pressed after grabbing with grounded side b, lucario will cancel into f smash
+New down b that can cancel into attacks
+
+Lucario (Brawl):
+Aerial side b can actually grab opponents (not in vanilla Brawl)
+Keeps the brawl aura mechanic, althrough rebalanced and caps at 1.6x damage multiplier at 80%
+
+Lucas:
+Built off P+ Lucas (still heavily rebalanced/reworked) so has all the P+ specials.
+Down b is a kill move
+Has double jump cancel
+If you airdodge during double jump, you’ll stay locked on the x axis and still be able to drift (this is universal among all double jump cancel characters)
+
+Lucina:
+Grounded down b is cancelable into attacks and has good invincibility frames
+Aerial side b can cancel into attacks and double jump but has no invincibility
+
+Luigi:
+Can cancel jab 2 into attacks + specials
+Can landing cancel fireballs
+Can cancel grounded down b into attacks
+
+Mage Ganondorf:
+No glaring quirks, just has new movees, utility, and animations like most other characters
+
+Mario:
+Can cancel jab 2 into any attack
+FLUDD is best used as a recovery tool
+If b is held during grounded up b, mario gets the first hit and cancels into his landing (good combo move)
+Can wall jump out of up b
+
+Marth:
+Essentially nothing quirky about marth. Basically plays like how you would expect marth to play.
+
+Meta Knight:
+No glaring quirks, just has new moves, utility, and animations like most other characters
+Dair can be looped on grounded opponents
+Neutral b is a kill move/combo ender
+
+Mewtwo:
+Built off P+ m2 (still heavily rebalanced/reworked) so has all the P+ specials.
+You can still float after double jump if you hold jump
+Has double jump cancel
+If you airdodge during double jump, you’ll stay locked on the x axis and still be able to drift (this is universal among all double jump cancel characters)
+
+Mr. Game & Watch:
+Made 9’s more frequent and 1’s less frequent
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+Ness:
+Down b has a multihit that can be canceled into attacks
+Aerial side b can landing cancel
+Has double jump cancel
+If you airdodge during double jump, you’ll stay locked on the x axis and still be able to drift (this is universal among all double jump cancel characters)
+
+Olimar:
+outdated build of character, N/A
+
+Pac-Man:
+Nothing very quirky, just a heavily rebalanced Pac-Man from REX
+
+Peach:
+Down smash has set knockback on the final hit leaving opponents in a grounded stun allowing for followups
+Jab 1 is fast enough to allow peach to follow up with other attacks
+
+Pikachu:
+No glaring quirks, just has new moves, utility, and animations like most other characters
+Most tail attacks have more range
+
+Pit:
+Down b has a killing hitbox on startup
+Grounded side b has a final hit, but can cancel into grab before it comes out
+Aerial side b cancels on landing
+Up b has super armor and extreme maneuverability
+
+R.O.B.:
+Side b reworked to be a multihit into a strong final hit
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+Roy:
+No glaring quirks, just has new moves, utility, and animations like most other characters
+
+Roy (Melee):
+No glaring quirks, just has new moves, utility, and animations like most other characters
+
+Samus:
+Down b can be canceled into aerials
+Aerial side b missiles still landing cancel
+Jab 1 is fast enough to combo into most other moves
+
+Sephiroth:
+No glaring quirks, just has new moves, utility, and animations like most other characters
+
+Shadow:
+After neutral b homing attack lands, press b again for the followup kill move
+Otherwise no glaring quirks, just has new moves, utility, and animations like most other characters
+
+Sheik:
+No glaring quirks, just has new moves, utility, and animations like most other characters
+
+Snake:
+Jab 2 and f tilt 1 can be canceled into specials
+While holding an opponent in a grab, press B to stick them with/detonate C4
+C4 detonate can be canceled into attacks
+
+Snake (P+):
+Built off P+ snake (still heavily rebalanced/reworked) so has all the P+ specials and moves
+
+Sonic:
+Down b has a multihit on startup that can cancel into attacks
+Can cancel jab 2 into any attack
+
+Squirtle:
+Built off P+ squirtle (still heavily rebalanced/reworked) so has all the P+ specials.
+Can jump out of side b (ground and air)
+
+Sub-Zero:
+Jab 2 and f tilt can be canceled into specials
+Side b can be jump canceled both on ground and in air
+
+Toon Link:
+Can landing cancel aerial arrows
+Aerial up b kills
+
+Ven:
+Ice roy…
+Can cancel counter into attacks
+Can cancel side b up 3 into attacks
+Side b 1 has set knockback and can combo into some attacks
+
+Wario:
+After grabbing someone with neutral b, you can cancel into attacks
+Dair can be double jumped out of early
+
+Wolf:
+Can cancel shine on the ground and in the air into attacks (example of good use is: drag down nair - shine - f smash, as a kill confirm)
+Landing sweetspot side b doesn’t put him into freefall
+Can landing cancel lasers
+
+Wolf (Ultimate):
+Can cancel shine on the ground just like Fox. Can also cancel shine in the air with jump.
+Can landing cancel lasers
+
+Yoshi:
+Has double jump cancel
+Has invincibility on shield drop and can still cancel his shield drop animation into anything just like everyone else, essentially giving him a very generous parry window
+If you airdodge during double jump, you’ll stay locked on the x axis and still be able to drift (this is universal among all double jump cancel characters)
+
+Zelda:
+Grounded neutral b can cancel into attacks
+Can jump out of aerial side b
+
+Zero Suit Samus:
+Dair trips grounded opponents and can be canceled into specials
+Can double jump out of down b
+Can landing cancel aerial neutral b
+Can cancel jab 2 into any attack
