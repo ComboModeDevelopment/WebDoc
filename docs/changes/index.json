@@ -92,7 +92,8 @@
         },
         {
           "name": "Ivysaur",
-          "file": "Ivysaur.md"
+          "file": "Ivysaur.md",
+          "delta": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
@@ -109,11 +110,13 @@
         },
         {
           "name": "King K. Rool",
-          "file": "King K. Rool.md"
+          "file": "King K. Rool.md",
+          "delta": "King K. Rool.md"
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Knuckles",
@@ -292,7 +295,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 25,
+      "unchanged": 26,
       "previous": "1.0.0"
     },
     {
@@ -380,7 +383,8 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Incineroar",
@@ -394,7 +398,8 @@
         },
         {
           "name": "Ivysaur",
-          "file": "Ivysaur.md"
+          "file": "Ivysaur.md",
+          "delta": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
@@ -412,11 +417,13 @@
         },
         {
           "name": "King K. Rool",
-          "file": "King K. Rool.md"
+          "file": "King K. Rool.md",
+          "delta": "King K. Rool.md"
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Knuckles",
@@ -670,7 +677,8 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Ivysaur",
@@ -686,7 +694,8 @@
         },
         {
           "name": "King K. Rool",
-          "file": "King K. Rool.md"
+          "file": "King K. Rool.md",
+          "delta": "King K. Rool.md"
         },
         {
           "name": "Kirby",
@@ -843,7 +852,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 17,
+      "unchanged": 19,
       "previous": "0.9.0"
     },
     {
@@ -900,7 +909,8 @@
         },
         {
           "name": "Ivysaur",
-          "file": "Ivysaur.md"
+          "file": "Ivysaur.md",
+          "delta": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
@@ -917,7 +927,8 @@
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Knuckles",
@@ -1074,7 +1085,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 12,
+      "unchanged": 13,
       "previous": "0.8.0"
     },
     {
@@ -1123,11 +1134,13 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Ivysaur",
-          "file": "Ivysaur.md"
+          "file": "Ivysaur.md",
+          "delta": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
@@ -1140,7 +1153,8 @@
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Link",
@@ -1335,11 +1349,13 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Ivysaur",
-          "file": "Ivysaur.md"
+          "file": "Ivysaur.md",
+          "delta": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
@@ -1352,7 +1368,8 @@
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Link",
@@ -1554,7 +1571,8 @@
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Link",
@@ -1678,7 +1696,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 19,
+      "unchanged": 21,
       "previous": "0.5.0"
     },
     {
@@ -1718,7 +1736,8 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Ivysaur",
@@ -1855,7 +1874,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 13,
+      "unchanged": 15,
       "previous": "0.4.0"
     },
     {
@@ -1912,7 +1931,8 @@
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Link",
@@ -2026,7 +2046,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 14,
+      "unchanged": 16,
       "previous": "0.3.0"
     },
     {
@@ -2066,7 +2086,8 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Ivysaur",
@@ -2193,7 +2214,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 13,
+      "unchanged": 15,
       "previous": "0.2.0"
     },
     {
@@ -2355,7 +2376,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 18,
+      "unchanged": 21,
       "previous": "0.1.0"
     },
     {
@@ -2395,11 +2416,13 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Ivysaur",
-          "file": "Ivysaur.md"
+          "file": "Ivysaur.md",
+          "delta": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
@@ -2412,7 +2435,8 @@
         },
         {
           "name": "Kirby",
-          "file": "Kirby.md"
+          "file": "Kirby.md",
+          "delta": "Kirby.md"
         },
         {
           "name": "Link",
