@@ -96,7 +96,8 @@
         },
         {
           "name": "Jigglypuff",
-          "file": "Jigglypuff.md"
+          "file": "Jigglypuff.md",
+          "delta": "Jigglypuff.md"
         },
         {
           "name": "King Dedede (Ultimate)",
@@ -193,11 +194,13 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
-          "file": "R.O.B..md"
+          "file": "R.O.B..md",
+          "delta": "R.O.B..md"
         },
         {
           "name": "Roy (Melee)",
@@ -205,11 +208,13 @@
         },
         {
           "name": "Roy",
-          "file": "Roy.md"
+          "file": "Roy.md",
+          "delta": "Roy.md"
         },
         {
           "name": "Samus",
-          "file": "Samus.md"
+          "file": "Samus.md",
+          "delta": "Samus.md"
         },
         {
           "name": "Sephiroth",
@@ -217,7 +222,8 @@
         },
         {
           "name": "Shadow",
-          "file": "Shadow.md"
+          "file": "Shadow.md",
+          "delta": "Shadow.md"
         },
         {
           "name": "Sheik",
@@ -281,7 +287,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 13,
+      "unchanged": 15,
       "previous": "1.0.0"
     },
     {
@@ -387,7 +393,8 @@
         },
         {
           "name": "Jigglypuff",
-          "file": "Jigglypuff.md"
+          "file": "Jigglypuff.md",
+          "delta": "Jigglypuff.md"
         },
         {
           "name": "King Dedede (Ultimate)",
@@ -489,11 +496,13 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
-          "file": "R.O.B..md"
+          "file": "R.O.B..md",
+          "delta": "R.O.B..md"
         },
         {
           "name": "Roy (Melee)",
@@ -502,19 +511,23 @@
         },
         {
           "name": "Roy",
-          "file": "Roy.md"
+          "file": "Roy.md",
+          "delta": "Roy.md"
         },
         {
           "name": "Samus",
-          "file": "Samus.md"
+          "file": "Samus.md",
+          "delta": "Samus.md"
         },
         {
           "name": "Sephiroth",
-          "file": "Sephiroth.md"
+          "file": "Sephiroth.md",
+          "delta": "Sephiroth.md"
         },
         {
           "name": "Shadow",
-          "file": "Shadow.md"
+          "file": "Shadow.md",
+          "delta": "Shadow.md"
         },
         {
           "name": "Sheik",
@@ -734,7 +747,8 @@
         },
         {
           "name": "Roy",
-          "file": "Roy.md"
+          "file": "Roy.md",
+          "delta": "Roy.md"
         },
         {
           "name": "Samus",
@@ -742,11 +756,13 @@
         },
         {
           "name": "Sephiroth",
-          "file": "Sephiroth.md"
+          "file": "Sephiroth.md",
+          "delta": "Sephiroth.md"
         },
         {
           "name": "Shadow",
-          "file": "Shadow.md"
+          "file": "Shadow.md",
+          "delta": "Shadow.md"
         },
         {
           "name": "Sheik",
@@ -800,7 +816,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 7,
+      "unchanged": 11,
       "previous": "0.9.0"
     },
     {
@@ -948,7 +964,8 @@
         },
         {
           "name": "R.O.B.",
-          "file": "R.O.B..md"
+          "file": "R.O.B..md",
+          "delta": "R.O.B..md"
         },
         {
           "name": "Roy",
@@ -956,7 +973,8 @@
         },
         {
           "name": "Samus",
-          "file": "Samus.md"
+          "file": "Samus.md",
+          "delta": "Samus.md"
         },
         {
           "name": "Sephiroth",
@@ -965,7 +983,8 @@
         },
         {
           "name": "Shadow",
-          "file": "Shadow.md"
+          "file": "Shadow.md",
+          "delta": "Shadow.md"
         },
         {
           "name": "Sheik",
@@ -1019,7 +1038,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 4,
+      "unchanged": 7,
       "previous": "0.8.0"
     },
     {
@@ -1076,7 +1095,8 @@
         },
         {
           "name": "Jigglypuff",
-          "file": "Jigglypuff.md"
+          "file": "Jigglypuff.md",
+          "delta": "Jigglypuff.md"
         },
         {
           "name": "King Dedede",
@@ -1145,11 +1165,13 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
-          "file": "R.O.B..md"
+          "file": "R.O.B..md",
+          "delta": "R.O.B..md"
         },
         {
           "name": "Roy",
@@ -1157,7 +1179,8 @@
         },
         {
           "name": "Samus",
-          "file": "Samus.md"
+          "file": "Samus.md",
+          "delta": "Samus.md"
         },
         {
           "name": "Shadow",
@@ -1220,6 +1243,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 1,
       "previous": "0.7.0"
     },
     {
@@ -1271,7 +1295,8 @@
         },
         {
           "name": "Jigglypuff",
-          "file": "Jigglypuff.md"
+          "file": "Jigglypuff.md",
+          "delta": "Jigglypuff.md"
         },
         {
           "name": "King Dedede",
@@ -1335,19 +1360,23 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
-          "file": "R.O.B..md"
+          "file": "R.O.B..md",
+          "delta": "R.O.B..md"
         },
         {
           "name": "Roy",
-          "file": "Roy.md"
+          "file": "Roy.md",
+          "delta": "Roy.md"
         },
         {
           "name": "Samus",
-          "file": "Samus.md"
+          "file": "Samus.md",
+          "delta": "Samus.md"
         },
         {
           "name": "Sheik",
@@ -1456,7 +1485,8 @@
         },
         {
           "name": "Jigglypuff",
-          "file": "Jigglypuff.md"
+          "file": "Jigglypuff.md",
+          "delta": "Jigglypuff.md"
         },
         {
           "name": "King Dedede",
@@ -1584,7 +1614,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 8,
+      "unchanged": 12,
       "previous": "0.5.0"
     },
     {
@@ -1688,7 +1718,8 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
@@ -1696,7 +1727,8 @@
         },
         {
           "name": "Roy",
-          "file": "Roy.md"
+          "file": "Roy.md",
+          "delta": "Roy.md"
         },
         {
           "name": "Samus",
@@ -1753,7 +1785,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 5,
+      "unchanged": 8,
       "previous": "0.4.0"
     },
     {
@@ -1801,7 +1833,8 @@
         },
         {
           "name": "Jigglypuff",
-          "file": "Jigglypuff.md"
+          "file": "Jigglypuff.md",
+          "delta": "Jigglypuff.md"
         },
         {
           "name": "King Dedede",
@@ -1857,7 +1890,8 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
@@ -1916,7 +1950,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 7,
+      "unchanged": 9,
       "previous": "0.3.0"
     },
     {
@@ -2020,7 +2054,8 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
@@ -2076,7 +2111,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 5,
+      "unchanged": 8,
       "previous": "0.2.0"
     },
     {
@@ -2234,7 +2269,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 7,
+      "unchanged": 11,
       "previous": "0.1.0"
     },
     {
@@ -2282,7 +2317,8 @@
         },
         {
           "name": "Jigglypuff",
-          "file": "Jigglypuff.md"
+          "file": "Jigglypuff.md",
+          "delta": "Jigglypuff.md"
         },
         {
           "name": "King Dedede",
@@ -2338,15 +2374,18 @@
         },
         {
           "name": "Pit",
-          "file": "Pit.md"
+          "file": "Pit.md",
+          "delta": "Pit.md"
         },
         {
           "name": "R.O.B.",
-          "file": "R.O.B..md"
+          "file": "R.O.B..md",
+          "delta": "R.O.B..md"
         },
         {
           "name": "Samus",
-          "file": "Samus.md"
+          "file": "Samus.md",
+          "delta": "Samus.md"
         },
         {
           "name": "Sheik",

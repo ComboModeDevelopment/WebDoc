@@ -36,6 +36,7 @@ given new animation, strong single hit
 
 **Up Throw**
 sped up end lag 1.4x
+
 improved air mobility, lower jumps, higher gravity
 
 ### Character Parameters

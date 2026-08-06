@@ -5,6 +5,12 @@
 ### Jab / Tilts
 
 **Jab**
+**Up Tilt** *(new P+ move)*
+kbg: 100 → 80 → 77
+damage: 11/9 → 10
+sourspot angle: 60 → 80
+bkb: 33 → 40
+hitbox duration: 6 → 9
 can cancel jab 2 into attacks
 
 **Forward Tilt**
@@ -26,6 +32,14 @@ spike kbg: 80 → 70
 non spike sweetspot kbg: 90 → 85
 non spike sweetspot bkb: 45 → 35
 
+### Smash Attacks
+
+**Down Smash**
+**Up Smash** *(no longer a multihit)*
+damage: 14
+bkb: 37
+kbg: 110
+
 ### Special Moves
 
 **Down B**
@@ -36,6 +50,9 @@ no initial jump anymore
 startup sped up 2x
 
 ### Other
+
+**Down Throw**
+can cancel dash into specials
 
 **Up Throw**
 bkb: 65 → 90

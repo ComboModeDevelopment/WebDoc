@@ -12,10 +12,6 @@ jab 2 endlag slowed .9x
 jab 2 iasa: 22 → 23
 jab 1+2 hitbox id 0/2 swapped
 hitbox id 2 new angle: 361 → 80
-**Up Tilt** *(new P+ move)*
-kbg: 100 → 80
-damage: 11/9 → 10
-sourspot angle: 60 → 80
 
 ### Aerial Attacks
 

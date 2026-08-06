@@ -4,7 +4,6 @@
 
 ### Smash Attacks
 
-**Forward Smash**
 **Up Smash** *(no longer a multihit)*
 damage: 14
 bkb: 37

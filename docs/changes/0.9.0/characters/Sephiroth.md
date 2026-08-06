@@ -4,7 +4,4 @@
 
 ## Changes
 
-### Special Moves
-
-**Neutral B**
-all variants damage toned down
+No changes this release.

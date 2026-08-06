@@ -7,6 +7,7 @@
 **Jab**
 can cancel jab 2 into specials
 jab angles all made 365
+
 kbg: 80 → 77
 bkb: 33 → 40
 hitbox duration: 6 → 9
@@ -43,10 +44,6 @@ startup sped up 1.4x
 startup sped up 1.3x
 the entire duration of the move is now the strong hit
 damage: 12 → 15
-**Up Smash** *(no longer a multihit)*
-damage: 14
-bkb: 37
-kbg: 110
 
 ### Special Moves
 
@@ -64,7 +61,6 @@ endlag sped up more
 damage: 6/4 → 9/7
 hitbox size: 3 → 6
 
-**Down Throw**
 can cancel dash into specials
 
 ### Character Parameters

@@ -6,3 +6,8 @@
 
 **Neutral Air**
 removed armor
+
+### Other
+
+**Up Throw**
+now uses P+ base

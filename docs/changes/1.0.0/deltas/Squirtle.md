@@ -45,7 +45,6 @@ now made a single strong hit
 **Dash Attack**
 angle: 361 → 55
 
-**Up Throw**
 now uses P+ base
 
 ### Character Parameters
