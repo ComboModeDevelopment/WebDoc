@@ -19,3 +19,7 @@ same as P+
 
 **Up Air**
 first hit angle: 100 → 365
+
+### Other
+
+sonic has some P+ moves now.

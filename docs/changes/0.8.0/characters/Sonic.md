@@ -76,6 +76,8 @@ sped up endlag 1.6x
 base knockback: 80 → 60
 angle: 30 → 55
 
+sonic has some P+ moves now.
+
 ### Character Parameters
 
 | Parameter | Change |

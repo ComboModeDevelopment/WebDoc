@@ -78,8 +78,7 @@
         },
         {
           "name": "Goemon",
-          "file": "Goemon.md",
-          "delta": "Goemon.md"
+          "file": "Goemon.md"
         },
         {
           "name": "Greninja",
@@ -303,7 +302,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 36,
+      "unchanged": 37,
       "previous": "1.0.0"
     },
     {
@@ -970,7 +969,8 @@
         },
         {
           "name": "Little Mac",
-          "file": "Little Mac.md"
+          "file": "Little Mac.md",
+          "delta": "Little Mac.md"
         },
         {
           "name": "Lucario",
@@ -1114,7 +1114,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 19,
+      "unchanged": 18,
       "previous": "0.8.0"
     },
     {
@@ -2421,7 +2421,8 @@
         },
         {
           "name": "Squirtle",
-          "file": "Squirtle.md"
+          "file": "Squirtle.md",
+          "delta": "Squirtle.md"
         },
         {
           "name": "Toon Link",
@@ -2449,7 +2450,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 23,
+      "unchanged": 22,
       "previous": "0.1.0"
     },
     {

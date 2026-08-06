@@ -99,6 +99,7 @@ can now bounce off of all surfaces
 endlag slowed .9x
 max laser kbg: 90 → 65
 can angle further + faster
+full charge damage never properly saved, is now actually 13, kbg 90
 
 ### Other
 

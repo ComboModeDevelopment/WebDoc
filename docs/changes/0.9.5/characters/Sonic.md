@@ -109,6 +109,8 @@ angle: 30 → 55
 
 can cancel dash into specials
 
+sonic has some P+ moves now.
+
 ### Character Parameters
 
 | Parameter | Change |

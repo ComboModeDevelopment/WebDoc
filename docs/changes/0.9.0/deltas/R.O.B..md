@@ -46,6 +46,7 @@ charges faster (basically instant charge for lvl 1 laser)
 projectiles move faster and last longer
 can now bounce off of all surfaces
 endlag slowed .9x
+full charge damage never properly saved, is now actually 13, kbg 90
 
 ### Other
 

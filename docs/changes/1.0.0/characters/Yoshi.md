@@ -96,6 +96,8 @@ Dash
 Run
 1.68 → 1.78
 
+DJ has more armor
+
 ### Character Parameters
 
 | Parameter | Change |

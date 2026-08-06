@@ -93,6 +93,10 @@ bkb: 90
 **Up Throw**
 kbg: 72 → 50
 
+buffed his air mobility even more.
+
+fucked with side b probability so now he throws hella gordos
+
 ### Character Parameters
 
 | Parameter | Change |

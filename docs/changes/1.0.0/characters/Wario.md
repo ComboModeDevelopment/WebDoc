@@ -24,6 +24,7 @@ sourspot damage: 6 → 9
 kbg: 74 → 56
 first active frame: 12 → 11
 reworked hitboxes to properly be attached to Wario's hands, allows the move to hit lower and have more range
+accidentally did not correctly speed up move before lol, startup sped up 1.3x
 
 **Down Tilt**
 iasa: 34 → 26 → 22

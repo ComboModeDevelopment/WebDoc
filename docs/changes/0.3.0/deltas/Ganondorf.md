@@ -9,3 +9,4 @@ new uppercut up tilt repurposing the swing tilt animation (replaces previous up 
 bkb: 30
 kbg: 100
 damage: 11
+it's now an uppercut.

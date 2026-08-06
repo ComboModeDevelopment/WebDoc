@@ -16,6 +16,7 @@ bkb: 30
 kbg: 100
 damage: 11
 removed a .8x slowdown on endlag
+it's now an uppercut.
 
 **Down Tilt**
 sped up 1.2x
@@ -89,6 +90,8 @@ endlag sped up 1.35x
 angle: 65 → 75
 
 ganon has his P+ dash and run animation
+
+his run speed buff wasn't saved previously so now his run speed is properly 1.36
 
 ### Character Parameters
 

@@ -69,6 +69,10 @@ bkb: 80 → 50
 **Down Throw**
 angle: 65 → 75
 
+can now instantly cancel drop shield into movement and attacks
+
+made slightly larger
+
 ### Character Parameters
 
 | Parameter | Change |

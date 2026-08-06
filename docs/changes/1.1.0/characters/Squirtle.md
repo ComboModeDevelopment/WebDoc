@@ -86,6 +86,8 @@ iasa: 42 → 35
 kbg: 75 → 35
 now uses P+ base
 
+run speed didn't save before, is now properly 1.67
+
 ### Character Parameters
 
 | Parameter | Change |

@@ -11,6 +11,7 @@ late hit angle: 361 → 80
 
 **Up Smash**
 now uses Ultimate animation
+they're both now ultimate animations just for the sake of making them unique. mostly aesthetic as i did everything i could to make the frame data and range match up.
 
 **Down Smash**
 now uses Ultimate animation

@@ -15,6 +15,7 @@ damage: 14 → 16
 angle: 65 → 75
 
 ganon has his P+ dash and run animation
+his run speed buff wasn't saved previously so now his run speed is properly 1.36
 
 ### Character Parameters
 

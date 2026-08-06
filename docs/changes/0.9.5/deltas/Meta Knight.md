@@ -33,3 +33,5 @@ can now grab ledge out of spin
 **Dash Attack**
 damage: 8/7/6 → 10
 id0 angle: 60 → 70
+
+"new" jab using his f tilt 3 animation

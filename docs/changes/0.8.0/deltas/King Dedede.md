@@ -59,6 +59,8 @@ sped up 1.2x → 1.4x
 kbg: 60 → 35
 bkb: 90 → 80
 
+made larger
+
 ### Character Parameters
 
 | Parameter | Change |

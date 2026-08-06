@@ -89,6 +89,12 @@ bkb: 80 → 50
 **Down Throw**
 angle: 65 → 75
 
+can now instantly cancel drop shield into movement and attacks
+
+little mac has a massive animation and model overhaul. this does affect some moves somewhat but he largely plays the same.
+
+made slightly larger
+
 ### Character Parameters
 
 | Parameter | Change |

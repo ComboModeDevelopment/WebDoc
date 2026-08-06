@@ -110,6 +110,8 @@ kbg: 30 → 20
 
 pseudo-wavedash added (0.8.0) → removed (0.9.0)
 
+removed wavedash
+
 ### Character Parameters
 
 | Parameter | Change |

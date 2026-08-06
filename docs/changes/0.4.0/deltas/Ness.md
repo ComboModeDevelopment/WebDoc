@@ -19,3 +19,5 @@ sped up 1.3x
 
 **Up Throw**
 bkb: 105 → 75
+
+still no fix on charging up smash :(

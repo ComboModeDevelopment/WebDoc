@@ -49,6 +49,7 @@ kbg: 88 → 92
 **Up Smash**
 now uses Ultimate animation
 endlag sped up 1.35x
+they're both now ultimate animations just for the sake of making them unique. mostly aesthetic as i did everything i could to make the frame data and range match up.
 
 **Down Smash**
 now uses Ultimate animation

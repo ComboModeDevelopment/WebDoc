@@ -38,6 +38,10 @@ startup and move sped up 1.3x
 all landing animations sped up
 can grab the edge out of up b
 
+### Other
+
+buffed his air mobility even more.
+
 ### Character Parameters
 
 | Parameter | Change |

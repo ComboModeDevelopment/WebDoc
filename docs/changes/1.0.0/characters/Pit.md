@@ -38,6 +38,7 @@ given new animation and hitbox values
 **Up Air**
 reworked as single hit (replaces prior multihit version)
 new animation, new properties
+now a single hit
 
 **Dair**
 kbg: 80 → 40 → 60

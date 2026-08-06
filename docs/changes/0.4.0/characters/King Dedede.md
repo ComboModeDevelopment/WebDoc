@@ -78,6 +78,8 @@ bkb: 90
 **Up Throw**
 kbg: 72 → 50
 
+buffed his air mobility even more.
+
 ### Character Parameters
 
 | Parameter | Change |

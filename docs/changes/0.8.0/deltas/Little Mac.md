@@ -41,3 +41,7 @@ kbg: 30 → 45
 **Up B**
 kbg: 100 → 80
 can no longer jump cancel up b in the air, can only cancel it if done from the ground
+
+### Other
+
+little mac has a massive animation and model overhaul. this does affect some moves somewhat but he largely plays the same.

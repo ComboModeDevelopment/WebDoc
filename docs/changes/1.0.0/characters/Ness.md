@@ -33,6 +33,7 @@ given unique knockback vs ground or air opponent
 ground angle:120
 air angle:365
 given move range
+no idea why this move shakes the fuck out of the screen :|
 
 **Back Air**
 sweetspot damage: 15 → 18
@@ -60,6 +61,7 @@ bkb: 35
 kbg: 90
 note: charging exists but does not increase damage
 whole move sped up
+at the moment, i cannot get charging to function properly on the move.
 
 **Forward Smash**
 startup sped up 1.5x
@@ -92,6 +94,8 @@ sped up 1.3x
 
 **Up Throw**
 bkb: 105 → 75
+
+still no fix on charging up smash :(
 
 ### Character Parameters
 

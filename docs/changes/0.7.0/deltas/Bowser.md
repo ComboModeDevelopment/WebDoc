@@ -40,6 +40,10 @@ hitbox id 2+3 angle: 190 → 365
 can cancel rise into attacks or double jump
 sped up 1.3x
 
+### Other
+
+now has 12% armor on crouch
+
 ### Character Parameters
 
 | Parameter | Change |

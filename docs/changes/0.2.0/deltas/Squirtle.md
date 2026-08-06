@@ -2,4 +2,6 @@
 
 ## Changes since 0.1.0
 
-No changes this release.
+### Other
+
+run speed didn't save before, is now properly 1.67

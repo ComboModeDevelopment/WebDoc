@@ -48,6 +48,7 @@ can now only spawn 1 banana peel
 **Dash Attack**
 angles: 270/285 → 365
 iasa: 24 → 29
+iasa: 24 → 29 (previously this attack had literally 0 end lag)
 
 **Down Throw**
 sped up 1.4x

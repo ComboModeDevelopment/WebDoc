@@ -9,6 +9,7 @@ startup speed multiplier: .6x → .85x
 
 **Up Air**
 reworked as single hit (replaces prior multihit version)
+now a single hit
 
 ### Special Moves
 

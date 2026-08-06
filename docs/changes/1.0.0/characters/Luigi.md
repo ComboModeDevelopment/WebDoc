@@ -122,6 +122,8 @@ pseudo-wavedash added (0.8.0) → removed (0.9.0)
 improved aerial mobility
 increased fall speed
 
+removed wavedash
+
 ### Character Parameters
 
 | Parameter | Change |

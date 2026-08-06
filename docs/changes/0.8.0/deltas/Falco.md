@@ -7,6 +7,7 @@
 **Jab**
 jab 3 is now Forward Tilt
 can cancel jab 2 into grab
+removed rapid jab and instead goes into f tilt for jab 3
 
 **Forward Tilt**
 faf: 6 → 5

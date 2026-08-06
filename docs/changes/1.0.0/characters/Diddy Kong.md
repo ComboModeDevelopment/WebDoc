@@ -85,6 +85,7 @@ iasa: 24 → 29
 reworked multihit to link better
 final hit damage: 4 → 6
 all hitbox sizes buffed
+iasa: 24 → 29 (previously this attack had literally 0 end lag)
 
 **Down Throw**
 sped up 1.4x

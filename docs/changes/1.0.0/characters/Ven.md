@@ -109,6 +109,8 @@ removed ice hit effects from up smash
 damage: 5 → 9
 bkb: 60 → 40
 
+Taking the L on this one, removed some ice hit effects. they ruin his vertical kill power.
+
 ### Character Parameters
 
 | Parameter | Change |

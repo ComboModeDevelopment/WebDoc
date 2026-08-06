@@ -85,6 +85,8 @@ fixed fire effects on taunt and counter
 fixed fire effect on entry
 removed ice hit effects from up smash
 
+Taking the L on this one, removed some ice hit effects. they ruin his vertical kill power.
+
 ### Character Parameters
 
 | Parameter | Change |

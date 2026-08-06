@@ -31,6 +31,7 @@ hitbox id0 bkb: 40 → 50 → 45
 hitbox id0 kbg: 90 → 100 → 95
 hitbox id1 now shares same values as id0
 endlag slowed .7x, then removed
+removed slowdown on endlag
 
 **Down Smash**
 sdi multiplier: 1.2 → .8

@@ -43,10 +43,6 @@ fixed bug where moves would multihit
 **Forward Smash**
 first hit now made to link into 2nd, both hits sped up 1.2x
 first hit damage: 15/14 → 10
-1st hit angle: 80 → 365
-can now jump cancel 1st hit
-1st hit bkb: 25 → 33
-1st hit trip rate: 0 → 1
 
 **Up Smash**
 sped up 1.3x

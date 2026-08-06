@@ -107,6 +107,8 @@ angle: 50 → 75
 **Back Throw**
 angle: 45 → 60
 
+"new" jab using his f tilt 3 animation
+
 ### Character Parameters
 
 | Parameter | Change |

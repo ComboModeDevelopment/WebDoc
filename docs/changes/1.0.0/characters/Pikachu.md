@@ -63,6 +63,7 @@ hitbox id1 now shares same values as id0
 extended sweetspot duration: 2 → 4
 endlag slowed .7x, then removed
 sweetspot duration extended, only one sourspot to hit (was 2 before)
+removed slowdown on endlag
 
 **Down Smash**
 sdi multiplier: 1.2 → .8

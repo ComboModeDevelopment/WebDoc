@@ -39,6 +39,7 @@ damage: 18
 bkb: 35
 kbg: 90
 note: charging exists but does not increase damage
+at the moment, i cannot get charging to function properly on the move.
 
 ### Other
 
@@ -54,3 +55,5 @@ sped up 1.3x
 
 **Up Throw**
 bkb: 105 → 75
+
+still no fix on charging up smash :(

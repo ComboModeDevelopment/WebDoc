@@ -56,6 +56,7 @@ hitbox id0 kbg: 90 → 100 → 95 → 100
 hitbox id1 now shares same values as id0
 extended sweetspot duration: 2 → 4
 endlag slowed .7x, then removed
+removed slowdown on endlag
 
 **Down Smash**
 sdi multiplier: 1.2 → .8

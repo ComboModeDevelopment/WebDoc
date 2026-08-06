@@ -53,3 +53,5 @@ kbg: 152 → 120
 **Dash Attack**
 iasa: 44 → 31
 angle: 80 → 60
+
+sonic has some P+ moves now.

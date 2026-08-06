@@ -131,6 +131,8 @@ can cancel dash into specials
 bkb: 65 → 90
 kbg: 70 → 45
 
+sonic has some P+ moves now.
+
 ### Character Parameters
 
 | Parameter | Change |

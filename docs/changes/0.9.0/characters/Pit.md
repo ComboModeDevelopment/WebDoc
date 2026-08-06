@@ -21,6 +21,7 @@ kbg: 82 → 110
 
 **Up Air**
 reworked as single hit (replaces prior multihit version)
+now a single hit
 
 **Dair**
 kbg: 80 → 40 → 60

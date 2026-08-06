@@ -35,3 +35,7 @@ min inhale time: 20 → 5
 
 **Side B**
 gordo throw probability increased
+
+### Other
+
+fucked with side b probability so now he throws hella gordos

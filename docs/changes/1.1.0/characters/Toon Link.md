@@ -122,6 +122,8 @@ hitbox sizes buffed
 **Grab**
 sped up 1.4x
 
+fixed his animation, didn't actually update his animation file in rev 4
+
 ### Character Parameters
 
 | Parameter | Change |

@@ -164,6 +164,12 @@ buffed air mobility
 most animations in general are adjusted to give him much more range
 removed massive grab hitbox on his body
 
+buffed his air mobility even more.
+
+fucked with side b probability so now he throws hella gordos
+
+made larger
+
 ### Character Parameters
 
 | Parameter | Change |

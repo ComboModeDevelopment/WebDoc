@@ -76,6 +76,8 @@ now uses P+ Yoshi as a base; now has DJC (heavily rebalanced to fit Combo Mode)
 
 double jump armor buffed (0.9.0) → now actually working (0.9.5)
 
+DJ has more armor
+
 ### Character Parameters
 
 | Parameter | Change |

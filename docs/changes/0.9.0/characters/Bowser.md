@@ -106,6 +106,8 @@ bkb: 120 → 80
 angle: 70 → 80
 bkb: 120 → 110
 
+now has 12% armor on crouch
+
 ### Character Parameters
 
 | Parameter | Change |

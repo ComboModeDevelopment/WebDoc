@@ -7,3 +7,4 @@
 **Forward Air**
 multihit angle: 120 → 365
 sdi multiplier: 1.5 → .2
+no idea why this move shakes the fuck out of the screen :|

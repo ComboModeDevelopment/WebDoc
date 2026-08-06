@@ -22,6 +22,7 @@ damage: 18
 bkb: 35
 kbg: 90
 note: charging exists but does not increase damage
+at the moment, i cannot get charging to function properly on the move.
 
 ### Other
 

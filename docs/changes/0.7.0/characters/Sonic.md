@@ -73,6 +73,8 @@ angle: 80 → 60
 **Grab**
 no longer carries momentum when jump canceled
 
+sonic has some P+ moves now.
+
 ### Character Parameters
 
 | Parameter | Change |

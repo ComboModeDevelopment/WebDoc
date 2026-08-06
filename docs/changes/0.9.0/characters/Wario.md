@@ -20,6 +20,7 @@ startup sped up 1.3x (corrected from 0.5.0)
 added iasa: 30
 damage: 10 → 13
 sourspot damage: 6 → 9
+accidentally did not correctly speed up move before lol, startup sped up 1.3x
 
 **Down Tilt**
 iasa: 34 → 26

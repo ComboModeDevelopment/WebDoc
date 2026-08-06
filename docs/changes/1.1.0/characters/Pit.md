@@ -39,6 +39,7 @@ given new animation and hitbox values
 reworked as single hit (replaces prior multihit version)
 new animation, new properties
 increased endlag
+now a single hit
 
 **Dair**
 kbg: 80 → 40 → 60

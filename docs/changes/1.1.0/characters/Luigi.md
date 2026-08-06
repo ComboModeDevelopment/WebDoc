@@ -138,6 +138,8 @@ increased fall speed
 
 fixed shield reflect bubble
 
+removed wavedash
+
 ### Character Parameters
 
 | Parameter | Change |

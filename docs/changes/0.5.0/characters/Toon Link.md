@@ -57,3 +57,5 @@ kbg: 32 → 100
 
 **Grab**
 sped up 1.4x
+
+fixed his animation, didn't actually update his animation file in rev 4

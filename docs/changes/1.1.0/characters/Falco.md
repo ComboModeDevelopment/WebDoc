@@ -7,6 +7,7 @@
 **Jab**
 jab 3 is now Forward Tilt
 can cancel jab 2 into grab
+removed rapid jab and instead goes into f tilt for jab 3
 
 **Forward Tilt**
 faf: 6 → 5
@@ -71,6 +72,7 @@ sourspot removed
 now uses Ultimate animation
 endlag sped up 1.35x
 reduced range
+they're both now ultimate animations just for the sake of making them unique. mostly aesthetic as i did everything i could to make the frame data and range match up.
 
 **Down Smash**
 now uses Ultimate animation

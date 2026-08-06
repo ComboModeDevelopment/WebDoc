@@ -66,6 +66,8 @@ iasa: 42 → 35
 **Up Throw**
 kbg: 75 → 35
 
+run speed didn't save before, is now properly 1.67
+
 ### Character Parameters
 
 | Parameter | Change |

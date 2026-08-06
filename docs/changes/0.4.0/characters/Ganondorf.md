@@ -12,6 +12,7 @@ new uppercut up tilt repurposing the swing tilt animation (replaces previous up 
 bkb: 30
 kbg: 100
 damage: 11
+it's now an uppercut.
 
 ### Aerial Attacks
 
@@ -42,6 +43,8 @@ can now cancel the ground and air version into a grounded attack much faster aft
 angle: 65 → 75
 
 ganon has his P+ dash and run animation
+
+his run speed buff wasn't saved previously so now his run speed is properly 1.36
 
 ### Character Parameters
 

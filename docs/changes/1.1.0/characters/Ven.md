@@ -119,6 +119,8 @@ damage: 5 → 9
 bkb: 60 → 40
 added iasa:32
 
+Taking the L on this one, removed some ice hit effects. they ruin his vertical kill power.
+
 ### Character Parameters
 
 | Parameter | Change |

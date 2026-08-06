@@ -2,4 +2,4 @@
 
 ## Changes since 1.0.0
 
-This character has been removed at the request of the creator.
+No changes this release.

@@ -9,6 +9,7 @@ startup sped up 1.35x
 
 **Up Tilt**
 startup sped up 1.3x (corrected from 0.5.0)
+accidentally did not correctly speed up move before lol, startup sped up 1.3x
 
 ### Aerial Attacks
 
