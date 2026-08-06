@@ -39,6 +39,16 @@ def _md_files(directory):
     return {f for f in os.listdir(directory) if f.lower().endswith(".md")}
 
 
+def _reports_removal(path):
+    """True when a delta records that the character was cut from the roster.
+
+    They stay listed with their history intact; the front-end greys the tile.
+    Once announced, the removal holds for every later release too.
+    """
+    with io.open(path, encoding="utf-8") as fh:
+        return "removed from Combo Mode" in fh.read()
+
+
 def _reports_no_changes(path):
     """True when a delta's whole body is the "nothing happened" sentence.
 
@@ -59,6 +69,7 @@ def _reports_no_changes(path):
 
 def build():
     releases = []
+    removed_at = {}          # character -> first release announcing removal
     if os.path.isdir(CHANGES_DIR):
         for version in sorted(os.listdir(CHANGES_DIR)):
             version_dir = os.path.join(CHANGES_DIR, version)
@@ -79,8 +90,10 @@ def build():
                 if filename in cumulative:
                     entry["file"] = filename
                 if filename in deltas:
-                    if _reports_no_changes(
-                            os.path.join(version_dir, "deltas", filename)):
+                    dpath = os.path.join(version_dir, "deltas", filename)
+                    if _reports_removal(dpath):
+                        removed_at.setdefault(entry["name"], version)
+                    if _reports_no_changes(dpath):
                         unchanged += 1
                     else:
                         entry["delta"] = filename
@@ -92,6 +105,13 @@ def build():
                 if unchanged:
                     rel["unchanged"] = unchanged
                 releases.append(rel)
+
+    # A removal holds from the release it was announced in onwards.
+    for rel in releases:
+        for entry in rel["characters"]:
+            since = removed_at.get(entry["name"])
+            if since and releasecfg.version_key(rel["version"]) >= releasecfg.version_key(since):
+                entry["removed"] = True
 
     releases, hidden = releasecfg.partition_releases(releases)
     releases.sort(key=lambda r: releasecfg.version_key(r["version"]), reverse=True)

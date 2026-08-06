@@ -78,7 +78,9 @@
         },
         {
           "name": "Goemon",
-          "file": "Goemon.md"
+          "file": "Goemon.md",
+          "delta": "Goemon.md",
+          "removed": true
         },
         {
           "name": "Greninja",
@@ -302,7 +304,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 37,
+      "unchanged": 36,
       "previous": "1.0.0"
     },
     {

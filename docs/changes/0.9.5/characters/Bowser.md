@@ -73,6 +73,9 @@ hitbox sizes all increased by 3
 sdi multiplier: 1 → .5
 hitbox id 2+3 angle: 190 → 365
 
+**Up Smash**
+14% heavy armor during initial hit of the move and charge
+
 ### Special Moves
 
 **Up B**

@@ -311,6 +311,13 @@
                 : "No release-by-release notes written for " + rel.version +
                   " yet. Switch to “All changes so far” to read this " +
                   "release’s full history.";
+            } else if (withDeltas.length + unchanged >= roster) {
+              // Everyone is written up, so the count is simply how many
+              // characters changed — not how far along the write-up is.
+              modeNoteEl.textContent =
+                withDeltas.length + " of " + roster + " characters changed in " +
+                rel.version + ". The rest were not changed. Switch to " +
+                "“All changes so far” for any character’s full history.";
             } else if (roster > withDeltas.length) {
               modeNoteEl.textContent =
                 "Release-by-release notes are being written up character by " +
@@ -389,6 +396,12 @@
       var tile = document.createElement("button");
       tile.type = "button";
       tile.className = "icon-card no-icon";
+      // Cut from the roster in this release: still listed with their full
+      // history, but drained of colour so the removal reads at a glance.
+      if (entry.removed) {
+        tile.classList.add("is-removed");
+        tile.title = entry.name + " was removed from Combo Mode";
+      }
 
       var img = document.createElement("img");
       img.className = "icon-img";

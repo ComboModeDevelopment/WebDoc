@@ -2,4 +2,4 @@
 
 ## Changes since 1.0.0
 
-No changes this release.
+Goemon has been removed from Combo Mode as requested by the creator.

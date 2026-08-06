@@ -332,6 +332,20 @@ td ul { margin: 0; padding-left: 18px; }
 }
 .icon-card.no-icon .icon-label { font-weight: 600; font-size: 14px; }
 
+/* Cut from the roster: still listed with their full history, but drained of
+   colour so it reads at a glance. Colour returns on hover/focus so the tile
+   doesn't look disabled — it is still clickable. */
+.icon-card.is-removed .icon-img {
+  filter: grayscale(1);
+  opacity: 0.55;
+}
+.icon-card.is-removed .icon-label { color: var(--text-muted); }
+.icon-card.is-removed:hover .icon-img,
+.icon-card.is-removed:focus-visible .icon-img {
+  filter: grayscale(0.35);
+  opacity: 0.85;
+}
+
 /* Modal */
 .modal[hidden] { display: none; }
 
