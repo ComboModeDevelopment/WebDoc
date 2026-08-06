@@ -8,6 +8,10 @@
     "answer": "No, this build is based off vanilla Brawl. It doesn't feature a lot of mechanics you are familiar with from Melee/P+ such as L canceling and wavedashing."
   },
   {
+    "question": "What is the difference between ComboMode and Vanilla Brawl?",
+    "answer": "Check out the trailer for a quick overview of the changes, or check out the changelog for a more in depth look at what has been changed. The mechanics section of this site also has a lot of information about the changes made to the game mechanics, as well as by-character mechanical changes."
+  },
+  {
     "question": "What smash game is this most like?",
     "answer": "It's tough to say! With smash 64 hitstun, Brawl/modern smash accesibility mechanics, and P+ QoL features, we believe the game is something unique that many people from every title seem to enjoy so far! We've even had many players from SSF2 and RoA express a feeling of familiarity with Combo Mode!"
   },
@@ -21,7 +25,7 @@
   },
   {
     "question": "Does this mod work on Wii?",
-    "answer": "At the moment, no. But we plan to have it working very soon!"
+    "answer": "As of 1.1.0, yes! We have a Wii build available for download. Please note that the Wii build is not as well tested as the PC build, so you may encounter more bugs."
   },
   {
     "question": "Who makes this mod?",
