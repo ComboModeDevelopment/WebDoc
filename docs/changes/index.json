@@ -249,7 +249,8 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
@@ -277,7 +278,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 7,
+      "unchanged": 9,
       "previous": "1.0.0"
     },
     {
@@ -544,11 +545,13 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
-          "file": "Wario.md"
+          "file": "Wario.md",
+          "delta": "Wario.md"
         },
         {
           "name": "Wolf (Ultimate)",
@@ -557,7 +560,8 @@
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -758,15 +762,18 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
-          "file": "Wario.md"
+          "file": "Wario.md",
+          "delta": "Wario.md"
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -971,15 +978,18 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
-          "file": "Wario.md"
+          "file": "Wario.md",
+          "delta": "Wario.md"
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -1163,15 +1173,18 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
-          "file": "Wario.md"
+          "file": "Wario.md",
+          "delta": "Wario.md"
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -1340,15 +1353,18 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
-          "file": "Wario.md"
+          "file": "Wario.md",
+          "delta": "Wario.md"
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -1520,15 +1536,18 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
-          "file": "Wario.md"
+          "file": "Wario.md",
+          "delta": "Wario.md"
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -1688,11 +1707,13 @@
         },
         {
           "name": "Wario",
-          "file": "Wario.md"
+          "file": "Wario.md",
+          "delta": "Wario.md"
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -1867,7 +1888,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 3,
+      "unchanged": 5,
       "previous": "0.3.0"
     },
     {
@@ -2007,7 +2028,8 @@
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -2023,7 +2045,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 2,
+      "unchanged": 3,
       "previous": "0.2.0"
     },
     {
@@ -2179,7 +2201,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 2,
+      "unchanged": 4,
       "previous": "0.1.0"
     },
     {
@@ -2319,7 +2341,8 @@
         },
         {
           "name": "Wolf",
-          "file": "Wolf.md"
+          "file": "Wolf.md",
+          "delta": "Wolf.md"
         },
         {
           "name": "Yoshi",
@@ -2336,7 +2359,8 @@
           "file": "Zero Suit Samus.md",
           "delta": "Zero Suit Samus.md"
         }
-      ]
+      ],
+      "unchanged": 1
     }
   ]
 }
