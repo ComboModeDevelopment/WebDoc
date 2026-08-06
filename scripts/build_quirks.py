@@ -58,6 +58,11 @@ def parse_release_file(path):
                 else:
                     mode = "char"
                     current = {"name": name, "icon": slugify(name), "quirks": []}
+                    # "General" is roster-wide rather than a character: it uses
+                    # the sandbag icon and is pinned to the front of the grid.
+                    if name.lower() == "general":
+                        current["icon"] = "sandbag"
+                        current["pinned"] = True
                     characters.append(current)
                 continue
             if mode == "intro":

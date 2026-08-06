@@ -10,7 +10,7 @@ release picker:
 | View | Reads from | Contents |
 |------|-----------|----------|
 | **Changes this release** (default) | `<release>/deltas/` | Only what changed versus the release immediately before |
-| **All changes so far** | `<release>/characters/` | Cumulative — everything since 0.0.0, as of that release |
+| **All changes so far** | `<release>/characters/` | Cumulative: everything since 0.0.0, as of that release |
 
 `characters/` is required; `deltas/` is optional and hand-written.
 
@@ -48,7 +48,7 @@ docs/changes/
 
 Delta files are written by hand, one per character per release, and describe
 only what changed since the previous release. They are being added character by
-character — **Yoshi is done for every release; the rest are still to do.**
+character.
 
 The compare view lists only the characters that have a delta file for the
 selected release, and shows a note saying how many are written up so far. A

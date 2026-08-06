@@ -23,9 +23,12 @@
     container.innerHTML = '<p class="error">' + esc(message) + "</p>";
   }
 
-  // Return a copy of the characters sorted alphabetically by name.
+  // Return a copy of the characters sorted alphabetically by name. Entries
+  // flagged `pinned` sort ahead of the rest — used for roster-wide entries
+  // like "General", which belong at the front rather than under G.
   function sortedByName(characters) {
     return (characters || []).slice().sort(function (a, b) {
+      if (!!a.pinned !== !!b.pinned) return a.pinned ? -1 : 1;
       return String(a.name).localeCompare(String(b.name), undefined, {
         sensitivity: "base",
         numeric: true
@@ -321,7 +324,7 @@
             } else if (roster > withDeltas.length) {
               modeNoteEl.textContent =
                 "Release-by-release notes are being written up character by " +
-                "character — " + withDeltas.length + " of " + roster +
+                "character: " + withDeltas.length + " of " + roster +
                 " so far for " + rel.version +
                 ". Switch to “All changes so far” for the rest.";
             } else {

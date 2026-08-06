@@ -5,6 +5,26 @@
       "version": "1.1.0",
       "characters": [
         {
+          "name": "General",
+          "icon": "sandbag",
+          "quirks": [
+            "All characters jump heights are restored, universally increased by .2 (shorthops remain unchanged)",
+            "Semi-standardized jumpsquat, any character with a jumpsquat over 5 has been lowered to 5.",
+            "Meteor canceling is removed.",
+            "All 3 pokemon trainer pokemon (ivy/squirtle/zard) have stamina and type weakness removed",
+            "Grabs across the board have been buffed and made a standardized 6 frames.",
+            "Weight dependent throw speeds have been removed, throws will always remain the same speed.",
+            "Jump cancel grab is back, albeit a bit crazy on some characters",
+            "Shield health has been doubled (characters with “shield popper” type moves have had their shield damage adjusted to compensate)",
+            "Shield degenerates much slower",
+            "Shield pushback reduced greatly",
+            "Powershield window increased to 15 frames (reflect window unchanged)",
+            "Grab now has 3% armor. Any attack doing less than 3% cannot break it, including multihits that add up to more than 3%, so you can shield grab multihits OoS much more easily",
+            "Can now cancel “run turnaround” into attacks, allowing Smash 4/Ultimate style pivot f tilts and smashes out of run, and any other attack besides"
+          ],
+          "pinned": true
+        },
+        {
           "name": "Bowser",
           "icon": "bowser",
           "quirks": [
