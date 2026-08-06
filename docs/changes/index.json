@@ -165,7 +165,8 @@
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mewtwo",
@@ -289,7 +290,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 15,
+      "unchanged": 18,
       "previous": "1.0.0"
     },
     {
@@ -465,15 +466,18 @@
         },
         {
           "name": "Marth",
-          "file": "Marth.md"
+          "file": "Marth.md",
+          "delta": "Marth.md"
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mewtwo",
-          "file": "Mewtwo.md"
+          "file": "Mewtwo.md",
+          "delta": "Mewtwo.md"
         },
         {
           "name": "Mr. Game & Watch",
@@ -481,7 +485,8 @@
         },
         {
           "name": "Ness",
-          "file": "Ness.md"
+          "file": "Ness.md",
+          "delta": "Ness.md"
         },
         {
           "name": "Pac-Man",
@@ -711,11 +716,13 @@
         },
         {
           "name": "Marth",
-          "file": "Marth.md"
+          "file": "Marth.md",
+          "delta": "Marth.md"
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mewtwo",
@@ -821,7 +828,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 12,
+      "unchanged": 14,
       "previous": "0.9.0"
     },
     {
@@ -932,15 +939,18 @@
         },
         {
           "name": "Marth",
-          "file": "Marth.md"
+          "file": "Marth.md",
+          "delta": "Marth.md"
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mewtwo",
-          "file": "Mewtwo.md"
+          "file": "Mewtwo.md",
+          "delta": "Mewtwo.md"
         },
         {
           "name": "Mr. Game & Watch",
@@ -948,7 +958,8 @@
         },
         {
           "name": "Ness",
-          "file": "Ness.md"
+          "file": "Ness.md",
+          "delta": "Ness.md"
         },
         {
           "name": "Pac-Man",
@@ -1143,15 +1154,18 @@
         },
         {
           "name": "Marth",
-          "file": "Marth.md"
+          "file": "Marth.md",
+          "delta": "Marth.md"
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mewtwo",
-          "file": "Mewtwo.md"
+          "file": "Mewtwo.md",
+          "delta": "Mewtwo.md"
         },
         {
           "name": "Mr. Game & Watch",
@@ -1159,7 +1173,8 @@
         },
         {
           "name": "Ness",
-          "file": "Ness.md"
+          "file": "Ness.md",
+          "delta": "Ness.md"
         },
         {
           "name": "Peach",
@@ -1340,15 +1355,18 @@
         },
         {
           "name": "Marth",
-          "file": "Marth.md"
+          "file": "Marth.md",
+          "delta": "Marth.md"
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mewtwo",
-          "file": "Mewtwo.md"
+          "file": "Mewtwo.md",
+          "delta": "Mewtwo.md"
         },
         {
           "name": "Mr. Game & Watch",
@@ -1356,7 +1374,8 @@
         },
         {
           "name": "Ness",
-          "file": "Ness.md"
+          "file": "Ness.md",
+          "delta": "Ness.md"
         },
         {
           "name": "Peach",
@@ -1625,7 +1644,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 13,
+      "unchanged": 16,
       "previous": "0.5.0"
     },
     {
@@ -1705,7 +1724,8 @@
         },
         {
           "name": "Marth",
-          "file": "Marth.md"
+          "file": "Marth.md",
+          "delta": "Marth.md"
         },
         {
           "name": "Meta Knight",
@@ -1796,7 +1816,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 10,
+      "unchanged": 12,
       "previous": "0.4.0"
     },
     {
@@ -1881,7 +1901,8 @@
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mr. Game & Watch",
@@ -1889,7 +1910,8 @@
         },
         {
           "name": "Ness",
-          "file": "Ness.md"
+          "file": "Ness.md",
+          "delta": "Ness.md"
         },
         {
           "name": "Peach",
@@ -1961,7 +1983,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 11,
+      "unchanged": 12,
       "previous": "0.3.0"
     },
     {
@@ -2053,7 +2075,8 @@
         },
         {
           "name": "Ness",
-          "file": "Ness.md"
+          "file": "Ness.md",
+          "delta": "Ness.md"
         },
         {
           "name": "Peach",
@@ -2123,7 +2146,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 9,
+      "unchanged": 11,
       "previous": "0.2.0"
     },
     {
@@ -2207,7 +2230,8 @@
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mr. Game & Watch",
@@ -2281,7 +2305,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 13,
+      "unchanged": 15,
       "previous": "0.1.0"
     },
     {
@@ -2362,7 +2386,8 @@
         },
         {
           "name": "Marth",
-          "file": "Marth.md"
+          "file": "Marth.md",
+          "delta": "Marth.md"
         },
         {
           "name": "Meta Knight",
@@ -2374,7 +2399,8 @@
         },
         {
           "name": "Ness",
-          "file": "Ness.md"
+          "file": "Ness.md",
+          "delta": "Ness.md"
         },
         {
           "name": "Peach",
@@ -2448,7 +2474,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 4
+      "unchanged": 5
     }
   ]
 }
