@@ -6,3 +6,6 @@
 
 **Dash Attack**
 endlag slowed: .76 → .45
+
+**Grab**
+fixed invincibility on many rolls/getup options, as well as hitboxes

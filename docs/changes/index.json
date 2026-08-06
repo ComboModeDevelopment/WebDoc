@@ -186,11 +186,13 @@
         },
         {
           "name": "Peach",
-          "file": "Peach.md"
+          "file": "Peach.md",
+          "delta": "Peach.md"
         },
         {
           "name": "Pikachu",
-          "file": "Pikachu.md"
+          "file": "Pikachu.md",
+          "delta": "Pikachu.md"
         },
         {
           "name": "Pit",
@@ -488,11 +490,13 @@
         },
         {
           "name": "Peach",
-          "file": "Peach.md"
+          "file": "Peach.md",
+          "delta": "Peach.md"
         },
         {
           "name": "Pikachu",
-          "file": "Pikachu.md"
+          "file": "Pikachu.md",
+          "delta": "Pikachu.md"
         },
         {
           "name": "Pit",
@@ -731,7 +735,8 @@
         },
         {
           "name": "Peach",
-          "file": "Peach.md"
+          "file": "Peach.md",
+          "delta": "Peach.md"
         },
         {
           "name": "Pikachu",
@@ -816,7 +821,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 11,
+      "unchanged": 12,
       "previous": "0.9.0"
     },
     {
@@ -956,7 +961,8 @@
         },
         {
           "name": "Pikachu",
-          "file": "Pikachu.md"
+          "file": "Pikachu.md",
+          "delta": "Pikachu.md"
         },
         {
           "name": "Pit",
@@ -1038,7 +1044,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 7,
+      "unchanged": 8,
       "previous": "0.8.0"
     },
     {
@@ -1157,11 +1163,13 @@
         },
         {
           "name": "Peach",
-          "file": "Peach.md"
+          "file": "Peach.md",
+          "delta": "Peach.md"
         },
         {
           "name": "Pikachu",
-          "file": "Pikachu.md"
+          "file": "Pikachu.md",
+          "delta": "Pikachu.md"
         },
         {
           "name": "Pit",
@@ -1352,11 +1360,13 @@
         },
         {
           "name": "Peach",
-          "file": "Peach.md"
+          "file": "Peach.md",
+          "delta": "Peach.md"
         },
         {
           "name": "Pikachu",
-          "file": "Pikachu.md"
+          "file": "Pikachu.md",
+          "delta": "Pikachu.md"
         },
         {
           "name": "Pit",
@@ -1544,7 +1554,8 @@
         },
         {
           "name": "Peach",
-          "file": "Peach.md"
+          "file": "Peach.md",
+          "delta": "Peach.md"
         },
         {
           "name": "Pikachu",
@@ -1614,7 +1625,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 12,
+      "unchanged": 13,
       "previous": "0.5.0"
     },
     {
@@ -1785,7 +1796,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 8,
+      "unchanged": 10,
       "previous": "0.4.0"
     },
     {
@@ -1950,7 +1961,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 9,
+      "unchanged": 11,
       "previous": "0.3.0"
     },
     {
@@ -2050,7 +2061,8 @@
         },
         {
           "name": "Pikachu",
-          "file": "Pikachu.md"
+          "file": "Pikachu.md",
+          "delta": "Pikachu.md"
         },
         {
           "name": "Pit",
@@ -2111,7 +2123,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 8,
+      "unchanged": 9,
       "previous": "0.2.0"
     },
     {
@@ -2269,7 +2281,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 11,
+      "unchanged": 13,
       "previous": "0.1.0"
     },
     {
@@ -2436,7 +2448,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 2
+      "unchanged": 4
     }
   ]
 }
