@@ -9,7 +9,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -51,7 +52,8 @@
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganon",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Goemon",
-          "file": "Goemon.md"
+          "file": "Goemon.md",
+          "delta": "Goemon.md"
         },
         {
           "name": "Greninja",
@@ -296,7 +299,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 29,
+      "unchanged": 35,
       "previous": "1.0.0"
     },
     {
@@ -308,7 +311,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -343,7 +347,8 @@
         },
         {
           "name": "Falco",
-          "file": "Falco.md"
+          "file": "Falco.md",
+          "delta": "Falco.md"
         },
         {
           "name": "Fox (Melee)",
@@ -352,7 +357,8 @@
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganon",
@@ -641,7 +647,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -665,7 +672,8 @@
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -858,7 +866,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 20,
+      "unchanged": 21,
       "previous": "0.9.0"
     },
     {
@@ -894,7 +902,8 @@
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -1093,7 +1102,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 14,
+      "unchanged": 16,
       "previous": "0.8.0"
     },
     {
@@ -1105,7 +1114,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -1125,11 +1135,13 @@
         },
         {
           "name": "Falco",
-          "file": "Falco.md"
+          "file": "Falco.md",
+          "delta": "Falco.md"
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -1327,7 +1339,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -1347,11 +1360,13 @@
         },
         {
           "name": "Falco",
-          "file": "Falco.md"
+          "file": "Falco.md",
+          "delta": "Falco.md"
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -1533,7 +1548,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -1554,11 +1570,13 @@
         },
         {
           "name": "Falco",
-          "file": "Falco.md"
+          "file": "Falco.md",
+          "delta": "Falco.md"
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -1720,7 +1738,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -1740,7 +1759,8 @@
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -1887,7 +1907,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 16,
+      "unchanged": 17,
       "previous": "0.4.0"
     },
     {
@@ -1919,7 +1939,8 @@
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -2060,7 +2081,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 17,
+      "unchanged": 19,
       "previous": "0.3.0"
     },
     {
@@ -2072,7 +2093,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -2088,11 +2110,13 @@
         },
         {
           "name": "Falco",
-          "file": "Falco.md"
+          "file": "Falco.md",
+          "delta": "Falco.md"
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -2242,7 +2266,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -2258,11 +2283,13 @@
         },
         {
           "name": "Falco",
-          "file": "Falco.md"
+          "file": "Falco.md",
+          "delta": "Falco.md"
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
@@ -2405,7 +2432,8 @@
         },
         {
           "name": "Captain Falcon",
-          "file": "Captain Falcon.md"
+          "file": "Captain Falcon.md",
+          "delta": "Captain Falcon.md"
         },
         {
           "name": "Charizard",
@@ -2421,11 +2449,13 @@
         },
         {
           "name": "Falco",
-          "file": "Falco.md"
+          "file": "Falco.md",
+          "delta": "Falco.md"
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganondorf",
