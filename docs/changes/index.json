@@ -5,7 +5,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -31,15 +32,18 @@
         },
         {
           "name": "Diddy Kong",
-          "file": "Diddy Kong.md"
+          "file": "Diddy Kong.md",
+          "delta": "Diddy Kong.md"
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Dr. Mario",
-          "file": "Dr. Mario.md"
+          "file": "Dr. Mario.md",
+          "delta": "Dr. Mario.md"
         },
         {
           "name": "Falco",
@@ -299,7 +303,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 35,
+      "unchanged": 36,
       "previous": "1.0.0"
     },
     {
@@ -307,7 +311,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -316,7 +321,8 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Cloud",
@@ -335,15 +341,18 @@
         },
         {
           "name": "Diddy Kong",
-          "file": "Diddy Kong.md"
+          "file": "Diddy Kong.md",
+          "delta": "Diddy Kong.md"
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Dr. Mario",
-          "file": "Dr. Mario.md"
+          "file": "Dr. Mario.md",
+          "delta": "Dr. Mario.md"
         },
         {
           "name": "Falco",
@@ -643,7 +652,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -866,7 +876,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 21,
+      "unchanged": 25,
       "previous": "0.9.0"
     },
     {
@@ -890,11 +900,13 @@
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Dr. Mario",
-          "file": "Dr. Mario.md"
+          "file": "Dr. Mario.md",
+          "delta": "Dr. Mario.md"
         },
         {
           "name": "Falco",
@@ -1102,7 +1114,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 16,
+      "unchanged": 19,
       "previous": "0.8.0"
     },
     {
@@ -1110,7 +1122,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -1119,7 +1132,8 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Diddy Kong",
@@ -1127,11 +1141,13 @@
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Dr. Mario",
-          "file": "Dr. Mario.md"
+          "file": "Dr. Mario.md",
+          "delta": "Dr. Mario.md"
         },
         {
           "name": "Falco",
@@ -1327,7 +1343,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 2,
+      "unchanged": 3,
       "previous": "0.7.0"
     },
     {
@@ -1335,7 +1351,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -1344,7 +1361,8 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Diddy Kong",
@@ -1352,11 +1370,13 @@
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Dr. Mario",
-          "file": "Dr. Mario.md"
+          "file": "Dr. Mario.md",
+          "delta": "Dr. Mario.md"
         },
         {
           "name": "Falco",
@@ -1536,7 +1556,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 3,
+      "unchanged": 4,
       "previous": "0.6.0"
     },
     {
@@ -1726,7 +1746,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 23,
+      "unchanged": 27,
       "previous": "0.5.0"
     },
     {
@@ -1743,7 +1763,8 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Diddy Kong",
@@ -1907,7 +1928,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 17,
+      "unchanged": 20,
       "previous": "0.4.0"
     },
     {
@@ -1915,7 +1936,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -1923,7 +1945,8 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Diddy Kong",
@@ -2081,7 +2104,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 19,
+      "unchanged": 21,
       "previous": "0.3.0"
     },
     {
@@ -2089,7 +2112,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -2098,7 +2122,8 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Diddy Kong",
@@ -2106,7 +2131,8 @@
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Falco",
@@ -2254,7 +2280,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 15,
+      "unchanged": 16,
       "previous": "0.2.0"
     },
     {
@@ -2262,7 +2288,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -2271,11 +2298,13 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Diddy Kong",
-          "file": "Diddy Kong.md"
+          "file": "Diddy Kong.md",
+          "delta": "Diddy Kong.md"
         },
         {
           "name": "Donkey Kong",
@@ -2420,7 +2449,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 22,
+      "unchanged": 23,
       "previous": "0.1.0"
     },
     {
@@ -2428,7 +2457,8 @@
       "characters": [
         {
           "name": "Bowser",
-          "file": "Bowser.md"
+          "file": "Bowser.md",
+          "delta": "Bowser.md"
         },
         {
           "name": "Captain Falcon",
@@ -2437,15 +2467,18 @@
         },
         {
           "name": "Charizard",
-          "file": "Charizard.md"
+          "file": "Charizard.md",
+          "delta": "Charizard.md"
         },
         {
           "name": "Diddy Kong",
-          "file": "Diddy Kong.md"
+          "file": "Diddy Kong.md",
+          "delta": "Diddy Kong.md"
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Falco",
