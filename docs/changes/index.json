@@ -16,6 +16,10 @@
           "file": "Charizard.md"
         },
         {
+          "name": "Cloud",
+          "file": "Cloud.md"
+        },
+        {
           "name": "Daisy",
           "file": "Daisy.md",
           "delta": "Daisy.md"
@@ -46,8 +50,17 @@
           "file": "Fox.md"
         },
         {
+          "name": "Ganon",
+          "file": "Ganon.md"
+        },
+        {
           "name": "Ganondorf",
           "file": "Ganondorf.md"
+        },
+        {
+          "name": "Geno",
+          "file": "Geno.md",
+          "delta": "Geno.md"
         },
         {
           "name": "Greninja",
@@ -76,6 +89,10 @@
         {
           "name": "Kirby",
           "file": "Kirby.md"
+        },
+        {
+          "name": "Knuckles",
+          "file": "Knuckles.md"
         },
         {
           "name": "Link",
@@ -126,6 +143,11 @@
           "file": "Ness.md"
         },
         {
+          "name": "Pac-Man",
+          "file": "Pac-Man.md",
+          "delta": "Pac-Man.md"
+        },
+        {
           "name": "Peach",
           "file": "Peach.md"
         },
@@ -174,6 +196,10 @@
           "file": "Squirtle.md"
         },
         {
+          "name": "Sub-Zero",
+          "file": "Sub-Zero.md"
+        },
+        {
           "name": "Toon Link",
           "file": "Toon Link.md"
         },
@@ -186,13 +212,16 @@
           "file": "Wario.md"
         },
         {
+          "name": "Wolf (Ultimate)",
+          "file": "Wolf (Ultimate).md"
+        },
+        {
           "name": "Wolf",
           "file": "Wolf.md"
         },
         {
           "name": "Yoshi",
-          "file": "Yoshi.md",
-          "delta": "Yoshi.md"
+          "file": "Yoshi.md"
         },
         {
           "name": "Zelda",
@@ -201,10 +230,10 @@
         },
         {
           "name": "Zero Suit Samus",
-          "file": "Zero Suit Samus.md",
-          "delta": "Zero Suit Samus.md"
+          "file": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 7,
       "previous": "1.0.0"
     },
     {
@@ -223,6 +252,11 @@
           "file": "Charizard.md"
         },
         {
+          "name": "Cloud",
+          "file": "Cloud.md",
+          "delta": "Cloud.md"
+        },
+        {
           "name": "Daisy",
           "file": "Daisy.md",
           "delta": "Daisy.md"
@@ -253,8 +287,18 @@
           "file": "Fox.md"
         },
         {
+          "name": "Ganon",
+          "file": "Ganon.md",
+          "delta": "Ganon.md"
+        },
+        {
           "name": "Ganondorf",
           "file": "Ganondorf.md"
+        },
+        {
+          "name": "Geno",
+          "file": "Geno.md",
+          "delta": "Geno.md"
         },
         {
           "name": "Greninja",
@@ -283,6 +327,11 @@
         {
           "name": "Kirby",
           "file": "Kirby.md"
+        },
+        {
+          "name": "Knuckles",
+          "file": "Knuckles.md",
+          "delta": "Knuckles.md"
         },
         {
           "name": "Link",
@@ -333,6 +382,11 @@
           "file": "Ness.md"
         },
         {
+          "name": "Pac-Man",
+          "file": "Pac-Man.md",
+          "delta": "Pac-Man.md"
+        },
+        {
           "name": "Peach",
           "file": "Peach.md"
         },
@@ -381,6 +435,11 @@
           "file": "Squirtle.md"
         },
         {
+          "name": "Sub-Zero",
+          "file": "Sub-Zero.md",
+          "delta": "Sub-Zero.md"
+        },
+        {
           "name": "Toon Link",
           "file": "Toon Link.md"
         },
@@ -391,6 +450,11 @@
         {
           "name": "Wario",
           "file": "Wario.md"
+        },
+        {
+          "name": "Wolf (Ultimate)",
+          "file": "Wolf (Ultimate).md",
+          "delta": "Wolf (Ultimate).md"
         },
         {
           "name": "Wolf",
@@ -454,6 +518,10 @@
           "file": "Ganondorf.md"
         },
         {
+          "name": "Geno",
+          "file": "Geno.md"
+        },
+        {
           "name": "Greninja",
           "file": "Greninja.md"
         },
@@ -480,6 +548,10 @@
         {
           "name": "Kirby",
           "file": "Kirby.md"
+        },
+        {
+          "name": "Knuckles",
+          "file": "Knuckles.md"
         },
         {
           "name": "Link",
@@ -528,6 +600,10 @@
         {
           "name": "Ness",
           "file": "Ness.md"
+        },
+        {
+          "name": "Pac-Man",
+          "file": "Pac-Man.md"
         },
         {
           "name": "Peach",
@@ -600,15 +676,14 @@
         },
         {
           "name": "Zelda",
-          "file": "Zelda.md",
-          "delta": "Zelda.md"
+          "file": "Zelda.md"
         },
         {
           "name": "Zero Suit Samus",
-          "file": "Zero Suit Samus.md",
-          "delta": "Zero Suit Samus.md"
+          "file": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 5,
       "previous": "0.9.0"
     },
     {
@@ -651,6 +726,11 @@
           "file": "Ganondorf.md"
         },
         {
+          "name": "Geno",
+          "file": "Geno.md",
+          "delta": "Geno.md"
+        },
+        {
           "name": "Greninja",
           "file": "Greninja.md"
         },
@@ -671,8 +751,18 @@
           "file": "King Dedede.md"
         },
         {
+          "name": "King K. Rool",
+          "file": "King K. Rool.md",
+          "delta": "King K. Rool.md"
+        },
+        {
           "name": "Kirby",
           "file": "Kirby.md"
+        },
+        {
+          "name": "Knuckles",
+          "file": "Knuckles.md",
+          "delta": "Knuckles.md"
         },
         {
           "name": "Link",
@@ -721,6 +811,11 @@
         {
           "name": "Ness",
           "file": "Ness.md"
+        },
+        {
+          "name": "Pac-Man",
+          "file": "Pac-Man.md",
+          "delta": "Pac-Man.md"
         },
         {
           "name": "Peach",
@@ -793,8 +888,7 @@
         },
         {
           "name": "Zelda",
-          "file": "Zelda.md",
-          "delta": "Zelda.md"
+          "file": "Zelda.md"
         },
         {
           "name": "Zero Suit Samus",
@@ -802,6 +896,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 1,
       "previous": "0.8.0"
     },
     {
@@ -1323,20 +1418,18 @@
         },
         {
           "name": "Yoshi",
-          "file": "Yoshi.md",
-          "delta": "Yoshi.md"
+          "file": "Yoshi.md"
         },
         {
           "name": "Zelda",
-          "file": "Zelda.md",
-          "delta": "Zelda.md"
+          "file": "Zelda.md"
         },
         {
           "name": "Zero Suit Samus",
-          "file": "Zero Suit Samus.md",
-          "delta": "Zero Suit Samus.md"
+          "file": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 3,
       "previous": "0.5.0"
     },
     {
@@ -1488,20 +1581,18 @@
         },
         {
           "name": "Yoshi",
-          "file": "Yoshi.md",
-          "delta": "Yoshi.md"
+          "file": "Yoshi.md"
         },
         {
           "name": "Zelda",
-          "file": "Zelda.md",
-          "delta": "Zelda.md"
+          "file": "Zelda.md"
         },
         {
           "name": "Zero Suit Samus",
-          "file": "Zero Suit Samus.md",
-          "delta": "Zero Suit Samus.md"
+          "file": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 3,
       "previous": "0.4.0"
     },
     {
@@ -1641,20 +1732,18 @@
         },
         {
           "name": "Yoshi",
-          "file": "Yoshi.md",
-          "delta": "Yoshi.md"
+          "file": "Yoshi.md"
         },
         {
           "name": "Zelda",
-          "file": "Zelda.md",
-          "delta": "Zelda.md"
+          "file": "Zelda.md"
         },
         {
           "name": "Zero Suit Samus",
-          "file": "Zero Suit Samus.md",
-          "delta": "Zero Suit Samus.md"
+          "file": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 3,
       "previous": "0.3.0"
     },
     {
@@ -1794,13 +1883,11 @@
         },
         {
           "name": "Yoshi",
-          "file": "Yoshi.md",
-          "delta": "Yoshi.md"
+          "file": "Yoshi.md"
         },
         {
           "name": "Zelda",
-          "file": "Zelda.md",
-          "delta": "Zelda.md"
+          "file": "Zelda.md"
         },
         {
           "name": "Zero Suit Samus",
@@ -1808,6 +1895,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 2,
       "previous": "0.2.0"
     },
     {
@@ -1944,15 +2032,14 @@
         },
         {
           "name": "Zelda",
-          "file": "Zelda.md",
-          "delta": "Zelda.md"
+          "file": "Zelda.md"
         },
         {
           "name": "Zero Suit Samus",
-          "file": "Zero Suit Samus.md",
-          "delta": "Zero Suit Samus.md"
+          "file": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 2,
       "previous": "0.1.0"
     },
     {

@@ -21,6 +21,7 @@ Run it locally before previewing, or let the deploy workflow run it (it does).
 Releases newer than `latest_published` (scripts/release_config.json) are gated
 out — see scripts/releasecfg.py.
 """
+import io
 import json
 import os
 import sys
@@ -38,6 +39,24 @@ def _md_files(directory):
     return {f for f in os.listdir(directory) if f.lower().endswith(".md")}
 
 
+def _reports_no_changes(path):
+    """True when a delta's whole body is the "nothing happened" sentence.
+
+    Those files are worth keeping on disk — they record that a character was
+    checked and left alone — but listing them under "Changes this release"
+    reads as though the character *did* change. A delta that carries an
+    arrival note or any section is real content and stays.
+    """
+    body = []
+    with io.open(path, encoding="utf-8") as fh:
+        for line in fh:
+            s = line.strip()
+            if not s or s.startswith("# ") or s.startswith("## "):
+                continue
+            body.append(s)
+    return body == ["No changes this release."]
+
+
 def build():
     releases = []
     if os.path.isdir(CHANGES_DIR):
@@ -51,6 +70,7 @@ def build():
             # stand alone: a release can ship delta notes before its cumulative
             # files have been copied over, or vice versa.
             characters = []
+            unchanged = 0
             for filename in sorted(cumulative | deltas):
                 entry = {"name": os.path.splitext(filename)[0]}
                 # The front-end keys off these two: `file` puts a character in
@@ -59,10 +79,19 @@ def build():
                 if filename in cumulative:
                     entry["file"] = filename
                 if filename in deltas:
-                    entry["delta"] = filename
+                    if _reports_no_changes(
+                            os.path.join(version_dir, "deltas", filename)):
+                        unchanged += 1
+                    else:
+                        entry["delta"] = filename
                 characters.append(entry)
             if characters:
-                releases.append({"version": version, "characters": characters})
+                rel = {"version": version, "characters": characters}
+                # Lets the page distinguish "nobody changed" from "nobody has
+                # been written up yet" when the delta grid comes out empty.
+                if unchanged:
+                    rel["unchanged"] = unchanged
+                releases.append(rel)
 
     releases, hidden = releasecfg.partition_releases(releases)
     releases.sort(key=lambda r: releasecfg.version_key(r["version"]), reverse=True)
