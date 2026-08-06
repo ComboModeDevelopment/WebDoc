@@ -229,7 +229,8 @@
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
@@ -280,7 +281,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 10,
+      "unchanged": 13,
       "previous": "1.0.0"
     },
     {
@@ -517,7 +518,8 @@
         },
         {
           "name": "Sheik",
-          "file": "Sheik.md"
+          "file": "Sheik.md",
+          "delta": "Sheik.md"
         },
         {
           "name": "Snake (P+)",
@@ -526,11 +528,13 @@
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
-          "file": "Sonic.md"
+          "file": "Sonic.md",
+          "delta": "Sonic.md"
         },
         {
           "name": "Squirtle",
@@ -746,15 +750,18 @@
         },
         {
           "name": "Sheik",
-          "file": "Sheik.md"
+          "file": "Sheik.md",
+          "delta": "Sheik.md"
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
-          "file": "Sonic.md"
+          "file": "Sonic.md",
+          "delta": "Sonic.md"
         },
         {
           "name": "Squirtle",
@@ -966,7 +973,8 @@
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
@@ -1011,7 +1019,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 2,
+      "unchanged": 4,
       "previous": "0.8.0"
     },
     {
@@ -1158,15 +1166,18 @@
         },
         {
           "name": "Sheik",
-          "file": "Sheik.md"
+          "file": "Sheik.md",
+          "delta": "Sheik.md"
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
-          "file": "Sonic.md"
+          "file": "Sonic.md",
+          "delta": "Sonic.md"
         },
         {
           "name": "Squirtle",
@@ -1340,7 +1351,8 @@
         },
         {
           "name": "Sheik",
-          "file": "Sheik.md"
+          "file": "Sheik.md",
+          "delta": "Sheik.md"
         },
         {
           "name": "Snake",
@@ -1348,7 +1360,8 @@
         },
         {
           "name": "Sonic",
-          "file": "Sonic.md"
+          "file": "Sonic.md",
+          "delta": "Sonic.md"
         },
         {
           "name": "Squirtle",
@@ -1390,7 +1403,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 1,
+      "unchanged": 2,
       "previous": "0.6.0"
     },
     {
@@ -1571,7 +1584,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 5,
+      "unchanged": 8,
       "previous": "0.5.0"
     },
     {
@@ -1695,7 +1708,8 @@
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
@@ -1739,7 +1753,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 3,
+      "unchanged": 5,
       "previous": "0.4.0"
     },
     {
@@ -1860,11 +1874,13 @@
         },
         {
           "name": "Sheik",
-          "file": "Sheik.md"
+          "file": "Sheik.md",
+          "delta": "Sheik.md"
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
@@ -1900,7 +1916,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 6,
+      "unchanged": 7,
       "previous": "0.3.0"
     },
     {
@@ -2020,11 +2036,13 @@
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
-          "file": "Sonic.md"
+          "file": "Sonic.md",
+          "delta": "Sonic.md"
         },
         {
           "name": "Squirtle",
@@ -2058,7 +2076,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 4,
+      "unchanged": 5,
       "previous": "0.2.0"
     },
     {
@@ -2178,11 +2196,13 @@
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
-          "file": "Sonic.md"
+          "file": "Sonic.md",
+          "delta": "Sonic.md"
         },
         {
           "name": "Squirtle",
@@ -2214,7 +2234,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 6,
+      "unchanged": 7,
       "previous": "0.1.0"
     },
     {
@@ -2330,15 +2350,18 @@
         },
         {
           "name": "Sheik",
-          "file": "Sheik.md"
+          "file": "Sheik.md",
+          "delta": "Sheik.md"
         },
         {
           "name": "Snake",
-          "file": "Snake.md"
+          "file": "Snake.md",
+          "delta": "Snake.md"
         },
         {
           "name": "Sonic",
-          "file": "Sonic.md"
+          "file": "Sonic.md",
+          "delta": "Sonic.md"
         },
         {
           "name": "Squirtle",
