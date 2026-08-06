@@ -125,7 +125,8 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Little Mac",
@@ -291,7 +292,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 21,
+      "unchanged": 25,
       "previous": "1.0.0"
     },
     {
@@ -429,11 +430,13 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Little Mac",
-          "file": "Little Mac.md"
+          "file": "Little Mac.md",
+          "delta": "Little Mac.md"
         },
         {
           "name": "Lucario (Brawl)",
@@ -442,11 +445,13 @@
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
-          "file": "Lucas.md"
+          "file": "Lucas.md",
+          "delta": "Lucas.md"
         },
         {
           "name": "Lucina",
@@ -693,11 +698,13 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Little Mac",
-          "file": "Little Mac.md"
+          "file": "Little Mac.md",
+          "delta": "Little Mac.md"
         },
         {
           "name": "Lucario",
@@ -836,7 +843,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 15,
+      "unchanged": 17,
       "previous": "0.9.0"
     },
     {
@@ -927,7 +934,8 @@
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
@@ -1066,7 +1074,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 9,
+      "unchanged": 12,
       "previous": "0.8.0"
     },
     {
@@ -1136,19 +1144,23 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Little Mac",
-          "file": "Little Mac.md"
+          "file": "Little Mac.md",
+          "delta": "Little Mac.md"
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
-          "file": "Lucas.md"
+          "file": "Lucas.md",
+          "delta": "Lucas.md"
         },
         {
           "name": "Lucina",
@@ -1344,19 +1356,23 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Little Mac",
-          "file": "Little Mac.md"
+          "file": "Little Mac.md",
+          "delta": "Little Mac.md"
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
-          "file": "Lucas.md"
+          "file": "Lucas.md",
+          "delta": "Lucas.md"
         },
         {
           "name": "Luigi",
@@ -1542,7 +1558,8 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Little Mac",
@@ -1551,7 +1568,8 @@
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
@@ -1660,7 +1678,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 18,
+      "unchanged": 19,
       "previous": "0.5.0"
     },
     {
@@ -1720,15 +1738,18 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
-          "file": "Lucas.md"
+          "file": "Lucas.md",
+          "delta": "Lucas.md"
         },
         {
           "name": "Luigi",
@@ -1895,11 +1916,13 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
@@ -2003,7 +2026,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 13,
+      "unchanged": 14,
       "previous": "0.3.0"
     },
     {
@@ -2063,11 +2086,13 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
@@ -2168,7 +2193,7 @@
           "delta": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 12,
+      "unchanged": 13,
       "previous": "0.2.0"
     },
     {
@@ -2232,7 +2257,8 @@
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
@@ -2329,7 +2355,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 16,
+      "unchanged": 18,
       "previous": "0.1.0"
     },
     {
@@ -2390,15 +2416,18 @@
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
-          "file": "Lucas.md"
+          "file": "Lucas.md",
+          "delta": "Lucas.md"
         },
         {
           "name": "Luigi",
