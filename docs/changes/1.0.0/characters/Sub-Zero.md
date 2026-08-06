@@ -1,5 +1,7 @@
 # Sub-Zero — 1.0.0
 
+*Sub-Zero joins the Combo Mode roster.*
+
 ## Changes
 
 ### Jab / Tilts

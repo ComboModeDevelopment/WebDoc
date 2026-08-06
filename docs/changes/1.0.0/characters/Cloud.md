@@ -1,5 +1,7 @@
 # Cloud — 1.0.0
 
+*Cloud joins the Combo Mode roster.*
+
 ## Changes
 
 ### Jab / Tilts

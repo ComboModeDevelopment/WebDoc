@@ -4,4 +4,4 @@
 
 ## Changes
 
-*(No stat or move changes in this version — see version notes above.)*
+No changes this release.

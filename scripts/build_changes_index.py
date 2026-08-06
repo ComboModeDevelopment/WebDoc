@@ -124,8 +124,15 @@ def build():
             print("  note: %s has no characters/*.md — it will only appear "
                   "under \"Changes this release\"." % rel["version"])
         elif not any(c.get("delta") for c in rel["characters"]):
-            print("  note: %s has no deltas/*.md — it will only appear "
-                  "under \"All changes so far\"." % rel["version"])
+            # Distinguish "nobody written up" from "everyone written up as
+            # unchanged" — the second is complete, not a gap to chase.
+            if rel.get("unchanged"):
+                print("  note: %s has %d delta(s), all reporting no changes — "
+                      "\"Changes this release\" will say so."
+                      % (rel["version"], rel["unchanged"]))
+            else:
+                print("  note: %s has no deltas/*.md — it will only appear "
+                      "under \"All changes so far\"." % rel["version"])
 
 
 if __name__ == "__main__":

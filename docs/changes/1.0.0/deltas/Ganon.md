@@ -2,6 +2,8 @@
 
 ## Changes since 0.9.5
 
+*Ganon joins the Combo Mode roster.*
+
 ### Other
 
 **Down Throw**

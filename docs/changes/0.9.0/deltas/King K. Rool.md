@@ -4,4 +4,4 @@
 
 *King K. Rool joins the Combo Mode roster.*
 
-No stat or move changes on arrival.
+No changes this release.

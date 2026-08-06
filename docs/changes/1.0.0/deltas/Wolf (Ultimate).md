@@ -2,6 +2,8 @@
 
 ## Changes since 0.9.5
 
+*Wolf (Ultimate) joins the Combo Mode roster.*
+
 ### Aerial Attacks
 
 **Forward Air**

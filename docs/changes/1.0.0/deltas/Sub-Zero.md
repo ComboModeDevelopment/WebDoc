@@ -2,6 +2,8 @@
 
 ## Changes since 0.9.5
 
+*Sub-Zero joins the Combo Mode roster.*
+
 ### Jab / Tilts
 
 **Jab**

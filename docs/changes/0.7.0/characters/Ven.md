@@ -1,7 +1,5 @@
 # Ven — 0.7.0
 
-*Ven joins the Combo Mode roster as an ice-based Roy variant.*
-
 ## Changes
 
 ### Jab / Tilts

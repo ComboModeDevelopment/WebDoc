@@ -25,6 +25,10 @@
           "delta": "Daisy.md"
         },
         {
+          "name": "Dark Samus",
+          "file": "Dark Samus.md"
+        },
+        {
           "name": "Diddy Kong",
           "file": "Diddy Kong.md"
         },
@@ -63,6 +67,14 @@
           "delta": "Geno.md"
         },
         {
+          "name": "Giga Bowser",
+          "file": "Giga Bowser.md"
+        },
+        {
+          "name": "Goemon",
+          "file": "Goemon.md"
+        },
+        {
           "name": "Greninja",
           "file": "Greninja.md"
         },
@@ -71,12 +83,24 @@
           "file": "Ike.md"
         },
         {
+          "name": "Incineroar",
+          "file": "Incineroar.md"
+        },
+        {
+          "name": "Isabelle",
+          "file": "Isabelle.md"
+        },
+        {
           "name": "Ivysaur",
           "file": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
           "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede (Ultimate)",
+          "file": "King Dedede (Ultimate).md"
         },
         {
           "name": "King Dedede",
@@ -95,12 +119,20 @@
           "file": "Knuckles.md"
         },
         {
+          "name": "Kumatora",
+          "file": "Kumatora.md"
+        },
+        {
           "name": "Link",
           "file": "Link.md"
         },
         {
           "name": "Little Mac",
           "file": "Little Mac.md"
+        },
+        {
+          "name": "Lucario (Brawl)",
+          "file": "Lucario (Brawl).md"
         },
         {
           "name": "Lucario",
@@ -117,6 +149,10 @@
         {
           "name": "Luigi",
           "file": "Luigi.md"
+        },
+        {
+          "name": "Mage Ganondorf",
+          "file": "Mage Ganondorf.md"
         },
         {
           "name": "Mario",
@@ -164,6 +200,10 @@
           "file": "R.O.B..md"
         },
         {
+          "name": "Roy (Melee)",
+          "file": "Roy (Melee).md"
+        },
+        {
           "name": "Roy",
           "file": "Roy.md"
         },
@@ -182,6 +222,10 @@
         {
           "name": "Sheik",
           "file": "Sheik.md"
+        },
+        {
+          "name": "Snake (P+)",
+          "file": "Snake (P+).md"
         },
         {
           "name": "Snake",
@@ -262,6 +306,11 @@
           "delta": "Daisy.md"
         },
         {
+          "name": "Dark Samus",
+          "file": "Dark Samus.md",
+          "delta": "Dark Samus.md"
+        },
+        {
           "name": "Diddy Kong",
           "file": "Diddy Kong.md"
         },
@@ -301,6 +350,16 @@
           "delta": "Geno.md"
         },
         {
+          "name": "Giga Bowser",
+          "file": "Giga Bowser.md",
+          "delta": "Giga Bowser.md"
+        },
+        {
+          "name": "Goemon",
+          "file": "Goemon.md",
+          "delta": "Goemon.md"
+        },
+        {
           "name": "Greninja",
           "file": "Greninja.md"
         },
@@ -309,12 +368,27 @@
           "file": "Ike.md"
         },
         {
+          "name": "Incineroar",
+          "file": "Incineroar.md",
+          "delta": "Incineroar.md"
+        },
+        {
+          "name": "Isabelle",
+          "file": "Isabelle.md",
+          "delta": "Isabelle.md"
+        },
+        {
           "name": "Ivysaur",
           "file": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
           "file": "Jigglypuff.md"
+        },
+        {
+          "name": "King Dedede (Ultimate)",
+          "file": "King Dedede (Ultimate).md",
+          "delta": "King Dedede (Ultimate).md"
         },
         {
           "name": "King Dedede",
@@ -334,12 +408,22 @@
           "delta": "Knuckles.md"
         },
         {
+          "name": "Kumatora",
+          "file": "Kumatora.md",
+          "delta": "Kumatora.md"
+        },
+        {
           "name": "Link",
           "file": "Link.md"
         },
         {
           "name": "Little Mac",
           "file": "Little Mac.md"
+        },
+        {
+          "name": "Lucario (Brawl)",
+          "file": "Lucario (Brawl).md",
+          "delta": "Lucario (Brawl).md"
         },
         {
           "name": "Lucario",
@@ -356,6 +440,11 @@
         {
           "name": "Luigi",
           "file": "Luigi.md"
+        },
+        {
+          "name": "Mage Ganondorf",
+          "file": "Mage Ganondorf.md",
+          "delta": "Mage Ganondorf.md"
         },
         {
           "name": "Mario",
@@ -403,6 +492,11 @@
           "file": "R.O.B..md"
         },
         {
+          "name": "Roy (Melee)",
+          "file": "Roy (Melee).md",
+          "delta": "Roy (Melee).md"
+        },
+        {
           "name": "Roy",
           "file": "Roy.md"
         },
@@ -421,6 +515,11 @@
         {
           "name": "Sheik",
           "file": "Sheik.md"
+        },
+        {
+          "name": "Snake (P+)",
+          "file": "Snake (P+).md",
+          "delta": "Snake (P+).md"
         },
         {
           "name": "Snake",
@@ -843,7 +942,8 @@
         },
         {
           "name": "Sephiroth",
-          "file": "Sephiroth.md"
+          "file": "Sephiroth.md",
+          "delta": "Sephiroth.md"
         },
         {
           "name": "Shadow",
@@ -939,6 +1039,11 @@
           "file": "Ganondorf.md"
         },
         {
+          "name": "Greninja",
+          "file": "Greninja.md",
+          "delta": "Greninja.md"
+        },
+        {
           "name": "Ike",
           "file": "Ike.md"
         },
@@ -973,6 +1078,11 @@
         {
           "name": "Lucas",
           "file": "Lucas.md"
+        },
+        {
+          "name": "Lucina",
+          "file": "Lucina.md",
+          "delta": "Lucina.md"
         },
         {
           "name": "Luigi",
@@ -1027,8 +1137,9 @@
           "file": "Samus.md"
         },
         {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
+          "name": "Shadow",
+          "file": "Shadow.md",
+          "delta": "Shadow.md"
         },
         {
           "name": "Sheik",
@@ -1208,10 +1319,6 @@
           "file": "Samus.md"
         },
         {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
-        },
-        {
           "name": "Sheik",
           "file": "Sheik.md"
         },
@@ -1286,7 +1393,8 @@
         },
         {
           "name": "Dr. Mario",
-          "file": "Dr. Mario.md"
+          "file": "Dr. Mario.md",
+          "delta": "Dr. Mario.md"
         },
         {
           "name": "Falco",
@@ -1325,6 +1433,11 @@
           "file": "Link.md"
         },
         {
+          "name": "Little Mac",
+          "file": "Little Mac.md",
+          "delta": "Little Mac.md"
+        },
+        {
           "name": "Lucario",
           "file": "Lucario.md"
         },
@@ -1347,6 +1460,11 @@
         {
           "name": "Meta Knight",
           "file": "Meta Knight.md"
+        },
+        {
+          "name": "Mewtwo",
+          "file": "Mewtwo.md",
+          "delta": "Mewtwo.md"
         },
         {
           "name": "Mr. Game & Watch",
@@ -1379,10 +1497,6 @@
         {
           "name": "Samus",
           "file": "Samus.md"
-        },
-        {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
         },
         {
           "name": "Sheik",
@@ -1524,6 +1638,10 @@
           "file": "Ness.md"
         },
         {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
           "name": "Pikachu",
           "file": "Pikachu.md"
         },
@@ -1542,10 +1660,6 @@
         {
           "name": "Samus",
           "file": "Samus.md"
-        },
-        {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
         },
         {
           "name": "Sheik",
@@ -1569,7 +1683,8 @@
         },
         {
           "name": "Ven",
-          "file": "Ven.md"
+          "file": "Ven.md",
+          "delta": "Ven.md"
         },
         {
           "name": "Wario",
@@ -1687,6 +1802,10 @@
           "file": "Ness.md"
         },
         {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
           "name": "Pikachu",
           "file": "Pikachu.md"
         },
@@ -1699,12 +1818,13 @@
           "file": "R.O.B..md"
         },
         {
-          "name": "Samus",
-          "file": "Samus.md"
+          "name": "Roy",
+          "file": "Roy.md",
+          "delta": "Roy.md"
         },
         {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
+          "name": "Samus",
+          "file": "Samus.md"
         },
         {
           "name": "Sheik",
@@ -1725,6 +1845,10 @@
         {
           "name": "Toon Link",
           "file": "Toon Link.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
         },
         {
           "name": "Wolf",
@@ -1838,6 +1962,10 @@
           "file": "Ness.md"
         },
         {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
           "name": "Pikachu",
           "file": "Pikachu.md"
         },
@@ -1852,10 +1980,6 @@
         {
           "name": "Samus",
           "file": "Samus.md"
-        },
-        {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
         },
         {
           "name": "Sheik",
@@ -1876,6 +2000,10 @@
         {
           "name": "Toon Link",
           "file": "Toon Link.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
         },
         {
           "name": "Wolf",
@@ -1990,6 +2118,14 @@
           "file": "Ness.md"
         },
         {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
+        },
+        {
           "name": "Pit",
           "file": "Pit.md"
         },
@@ -2000,10 +2136,6 @@
         {
           "name": "Samus",
           "file": "Samus.md"
-        },
-        {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
         },
         {
           "name": "Sheik",
@@ -2020,6 +2152,14 @@
         {
           "name": "Squirtle",
           "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
         },
         {
           "name": "Wolf",
@@ -2122,12 +2262,24 @@
           "file": "Marth.md"
         },
         {
+          "name": "Meta Knight",
+          "file": "Meta Knight.md"
+        },
+        {
           "name": "Mr. Game & Watch",
           "file": "Mr. Game & Watch.md"
         },
         {
           "name": "Ness",
           "file": "Ness.md"
+        },
+        {
+          "name": "Peach",
+          "file": "Peach.md"
+        },
+        {
+          "name": "Pikachu",
+          "file": "Pikachu.md"
         },
         {
           "name": "Pit",
@@ -2140,10 +2292,6 @@
         {
           "name": "Samus",
           "file": "Samus.md"
-        },
-        {
-          "name": "Sephiroth",
-          "file": "Sephiroth.md"
         },
         {
           "name": "Sheik",
@@ -2160,6 +2308,14 @@
         {
           "name": "Squirtle",
           "file": "Squirtle.md"
+        },
+        {
+          "name": "Toon Link",
+          "file": "Toon Link.md"
+        },
+        {
+          "name": "Wario",
+          "file": "Wario.md"
         },
         {
           "name": "Wolf",

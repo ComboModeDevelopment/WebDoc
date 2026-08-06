@@ -293,12 +293,24 @@
             var roster = (rel.characters || []).filter(function (c) {
               return c.file;
             }).length;
+            // Characters checked this release and left alone. They are kept out
+            // of the grid — listing them reads as though they changed — but
+            // they are the difference between "nothing changed" and "nobody
+            // written up yet", so the wording below has to know about them.
+            var unchanged = rel.unchanged || 0;
+            // Same sentence the delta files themselves use, so the page never
+            // has two ways of saying nothing happened.
+            var emptyMsg = unchanged
+              ? "No changes this release."
+              : "No release-by-release notes for this release yet.";
             modeNoteEl.hidden = false;
             if (!withDeltas.length) {
-              modeNoteEl.textContent =
-                "No release-by-release notes written for " + rel.version +
-                " yet. Switch to “All changes so far” to read this " +
-                "release’s full history.";
+              modeNoteEl.textContent = unchanged
+                ? "No changes this release. Switch to “All changes so far” " +
+                  "to read the full history up to " + rel.version + "."
+                : "No release-by-release notes written for " + rel.version +
+                  " yet. Switch to “All changes so far” to read this " +
+                  "release’s full history.";
             } else if (roster > withDeltas.length) {
               modeNoteEl.textContent =
                 "Release-by-release notes are being written up character by " +
@@ -308,8 +320,7 @@
             } else {
               modeNoteEl.hidden = true;
             }
-            renderCharacterGrid(listEl, mode, rel.version, withDeltas,
-              "No release-by-release notes for this release yet.");
+            renderCharacterGrid(listEl, mode, rel.version, withDeltas, emptyMsg);
           } else {
             var withHistory = (rel.characters || []).filter(function (c) {
               return c.file;

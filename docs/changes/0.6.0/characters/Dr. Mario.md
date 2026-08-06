@@ -1,5 +1,7 @@
 # Dr. Mario — 0.6.0
 
+*Dr. Mario joins the Combo Mode roster.*
+
 ## Changes
 
 ### Other

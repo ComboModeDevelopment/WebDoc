@@ -1,5 +1,7 @@
 # Wolf (Ultimate) — 1.0.0
 
+*Wolf (Ultimate) joins the Combo Mode roster.*
+
 ## Changes
 
 ### Aerial Attacks
