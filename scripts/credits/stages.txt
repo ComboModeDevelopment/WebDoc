@@ -235,10 +235,12 @@ Looping the rooms (Hyperpop Mix)
 Snowman's Land:
 Stage: Snowman's Land (YorchUZW, MetalLegacy, PMDT, P+DT, WTails358) https://gamebanana.com/mods/405934
 Tracklist: DJ PVSTV
-Cool Cool Mountain
-Hazy Maze Cave
-Main Theme (Super Mario 64)
+Cool, Cool Mountain (Mario Kart World)
 Alternate Route - Paragonx9
+Peach's Castle (Mario Kart World)
+Main Theme, Big Band (Super Mario 64) (Mario Kart World)
+Main Theme, Lating Guitar Ver. (Super Mario 64) (Mario Kart World)
+Bowser's Road (Mario Kart World)
 
 Snowman's Land (L):
 Display: Mushroomy Kingdom 64
@@ -260,10 +262,12 @@ Snowman's Land (Z):
 Display: Peach's Castle 64
 Stage: Peach's Castle (Super Mario 64) (Mewtwo2000) https://brawlm.art/mod/21685/_zH_xq33NUgoxmfI
 Tracklist: DJ PVSTV
-Cool Cool Mountain
-Hazy Maze Cave
-Main Theme (Super Mario 64)
+Cool, Cool Mountain (Mario Kart World)
 Alternate Route - Paragonx9
+Peach's Castle (Mario Kart World)
+Main Theme, Big Band (Super Mario 64) (Mario Kart World)
+Main Theme, Lating Guitar Ver. (Super Mario 64) (Mario Kart World)
+Bowser's Road (Mario Kart World)
 
 Wario Land:
 Stage: Wario Land (PM: Red Ver.) (MaybeGreg) https://gamebanana.com/mods/149091
@@ -829,6 +833,7 @@ Sonic Heroes
 Right There, Ride On
 HIS WORLD (Instrumental)
 Seven Rings In Hand
+Cyber Space 3-2: Go Slap (Sonic Frontiers)
 
 Green Hill Zone P+ (R):
 Display: Pumpkin Hill
