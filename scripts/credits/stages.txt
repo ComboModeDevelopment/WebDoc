@@ -792,21 +792,29 @@ For Those Who Squat
 
 Frigate Husk:
 Stage: Frigate Husk (Project+ Art Tem, Yorch, GRAND AZEL, SJ, mawwwk, Motobug) P+
-Tracklist: OST
+Tracklist: Compiled by DJ PVSTV
 Vs. Ridley
+Meta Ridley - SeZon
 Vs. Parasite Queen
+Parasite Queen - SeZon
 Opening/Menu (Metroid Prime)
-Sector 1
 Vs. Meta Ridley
 Multiplayer (Metroid Prime 2)
+Vs Sylux (Metroid Prime 4) - Seragauss
+Metroid 2077 - Pete Frogs
+Dark Samus Battle (Metroid Prime 3) - GaMetal
+Keratos (Metroid Prime 4)
 
 Frigate Husk (L):
 Display: Phendrana Drifts
 Stage: Phendrana Husk (metanite64, Nezha, DukeItOut, Layell, Kirbeast, BustedSoda/Coolbuy) https://gamebanana.com/mods/468045
 Tracklist: Compiled by DJ PVSTV
 Phendrana Drifts Depths
+Phendrana Drifts - GaMetal
+Phendrana Drifts - SeZon
 Vs. Serris
 Vs. Parasite Queen
+Parasize Queen - SeZon
 Hunters
 Data Selection Screen
 Skytown
@@ -814,24 +822,34 @@ Skytown
 Frigate Husk (R):
 Display: Drowned Frigate
 Stage: Drowned Frigate (Yorch, Project+ Art Team, Motobug) P+
-Tracklist: OST
+Tracklist: Compiled by DJ PVSTV
 Vs. Ridley
+Meta Ridley - SeZon
 Vs. Parasite Queen
+Parasite Queen - SeZon
 Opening/Menu (Metroid Prime)
-Sector 1
 Vs. Meta Ridley
 Multiplayer (Metroid Prime 2)
+Vs Sylux (Metroid Prime 4) - Seragauss
+Metroid 2077 - Pete Frogs
+Dark Samus Battle (Metroid Prime 3) - GaMetal
+Keratos (Metroid Prime 4)
 
 Frigate Husk (Z):
 Display: Pyrosphere
 Stage: Pyrosphere Husk (metanite64, DSX8) https://gamebanana.com/mods/480051
-Tracklist: OST
+Tracklist: Compiled by DJ PVSTV
 Vs. Ridley
+Meta Ridley - SeZon
 Vs. Parasite Queen
+Parasite Queen - SeZon
 Opening/Menu (Metroid Prime)
-Sector 1
 Vs. Meta Ridley
 Multiplayer (Metroid Prime 2)
+Vs Sylux (Metroid Prime 4) - Seragauss
+Metroid 2077 - Pete Frogs
+Dark Samus Battle (Metroid Prime 3) - GaMetal
+Keratos (Metroid Prime 4)
 
 Green Hill Zone P+:
 Stage: Green Hill Zone (The Project+ Art team, nnebf, Kirbeast, GRAND AZEL, mawwwk, tyleto, PMDT)
