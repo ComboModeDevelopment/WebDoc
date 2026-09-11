@@ -855,24 +855,21 @@ Green Hill Zone P+:
 Stage: Green Hill Zone (The Project+ Art team, nnebf, Kirbeast, GRAND AZEL, mawwwk, tyleto, PMDT)
 Tracklist: Compiled by Maye
 Green Hill Zone
-Angel Island Zone
-Scrap Brain Zone
 Emerald Hill Zone
-Sonic Boom
 Super Sonic Racing
-Open Your Heart
-Live & Learn
-Sonic Heroes
-Right There, Ride On
-HIS WORLD (Instrumental)
-Seven Rings In Hand
+Sonic Heroes (Sonic Heroes)
+High and Broken (Sonic and the Secret Rings)
+Windmill Isle - Day (Sonic Unleashed)
+Jungle Joyride - Day (Sonic Unleashed)
+Aquarium Park Act 3 Remix (Sonic Colors)
 Cyber Space 3-2: Go Slap (Sonic Frontiers)
 
 Green Hill Zone P+ (R):
 Display: Pumpkin Hill
 Stage: Pumpkin Hill Zone (Prim8, DukeItOut, ᆘ유 | 유유, PMDT, Layell) P+
-Tracklist: Compiled by DJ PVSTV
+Tracklist: Compiled by DJ PVSTV, Maye
 A Ghost's Pumpkin Soup
+Pumpkin Mansion (Sonic Racing CrossWorlds)
 
 Green Hill Zone P+ (L):
 Display: Sky Sanctuary Zone
@@ -891,17 +888,23 @@ Tabloid Jargon
 Marble Zone
 Vs. Knuckles (Sonic Advance 2)
 Game Over (Altered Beast)
+Cyber Space 3-2: Go Slap (Sonic Frontiers)
+Cyber Space 2-1: Slice & Sway (Sonic Frontiers)
+Cyber Space 4-H: Wishes in the Wind Remix (Sonic Frontiers)
+Cyber Space 4-B: Escape the Loop Remix (Sonic Frontiers)
+Cyber Space 4-D: Rumbe Rave Remix (Sonic Frontiers)
 
 Green Hill Zone P+ (Z):
 Display: Radical Highway
 Stage: Radical Highway (NNEBF, PMDT) https://gamebanana.com/mods/149166
 Tracklist: Compiled by DJ PVSTV
-Radical Highway
-Rail Canyon
-City Escape
-Open Your Heart
-Live and Learn
-His World
+Radical Highway (Sonic Adventure 2)
+Rail Canyon (Sonic Heroes)
+City Escape (Sonic Adventure 2)
+Open Your Heart (Sonic Adventure)
+Live and Learn (Sonic Adventure 2)
+His World (Sonic the Hedgehog 2006)
 Go Straight (Streets of Rage 2)
 Fly Like A Butterfly (Jet Set Radio)
-Metal Harbor
+Metal Harbor (Sonic Adventure 2)
+Find Your Flame (Sonic Frontiers)
