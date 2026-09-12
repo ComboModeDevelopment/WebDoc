@@ -287,22 +287,20 @@ Bowser's Road (Mario Kart World)
 Wario Land:
 Stage: Wario Land (PM: Red Ver.) (MaybeGreg) https://gamebanana.com/mods/149091
 Tracklist: Compiled by DJ PVSTV
-Tower of Revival / Main Theme
-Crescent Moon Village
-Pirate Level / Underwater (Wario Land)
-Greenhorn Ruins / Glittertown
-Greenhorn Ruins
+Tower of Revival / Main Theme (Wario Land 3)
 Wario's Castle
-Battle with Wario
-Terrormisu
-Body Rock
+Rice Beach (Wario Land) - Pipes 'N Shrooms
 Count Cannoli
+Battle with Wario
 Mount Wario
-Battle Canyon
-Waluigi's Island
-Toad's Factory
-Manzai Birds (Rhythm Heaven Fever)
-Wrestler's Words (Rhythm Heaven Fever)
+Menu (WarioWare Gold)
+Greenhorn Forest (Wario World)
+Greenhorn Ruins / Glittertown (Wario World)
+Greenhorn Forest (Wario World) - GaMetal Remix
+Clown-a-Round (Wario World)
+Red-Brief J's Showdown (Wario World)
+Pecan Sands (Wario World)
+Underground Sub-Level (Wario World)
 Wario Laugh (10 Hours)
 
 Wario Land (L):
@@ -750,6 +748,10 @@ X-Naut Fortress
 Crystal Caves (Yoshi's Island)
 Underground (Super Mario Bros.)
 Underground (Super Mario Land)
+Creepy Cavern (Mario Party 3)
+Deep Dark Galaxy (Mario Galaxy)
+Honeylune Ridge (Super Mario Odyssey)
+Underground BGM (Super Mario Bros.) - Pipes 'N Shrooms
 
 Metal Cavern (R):
 Display: Underground 1-2
@@ -863,6 +865,7 @@ Windmill Isle - Day (Sonic Unleashed)
 Jungle Joyride - Day (Sonic Unleashed)
 Aquarium Park Act 3 Remix (Sonic Colors)
 Cyber Space 3-2: Go Slap (Sonic Frontiers)
+Wonder Museum (Sonic CrossWorlds)
 
 Green Hill Zone P+ (R):
 Display: Pumpkin Hill
