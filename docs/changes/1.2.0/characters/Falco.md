@@ -1,4 +1,4 @@
-# Falco — 1.1.0
+# Falco — 1.2.0
 
 ## Changes
 

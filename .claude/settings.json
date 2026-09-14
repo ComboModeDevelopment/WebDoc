@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(diff --strip-trailing-cr \"version_diffs/1.1.0 Fighter/daisy/FitDaisySubaction.txt\" \"version_diffs/1.2.0 Fighter/daisy/FitDaisySubaction.txt\")",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(diff --strip-trailing-cr \"version_diffs/1.1.0 Fighter/donkey/FitDonkeySubaction.txt\" \"version_diffs/1.2.0 Fighter/donkey/FitDonkeySubaction.txt\" > /tmp/dk.diff; cat /tmp/dk.diff)"
+    ],
+    "additionalDirectories": [
+      "\\tmp"
     ]
   }
 }

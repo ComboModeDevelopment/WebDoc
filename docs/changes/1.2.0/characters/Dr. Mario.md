@@ -1,4 +1,4 @@
-# Dr. Mario — 1.1.0
+# Dr. Mario — 1.2.0
 
 ## Changes
 
@@ -19,12 +19,16 @@ can cancel jab2 into attacks
 angle: 70 → 76
 damage: 9 → 12
 reworked animation to give it more range
+added 1 new spike hitbox (damage 12, trajectory 270, bkb 70, size 5.5)
+hitbox id order reshuffled
 
 **Down Tilt**
 damage: 10 → 12
 range buffed
 adjusted animation for more range
 angle: 110 → 100
+added 2 new spike hitboxes (damage 12, trajectory 265, bkb 70)
+hitbox id order reshuffled
 
 ### Aerial Attacks
 
@@ -35,6 +39,7 @@ initial hit angle: 361 → 55
 early hit active frames: 2 → 3
 weak hit now trips and has set knockback
 angle: 55 → 0
+2 hitboxes hitlag multiplier: 1.4 → 2
 
 **Forward Air**
 removed slowdown
@@ -52,6 +57,8 @@ endlag sped up 1.3x
 faf: 4 → 3
 active frames:+3
 endlag sped up: 1.35 → 1.45
+added 2 new mid-hitboxes (damage 11, trajectory 25, kbg 50, bkb 25, sizes 4.5/5.5)
+timing restructured: old async 11 split into async 5 (before new hitboxes) + async 13 (after)
 
 **Down Air**
 startup sped up 0.9x → 1.2x
@@ -64,8 +71,22 @@ adjusted animation for more range
 **Forward Smash**
 improved hitbox sizes
 
+**Forward Smash Charge Start**
+removed 0.7x startup frame speed modifier
+
+**Forward Smash (up angle)**
+all 3 hitboxes kbg: 97 → 110
+all 3 hitboxes hitlag multiplier: 1 → 2
+
+**Forward Smash (down angle)**
+all 3 hitboxes kbg: 97 → 110
+all 3 hitboxes hitlag multiplier: 1 → 2
+
 **Up Smash**
 improved hitbox coverage
+
+**Down Smash Charge Start**
+added 0.5x startup frame speed modifier
 
 ### Special Moves
 
@@ -81,12 +102,15 @@ now spikes vs grounded opponents for combos
 
 **Side B**
 can cancel into attacks
+all 6 multi-hit hitboxes damage: 8/8/7 → 11 (uniform)
 
 **Down B**
 gives better lift in air
 endlag sped up 1.5x → 1.2x
 kbg: 125 → 100
 slowed endlag
+added 2.5x endlag frame speed modifier (faster endlag)
+added 2 lingering windbox-style hitboxes (damage 2, trajectory 80, size 5) during endlag
 
 ### Other
 
@@ -102,6 +126,7 @@ sweetspot damage: 11 → 13
 sourspot bkb: 45 → 65
 sourspot damage: 9 → 10
 sped up after 1st hit 1.3x
+added 2 new first-hit hitboxes: damage 13, trajectory 270 (spike), bkb 130
 
 **Up Throw**
 given ult animations

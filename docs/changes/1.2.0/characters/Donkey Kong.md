@@ -1,4 +1,4 @@
-# Donkey Kong — 1.1.0
+# Donkey Kong — 1.2.0
 
 ## Changes
 
@@ -9,6 +9,8 @@ iasa: 39 → 31
 sped up endlag 1.2x
 bkb: 40 → 55
 kbg: 105 → 75
+added 0.76x startup frame speed modifier (slower startup)
+endlag frame speed modifier: 1.2x → 1.1x (less endlag speedup)
 
 **Down Tilt**
 trip rate: 0.4 → 1
@@ -63,6 +65,8 @@ no longer puts DK into free fall
 now charges faster
 punch comes out faster
 can now cancel charge with jump
+grounded mid-power hitbox hitlag multiplier: 1.5 → 2
+aerial full-power hitboxes hitlag multiplier: 1 → 2 (all 7 hitboxes)
 
 **Side B**
 hitbox id 2 now matches 1&0
@@ -89,6 +93,9 @@ now has P+ aerial version
 now uses P+ rolling dash attack
 no armor properties and cannot roll offstage
 sped up 1.2x
+added forward momentum ramp: 1.1x → 2x → 4x → 3x → 2x → 1.1x (at frames 0 / 4 / 8 / 14 / 19 / 28)
+
+can now dash attack off ledges and platforms (aerial dash attack keeps the grounded hitboxes with forward momentum 3.75x on frame 4)
 
 **Cargo Up Throw**
 kbg: 30 → 100 → 50
