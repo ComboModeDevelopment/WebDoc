@@ -201,6 +201,9 @@ KK Metal (Cover)
 KK Cruisin (Metal cover)
 Camel by Camel - Deadmac
 Looping the rooms (Hyperpop Mix)
+The 7th Element - K.K. Slider - Vitas
+Say So - K.K. Slider - Doja Cat
+Everybody Wants To Rule The World - K.K. Slider - Tears For Fears
 
 Smashville (L):
 Display: Ruins
@@ -489,6 +492,13 @@ Yoshi's Island
 Flower Field
 Wildlands
 Yoshi Series Medley
+Athletic BGM (Yoshi's Island: Mario Kart World)
+Flower Fields BGM - Jazz (Yoshi's Island: Mario Kart World)
+Flower Fields BGM - Ska (Yoshi's Island: Mario Kart World)
+Stage Boss - Jazz (Yoshi's Island: Mario Kart World)
+Stage Boss - Rock 'n' Roll (Yoshi's Island: Mario Kart World)
+Special Course (Yoshi's Wooly World)
+Yarn Yoshi Takes Shape! (Yoshi's Wolly World)
 
 Yoshi's Island (L):
 Display: Yoshi's Story (Melee)
@@ -496,6 +506,11 @@ Stage: Yoshi's Story (P+DT) P+
 Tracklist: Compiled by DJ PVSTV
 Yoshi's Island (Melee)
 Super Mario Bros. 3 (Melee)
+Love is in the Air (Yoshi's Story)
+Yo-Yo-Yoshi! (Yoshi's Story)
+Yoshi's Song - Bossa Nova (Yoshi's Story: Mario Kart World)
+Yoshi's Song - Latin (Yoshi's Story: Mario Kart World)
+Yoshi's Tale (Yoshi's Story: Mario Kart World)
 Crash Out - HBox
 
 Yoshi's Island (R):
@@ -508,6 +523,13 @@ Yoshi's Island
 Flower Field
 Wildlands
 Yoshi Series Medley
+Athletic BGM (Yoshi's Island: Mario Kart World)
+Flower Fields BGM - Jazz (Yoshi's Island: Mario Kart World)
+Flower Fields BGM - Ska (Yoshi's Island: Mario Kart World)
+Stage Boss - Jazz (Yoshi's Island: Mario Kart World)
+Stage Boss - Rock 'n' Roll (Yoshi's Island: Mario Kart World)
+Special Course (Yoshi's Wooly World)
+Yarn Yoshi Takes Shape! (Yoshi's Wolly World)
 
 Yoshi's Island (Z):
 Display: Yoshi Cookie
