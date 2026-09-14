@@ -15,7 +15,8 @@
       "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/kuma.diff)",
       "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/mac.diff)",
       "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/luc.diff)",
-      "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/lucb.diff)"
+      "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/lucb.diff)",
+      "Bash(grep -rlE \"^new to|^added to|^added$|joins|debuts\" \"docs/changes/1.1.0/deltas/\")"
     ],
     "additionalDirectories": [
       "\\tmp"
