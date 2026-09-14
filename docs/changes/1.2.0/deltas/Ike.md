@@ -19,7 +19,7 @@ adjusted animatino for more range
 added 1.6x mid speedup
 
 **Forward Air**
-sync timer: 6 → 7 frames
+pauses 6 → 7 frames after hitboxes
 endlag speedup: 1.3x → 1.6x
 
 **Back Air**

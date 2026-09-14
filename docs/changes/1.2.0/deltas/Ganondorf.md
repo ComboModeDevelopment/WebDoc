@@ -29,8 +29,8 @@ iasa: 36 → 29
 2 hitboxes damage: 16 → 18
 2 hitboxes bkb: 10 → 28
 2 hitboxes hitlag multiplier: 1 → 2
-sync timer: 3 → 5 frames
-async endlag timer: 35 → 28
+pauses 3 → 5 frames between hits
+delays interrupt by 35 → 28 frames
 
 **Up Air**
 consolidated sweetspot damage
@@ -60,7 +60,7 @@ multi-hit trajectories: 170/170/170 → 150/160/150
 first hitbox size: 5.5 → 4
 second hitbox bkb: 50 → 65
 mid speedup: 2x → 3x
-mid async timer: 30 → 28 frames
+delays late hits by 30 → 28 frames
 
 ### Special Moves
 
@@ -103,4 +103,4 @@ Buffed
 more range
 added forward momentum kick at start (+0.5 horizontal velocity)
 late hitbox size: 4 → 6
-sync timer between hits: 7 → 11
+pauses 7 → 11 frames between hits

@@ -1,4 +1,4 @@
-# Little Mac — 1.1.0
+# Little Mac — 1.2.0
 
 ## Changes
 
@@ -27,11 +27,14 @@ can now only cancel into specials if hit connects
 **Up Tilt**
 first active frame: 7 → 4
 damage: 9 → 8
+delays hitbox by 12 → 13 frames
 
 **Down Tilt**
 angle: 65 → 75
 damage: 11 → 9
 kbg: 25 → 35
+touched up animation
+removed 0.9x slowdown (now plays at normal speed)
 
 ### Aerial Attacks
 
@@ -56,6 +59,11 @@ startup slowed .8x
 down angle damage: 26 → 22
 down angle removed .8 slowdown
 reworked hitboxes to always send the correct direction
+redid animation so it's not as awkward to hit opponents close to mac
+removed 0.8x startup slowdown
+removed 0.25x mid slowdown
+removed 1x reset
+pauses 1 → 3 frames after hitboxes
 
 **Up Smash**
 new changes removes his massive slide when up smashing out of run

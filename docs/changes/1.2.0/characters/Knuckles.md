@@ -1,4 +1,4 @@
-# Knuckles — 1.1.0
+# Knuckles — 1.2.0
 
 ## Changes
 

@@ -1,4 +1,4 @@
-# Kirby — 1.1.0
+# Kirby — 1.2.0
 
 ## Changes
 

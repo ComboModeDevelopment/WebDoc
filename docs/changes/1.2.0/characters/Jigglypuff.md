@@ -1,4 +1,4 @@
-# Jigglypuff — 1.1.0
+# Jigglypuff — 1.2.0
 
 ## Changes
 

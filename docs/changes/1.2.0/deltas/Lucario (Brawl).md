@@ -1,6 +1,6 @@
 # Lucario (Brawl) — 1.2.0
 
-## Changes
+## Changes since 1.1.0
 
 ### Aerial Attacks
 
@@ -21,3 +21,6 @@ added 0.5x startup slowdown
 
 **Appeal (Heal)**
 new self-heal added: recovers 15% damage after a 20-frame delay in taunt subactions
+
+**Some Main Action**
+added 1.2x speedup mid; delays interrupt by 27 → 22 frames

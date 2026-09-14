@@ -1,4 +1,4 @@
-# Link — 1.1.0
+# Link — 1.2.0
 
 ## Changes
 
@@ -145,6 +145,7 @@ kbg: 230 → 150
 angle: 110 → 90
 kbg: 90 → 60
 iasa: 50 → 43
+throw hit kbg: 60 → 100
 
 given P+ run animation
 jump height buffed

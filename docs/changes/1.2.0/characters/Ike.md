@@ -43,7 +43,7 @@ sped up 1.15x → 1.25x
 first active frame: 18 → 17
 added iasa: 51
 endlag sped up: 1.3x → 1.6x
-sync timer: 6 → 7 frames
+pauses 6 → 7 frames after hitboxes
 
 **Back Air**
 added iasa: 42

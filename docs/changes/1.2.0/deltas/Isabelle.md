@@ -17,7 +17,7 @@ removed 1.2x endlag speedup
 
 **Forward Air**
 added 0.8x mid slowdown
-endlag async: 25 → 30 frames (longer endlag)
+delays interrupt by 25 → 30 frames (longer endlag)
 
 **Back Air**
 removed 1.3x startup speedup

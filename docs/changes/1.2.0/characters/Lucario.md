@@ -1,4 +1,4 @@
-# Lucario — 1.1.0
+# Lucario — 1.2.0
 
 ## Changes
 
@@ -25,6 +25,10 @@ rest sped up 1.2x
 can cancel first hit into specials if it connects
 first hit angle: 80 → 85
 first hit hitlag modifier: 1 → 2.2
+4 early hitboxes damage: 5 → 2
+4 early hitboxes trajectory: 55 → 0
+4 late hitboxes wkb: 0 → 10
+4 late hitboxes bkb: 50 → 65
 sdi multiplier: 1 → .4
 startup sped up 1.6x
 2nd hit angle: 361 → 55
@@ -88,6 +92,14 @@ sweetspot damage: 11 → 13
 kbg: 100 → 105
 sweetspot active frames: 2 → 4
 iasa: 68 → 49
+completely reworked into a new multi-hit pattern
+startup speed: 0.75x → 1.3x (much faster)
+old early hits: 4 hitboxes damage 10, trajectory 55
+new early hits: 5 hitboxes damage 5, mixed trajectories (80 / 365)
+old late hits: 4 hitboxes damage 7, trajectory 55
+new late hits: 3 hitboxes damage 6, trajectory 55
+delays late hits by 24 → 13 frames
+added 2x mid speedup and 1.3x follow-up
 
 ### Smash Attacks
 
@@ -130,6 +142,7 @@ can now grab aerial opponents with the move, using it in the air will make the a
 grounded side b damage reduced
 grounded side b now has a low knockback hitbox that appears right before the grab, making it possible to grab people off the ground from a missed tech
 removed hitbox vs grounded opponents
+aerial throw: removed bit-flag conditional throw mechanic — now uniform throw damage 10, trajectory 270 (spike), kbg 70, bkb 30, hitlag 2
 damage vs grounded opponents: 6 → 8
 angle vs grounded opponents: 70 → 55
 bkb vs grounded opponents: 40 → 70
@@ -148,6 +161,9 @@ now has a hitbox
 reworked, now a dash
 
 ### Other
+
+**Grab Attack**
+added 0.5x startup slowdown
 
 **Dash Attack**
 Lucario now has ultimate lucario dash attack animation, giving it more range.
