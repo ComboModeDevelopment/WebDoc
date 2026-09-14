@@ -410,10 +410,19 @@
       img.className = "icon-img";
       img.alt = "";
       img.loading = "lazy";
+      var iconSlug = encodeURIComponent(entry.icon || slugify(entry.name));
+      var triedSvg = false;
       // Show the icon if it exists; otherwise keep the text-only tile.
       img.addEventListener("load", function () { tile.classList.remove("no-icon"); });
-      img.addEventListener("error", function () { img.remove(); });
-      img.src = base + "/" + encodeURIComponent(entry.icon || slugify(entry.name)) + ".png";
+      img.addEventListener("error", function () {
+        if (!triedSvg) {
+          triedSvg = true;
+          img.src = base + "/" + iconSlug + ".svg";
+        } else {
+          img.remove();
+        }
+      });
+      img.src = base + "/" + iconSlug + ".png";
 
       if (altBase) {
         var wrap = document.createElement("div");

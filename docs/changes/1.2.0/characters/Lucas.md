@@ -1,4 +1,4 @@
-# Lucas — 1.1.0
+# Lucas — 1.2.0
 
 ## Changes
 

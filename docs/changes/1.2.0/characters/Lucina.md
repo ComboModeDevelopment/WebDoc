@@ -1,4 +1,4 @@
-# Lucina — 1.1.0
+# Lucina — 1.2.0
 
 ## Changes
 

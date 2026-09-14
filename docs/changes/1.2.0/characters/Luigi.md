@@ -1,4 +1,4 @@
-# Luigi — 1.1.0
+# Luigi — 1.2.0
 
 ## Changes
 
@@ -34,6 +34,7 @@ endlag sped up 1.4x
 **Neutral Air**
 sped up after initial hit 1.6x
 iasa: 46 → 39
+initial hit damage: 14 → 12
 
 **Forward Air**
 damage: 10 → 12 → 15 → 16
@@ -54,12 +55,15 @@ endlag sped up 1.3x
 iasa: 30 → 25
 kbg: 100 → 60
 bkb: 0 → 20
+initial hit damage: 13 → 10
 
 **Down Air**
 hitbox id 0 angle: 361 → 270
 now a multihit
 reworked multihit and now has final hit
 damage on multihit: 3 → 2
+multihits: 5 → 4
+2 frames between multihits (was 1)
 
 ### Smash Attacks
 
@@ -75,7 +79,7 @@ can now slide during up smash
 **Down Smash**
 front hit angle: 120 → 52
 back hit angle: 70 → 120
-endlag sped up 1.3x
+endlag sped up 1.3x → slowed to 0.9x
 iasa: 35 → 30
 no longer makes Luigi slide
 all angles made 361

@@ -1,4 +1,4 @@
-# Ness — 1.1.0
+# Ness — 1.2.0
 
 ## Changes
 

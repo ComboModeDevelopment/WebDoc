@@ -87,6 +87,11 @@
           "file": "Greninja.md"
         },
         {
+          "name": "Ice Climbers",
+          "file": "Ice Climbers.md",
+          "delta": "Ice Climbers.md"
+        },
+        {
           "name": "Ike",
           "file": "Ike.md",
           "delta": "Ike.md"
@@ -111,7 +116,8 @@
         },
         {
           "name": "King Dedede (Ultimate)",
-          "file": "King Dedede (Ultimate).md"
+          "file": "King Dedede (Ultimate).md",
+          "delta": "King Dedede (Ultimate).md"
         },
         {
           "name": "King Dedede",
@@ -119,7 +125,8 @@
         },
         {
           "name": "King K. Rool",
-          "file": "King K. Rool.md"
+          "file": "King K. Rool.md",
+          "delta": "King K. Rool.md"
         },
         {
           "name": "Kirby",
@@ -131,23 +138,33 @@
         },
         {
           "name": "Kumatora",
-          "file": "Kumatora.md"
+          "file": "Kumatora.md",
+          "delta": "Kumatora.md"
         },
         {
           "name": "Link",
-          "file": "Link.md"
+          "file": "Link.md",
+          "delta": "Link.md"
         },
         {
           "name": "Little Mac",
-          "file": "Little Mac.md"
+          "file": "Little Mac.md",
+          "delta": "Little Mac.md"
         },
         {
           "name": "Lucario (Brawl)",
-          "file": "Lucario (Brawl).md"
+          "file": "Lucario (Brawl).md",
+          "delta": "Lucario (Brawl).md"
+        },
+        {
+          "name": "Lucario (P+)",
+          "file": "Lucario (P+).md",
+          "delta": "Lucario (P+).md"
         },
         {
           "name": "Lucario",
-          "file": "Lucario.md"
+          "file": "Lucario.md",
+          "delta": "Lucario.md"
         },
         {
           "name": "Lucas",
@@ -159,7 +176,8 @@
         },
         {
           "name": "Luigi",
-          "file": "Luigi.md"
+          "file": "Luigi.md",
+          "delta": "Luigi.md"
         },
         {
           "name": "Mage Ganondorf",
@@ -167,7 +185,8 @@
         },
         {
           "name": "Mario",
-          "file": "Mario.md"
+          "file": "Mario.md",
+          "delta": "Mario.md"
         },
         {
           "name": "Marth",
@@ -175,7 +194,8 @@
         },
         {
           "name": "Meta Knight",
-          "file": "Meta Knight.md"
+          "file": "Meta Knight.md",
+          "delta": "Meta Knight.md"
         },
         {
           "name": "Mewtwo",
@@ -286,7 +306,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
-      "unchanged": 9,
+      "unchanged": 18,
       "previous": "1.1.0"
     },
     {
@@ -374,6 +394,11 @@
         {
           "name": "Greninja",
           "file": "Greninja.md"
+        },
+        {
+          "name": "Ice Climbers",
+          "file": "Ice Climbers.md",
+          "delta": "Ice Climbers.md"
         },
         {
           "name": "Ike",

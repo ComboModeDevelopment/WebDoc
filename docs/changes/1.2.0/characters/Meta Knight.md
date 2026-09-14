@@ -1,4 +1,4 @@
-# Meta Knight — 1.1.0
+# Meta Knight — 1.2.0
 
 ## Changes
 
@@ -54,21 +54,24 @@ kbg: 175 → 180
 redid hitboxes on this move to make it link better
 final hit damage: 4 → 10
 hitlag: 1 → 2
-final hit kbg: 175 → 155
+final hit kbg: 175 → 155 → 135
+initial multihit hitbox id 1 bkb: 45 → 20
 
 **Up Air**
 iasa: 14 → 25 → 16
 damage: 6 → 8
 kbg: 125 → 100 → 70
-angle: 78/60 → 85
+angle: 78/60 → 85 → 60
 hitboxes buffed on sides
 active frames: 2 → 4
+bkb: 40 → 20
 
 **Down Air**
-kbg: 105 → 60 → 40
+kbg: 105 → 60 → 40 → 110
 active frames: 2 → 4
 damage all made 7%
 endlag sped up 1.25x
+bkb: 30/15 → 0
 
 **Forward Air**
 increased hitbox active frames + sped up 1.2x

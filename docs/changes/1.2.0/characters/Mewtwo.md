@@ -1,4 +1,4 @@
-# Mewtwo — 1.1.0
+# Mewtwo — 1.2.0
 
 ## Changes
 

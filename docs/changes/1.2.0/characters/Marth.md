@@ -1,4 +1,4 @@
-# Marth — 1.1.0
+# Marth — 1.2.0
 
 ## Changes
 

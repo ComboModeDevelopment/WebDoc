@@ -1,4 +1,4 @@
-# Mario — 1.1.0
+# Mario — 1.2.0
 
 ## Changes
 
@@ -17,6 +17,7 @@ bkb: 20 → 35
 **Jab**
 jab 1+2 angles: 361 → 365
 can cancel jab 2 into attacks
+jab 2 endlag slowed to 0.7x (cancel window pushed 18 → 23 frames)
 
 ### Aerial Attacks
 
@@ -33,6 +34,9 @@ initial hit bkb: 30 → 38
 initial hit kbg: 100 → 105
 initial hit damage: 15 → 16
 startup sped up 1.4x
+removed weak late hit (damage 13)
+hitlag: 1.5 → 2
+active window on second hit: 3 → 6 frames
 
 **Neutral Air**
 initial hit damage: 10 → 12 → 14 → 12 → 13
@@ -60,6 +64,7 @@ angle vs aerial opponents: 80
 final hit angle: 80
 fixed a bug where the final hit lingered the entire duration of the endlag
 removed slow down on startup, only on endlag
+multihit damage: 3 → 2
 
 ### Smash Attacks
 
@@ -104,6 +109,7 @@ reworked so now holding b during grounded up b makes the move cancel into his he
 charges much faster and pushed Mario much further
 added iasa in the air: 21
 can now use this move to recover
+water pushes opponents further away
 
 **Neutral B**
 sped up 1.2x
@@ -123,7 +129,11 @@ new dash attack, up air, fair, d smash animations
 
 ### Character Parameters
 
+**Air Mobility**
+buffed
+
 | Parameter | Change |
 |-----------|--------|
 | Dash Speed | 1.5 → 1.6 |
-| Run Speed | 1.6 → 1.73 |
+| Run Speed | 1.6 → 1.73 → 1.83 |
+
