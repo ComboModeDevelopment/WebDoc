@@ -27,7 +27,7 @@ PSA: OurBoyFoxy
 
 Pit:
 Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
-PSA: OurBoyFoxy
+PSA: OurBoyFoxy, Maye
 
 Ike:
 Animations: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
@@ -250,7 +250,7 @@ Model Optimizations: Layell
 Cosmetics: Pose done by Mach 7, based on the pose made by the PMDT
 
 King K Rool:
-PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy
+PSA: PMEX Dev Team (NihilHazard, Trevor, TroyAnthony, MoeIzDerrty, CL0wNy69, King Bob Videos/Ryan Flake, RedipsTheCooler, caliburTek, Edisonic, SirGimmick, NickirixXT, Joker, Ely, Afshin, SpiritNeox, Atma, Rocky38, Ubergruvin, SuNk1e2001, MetaNite64, Hyo, I am Frog, iPat, Walk, Kazan, Metal_Shade, Xenthos, BlazingFireOmega, Catscatscats, Sejkt, MonteRicard, El Guapo, Hecko, Riccoe), OurBoyFoxy, Maye
 Cosmetics: SoN1c2001, MonteRicard, Rocky38, StefBoyardee (https://brawlm.art/mod/221499/oyqwEjJYbiNOdR98)
 
 Kumatora:
@@ -316,7 +316,7 @@ Cosmetics: SoN1c2001 (https://gamebanana.com/mods/522945)
 Snake (P+):
 Model: PM Development Team
 Tuxedo Model: Jaystring
-PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy, Maye
 Cosmetics: VirtualBeef, the CSProject Backroom,  (https://brawlm.art/mod/220499/i8u4Vvfs4lD_IPOs)
 
 Sub Zero:
@@ -334,4 +334,9 @@ Wolf (Ultimate):
 Model: Enderseep12345 (https://brawlm.art/mod/218293/Kgx7TQlsTwLv-krB)
 Potential Other Work Effort: REX Development Team
 PSA: ????, and OurBoyFoxy
+Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV
+
+Lucario (P+):
+Model: P+ Dev Team
+PSA: P+ Dev Team (Beeeswith3Es, Bird, DukeItOut, fudgepop01, Fracture, Function, KingJigglyPuff, Layell, Motobug, Ripple, SOJ), OurBoyFoxy, Maye
 Cosmetics: Pose by DJPVSTV, Renders by DJPVSTV

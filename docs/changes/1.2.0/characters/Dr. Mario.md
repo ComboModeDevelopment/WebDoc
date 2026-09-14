@@ -19,7 +19,7 @@ can cancel jab2 into attacks
 angle: 70 → 76
 damage: 9 → 12
 reworked animation to give it more range
-added 1 new spike hitbox (damage 12, trajectory 270, bkb 70, size 5.5)
+added 1 new spike hitbox for grounded opponents (damage 12, trajectory 270, bkb 70, size 5.5)
 hitbox id order reshuffled
 
 **Down Tilt**
@@ -27,7 +27,7 @@ damage: 10 → 12
 range buffed
 adjusted animation for more range
 angle: 110 → 100
-added 2 new spike hitboxes (damage 12, trajectory 265, bkb 70)
+added 2 new spike hitboxes for grounded opponents (damage 12, trajectory 265, bkb 70)
 hitbox id order reshuffled
 
 ### Aerial Attacks
@@ -126,7 +126,7 @@ sweetspot damage: 11 → 13
 sourspot bkb: 45 → 65
 sourspot damage: 9 → 10
 sped up after 1st hit 1.3x
-added 2 new first-hit hitboxes: damage 13, trajectory 270 (spike), bkb 130
+added 2 new first-hit hitboxes for grounded opponents : damage 13, trajectory 270 (spike), bkb 130
 
 **Up Throw**
 given ult animations
@@ -142,6 +142,6 @@ damage: 15 → 17
 | Run Speed | 1.45 → 1.59 → 1.55 → 1.65 |
 | Initial Dash Speed | 1.5 → 1.7 |
 | Traction | 0.06 → 0.07 |
-| Air Mobility | buffed |
+| Air Mobility | buffed → improved |
 | Dash Speed | 1.7 → 1.4 → 1.6 |
 | Weight | 102 → 98 |

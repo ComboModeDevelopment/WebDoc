@@ -26,3 +26,4 @@ trajectory: 0 → 20
 hitbox 0 kbg: 30 → 110
 hitbox 1 wkb: 0 → 35 (set knockback re-added)
 DI multiplier: 0.6 → 1.2 (hitbox 0), 0.6 → 1 (hitbox 1)
+No set knockback and will now eventually knock down

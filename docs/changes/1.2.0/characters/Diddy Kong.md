@@ -100,6 +100,7 @@ startup sped up 1.3x
 can now double jump out of the move
 knockback from grabs totally reworked so diddy can combo off them
 monkey flip 2nd kick post-attack vertical velocity: 1 → 1.7
+Release prevents infinites
 
 ### Other
 

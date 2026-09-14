@@ -5,11 +5,11 @@
 ### Jab / Tilts
 
 **Up Tilt**
-added 1 new spike hitbox (damage 12, trajectory 270, bkb 70, size 5.5)
+added 1 new spike hitbox for grounded opponents (damage 12, trajectory 270, bkb 70, size 5.5)
 hitbox id order reshuffled
 
 **Down Tilt**
-added 2 new spike hitboxes (damage 12, trajectory 265, bkb 70)
+added 2 new spike hitboxes for grounded opponents (damage 12, trajectory 265, bkb 70)
 hitbox id order reshuffled
 
 ### Aerial Attacks
@@ -49,4 +49,7 @@ added 2 lingering windbox-style hitboxes (damage 2, trajectory 80, size 5) durin
 ### Other
 
 **Dash Attack**
-added 2 new first-hit hitboxes: damage 13, trajectory 270 (spike), bkb 130
+added 2 new first-hit hitboxes for grounded opponents : damage 13, trajectory 270 (spike), bkb 130
+
+**Air Mobility**
+Improved

@@ -20,10 +20,9 @@ iasa: 42 → 37
 can cancel multihit into specials
 5 multi-hit hitboxes trajectory: 361 (Sakurai) → 80 (upward)
 5 multi-hit hitboxes wkb added: 0 → 10
-added conditional follow-up: on hit-connect, transitions into new AttackS3S2 subaction
+added conditional follow-up: on hit-connect, transitions into second hit
 
 **Forward Tilt Follow-up (NEW)**
-new subaction added
 2 hitboxes (damage 6, trajectory 70, kbg 40, bkb 100)
 plays over ~24 frames total with a 3-frame gap between hits
 
@@ -37,6 +36,7 @@ first hit damage: 2 → 4
 active frames on both hits: 2 → 3
 endlag sped up 1.4x
 buffed hitboxes to connect better
+Adjusted animatino for more range
 first wave (4 hitboxes) damage: 4 → 6
 first wave hitbox sizes: 4 → 5.5
 first wave DI multiplier: 1 → 0 (much harder to DI)
@@ -76,7 +76,7 @@ angles all made 75
 startup sped up 1.2x
 segment during hitboxes slowed .6x, improves hitbox coverage+duration
 hitbox id3 size: 2.5 → 3.6
-sync timer: 6 → 7 frames
+Adjusted animatino for more range
 
 **Up Air**
 damage: 16 → 13
@@ -136,8 +136,8 @@ hits more frequently
 **Dash Attack**
 iasa: 44 → 40
 endlag sped up 1.3x
-added forward momentum kick at start (+0.6 horizontal velocity)
-mid async timer: 19 → 24 frames (more delay between hits)
+added forward momentum kick at start (+0.6 horizontal velocity) more range
+active frames: 8 → 13 frames
 
 **Grab**
 active frames: 13-14 → 9-12

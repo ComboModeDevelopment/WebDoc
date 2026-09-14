@@ -18,12 +18,14 @@ follow-up slowed to 0.75x speed
 mid speedup: 1.4x → 1.5x
 
 **Forward Air**
+removed sourspot
 hitboxes 0x360001 / 0x370000 unified damage: 15/18 → 19/19
 kbg unified: 80/83 → 91/91
 bkb unified: 30/48 → 48/48
 hitlag multiplier: 1/2 → 2/2
 
 **Back Air**
+iasa: 36 → 29
 2 hitboxes damage: 16 → 18
 2 hitboxes bkb: 10 → 28
 2 hitboxes hitlag multiplier: 1 → 2
@@ -31,6 +33,7 @@ sync timer: 3 → 5 frames
 async endlag timer: 35 → 28
 
 **Up Air**
+consolidated sweetspot damage
 hitbox 0x80000 damage: 13 → 15
 hitbox 0x80000 bkb: 35 → 45
 hitbox 0x90001 damage: 12 → 15
@@ -73,16 +76,31 @@ added ledge-grab disable
 startup sped up 1.5x
 existing speedup: 1.2x → 1.35x
 
-**Up B (Catch)**
-loop hitbox damage: 1 → 2
+**Down B**
+No longer slows momentum after hitting opponent
+Endlag sped up
 
-**Up B (Throw)**
+**Up B (Final Hit)**
+loop hitbox damage: 1 → 2
 throw damage: 10 → 13
 throw kbg: 80 → 110
 
 ### Other
 
+**Air Mobility**
+Buffed
+
+**Ground to Air Mobility**
+Buffed
+
+**Run Speed**
+1.5 → 1.63
+
+**Dash Speed**
+1.5 → 1.6
+
 **Dash Attack**
+more range
 added forward momentum kick at start (+0.5 horizontal velocity)
 late hitbox size: 4 → 6
 sync timer between hits: 7 → 11

@@ -60,6 +60,7 @@ sweetspot damage: 18 → 19
 endlag sped up 1.4x
 sweetspot hitlag increased to indicate landing it better
 swapped hitbox priority, sweetspot easier to land
+removed sourspot
 hitboxes 0x360001 / 0x370000 unified damage: 15/18 → 19/19
 kbg unified: 80/83 → 91/91
 bkb unified: 30/48 → 48/48
@@ -69,6 +70,7 @@ hitlag multiplier: 1/2 → 2/2
 sweetspot damage: 16 → 17
 kbg: 85 → 95
 sweetspot hitlag increased to indicate landing it better
+iasa: 36 → 29
 2 hitboxes damage: 16 → 18
 2 hitboxes bkb: 10 → 28
 2 hitboxes hitlag multiplier: 1 → 2
@@ -83,6 +85,7 @@ hitbox 1 damage: 17 → 22
 
 **Up Air**
 first active frame 1 frame earlier
+consolidated sweetspot damage
 hitbox 0x80000 damage: 13 → 15
 hitbox 0x80000 bkb: 35 → 45
 hitbox 0x90001 damage: 12 → 15
@@ -162,6 +165,8 @@ aerial down b restores double jump
 can now double jump out of endlag sooner
 buffed hitbox sizes to match move
 buffed hitboxes to cover his leg fully
+No longer slows momentum after hitting opponent
+Endlag sped up
 
 ### Other
 
@@ -169,6 +174,7 @@ buffed hitboxes to cover his leg fully
 sped up 1.2x
 angle: 105/100 → 80
 first active frame: 10 → 8
+more range
 added forward momentum kick at start (+0.5 horizontal velocity)
 late hitbox size: 4 → 6
 sync timer between hits: 7 → 11
@@ -192,7 +198,9 @@ his run speed buff wasn't saved previously so now his run speed is properly 1.36
 
 | Parameter | Change |
 |-----------|--------|
-| Run Speed | 1.16 → 1.36 → 1.5 |
+| Run Speed | 1.16 → 1.36 → 1.5 → 1.63 |
 | Initial Dash Speed | 1.3 → 1.5 |
+| Dash Speed | 1.5 → 1.6 |
 | Air Mobility | buffed |
+| Ground to Air Mobility | buffed |
 | Weight | 109 → 114 |

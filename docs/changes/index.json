@@ -18,11 +18,13 @@
         },
         {
           "name": "Cloud",
-          "file": "Cloud.md"
+          "file": "Cloud.md",
+          "delta": "Cloud.md"
         },
         {
           "name": "Daisy",
-          "file": "Daisy.md"
+          "file": "Daisy.md",
+          "delta": "Daisy.md"
         },
         {
           "name": "Dark Samus",
@@ -30,15 +32,18 @@
         },
         {
           "name": "Diddy Kong",
-          "file": "Diddy Kong.md"
+          "file": "Diddy Kong.md",
+          "delta": "Diddy Kong.md"
         },
         {
           "name": "Donkey Kong",
-          "file": "Donkey Kong.md"
+          "file": "Donkey Kong.md",
+          "delta": "Donkey Kong.md"
         },
         {
           "name": "Dr. Mario",
-          "file": "Dr. Mario.md"
+          "file": "Dr. Mario.md",
+          "delta": "Dr. Mario.md"
         },
         {
           "name": "Falco",
@@ -46,19 +51,23 @@
         },
         {
           "name": "Fox (Melee)",
-          "file": "Fox (Melee).md"
+          "file": "Fox (Melee).md",
+          "delta": "Fox (Melee).md"
         },
         {
           "name": "Fox",
-          "file": "Fox.md"
+          "file": "Fox.md",
+          "delta": "Fox.md"
         },
         {
           "name": "Ganon",
-          "file": "Ganon.md"
+          "file": "Ganon.md",
+          "delta": "Ganon.md"
         },
         {
           "name": "Ganondorf",
-          "file": "Ganondorf.md"
+          "file": "Ganondorf.md",
+          "delta": "Ganondorf.md"
         },
         {
           "name": "Geno",
@@ -79,7 +88,8 @@
         },
         {
           "name": "Ike",
-          "file": "Ike.md"
+          "file": "Ike.md",
+          "delta": "Ike.md"
         },
         {
           "name": "Incineroar",
@@ -87,11 +97,13 @@
         },
         {
           "name": "Isabelle",
-          "file": "Isabelle.md"
+          "file": "Isabelle.md",
+          "delta": "Isabelle.md"
         },
         {
           "name": "Ivysaur",
-          "file": "Ivysaur.md"
+          "file": "Ivysaur.md",
+          "delta": "Ivysaur.md"
         },
         {
           "name": "Jigglypuff",
@@ -274,6 +286,7 @@
           "file": "Zero Suit Samus.md"
         }
       ],
+      "unchanged": 9,
       "previous": "1.1.0"
     },
     {

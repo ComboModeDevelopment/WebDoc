@@ -5,8 +5,9 @@
 ### Jab / Tilts
 
 **Up Tilt**
-sync timer: 8 → 9 frames
-async timer: 25 → 30 frames (slower overall)
+iasa: 26 → 31
+active frames: 8 → 9 frames
+adjusted animation for better swing (slower overall)
 
 **Down Tilt**
 all 6 hitboxes damage: 13 → 11
@@ -32,3 +33,4 @@ added 0.9x endlag slowdown
 
 **Side B (Startup)**
 removed cancel/interrupt point near end
+endlag sped up: 0.88 → 0.9

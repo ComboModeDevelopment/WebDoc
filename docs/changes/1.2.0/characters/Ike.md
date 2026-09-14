@@ -34,6 +34,7 @@ damage: 9 → 11
 added iasa: 47
 startup speedup: 1.2x → 1.4x
 startup timing restructured (split into shorter phases)
+adjusted animatino for more range
 added 1.6x mid speedup
 
 **Forward Air**

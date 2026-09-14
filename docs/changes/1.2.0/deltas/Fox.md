@@ -13,6 +13,7 @@ new launcher wave: 3 hitboxes damage 7, trajectories 80/290/80, kbg 60/90/60, bk
 mid sped up 1.2x + 19-frame gap timer
 
 **Down Tilt**
+New animation
 reworked: 4 hitboxes → 3 hitboxes
 damage: 9/9/8/7 → 8/8/8 (uniform)
 trajectory: 70/70/80/90 → 80 (uniform)
@@ -23,6 +24,7 @@ bkb: 25 → 60
 ### Aerial Attacks
 
 **Up Air**
+New animation
 startup sped up 2x, then 1.3x follow-up speedup
 multi-hit hitbox bones relocated (0x150000/0x160001/0x170002 → 0xD0000/0xE0001/0xB0002)
 multi-hit inner timer: 2 → 6 frames
@@ -40,12 +42,14 @@ endlag sped up 1.8x
 ### Smash Attacks
 
 **Up Smash**
+Animation redone
 startup async timer: 5 → 8 frames
 hitbox 4 size: 2 → 6 (much bigger)
 middle async timer: 6 → 9 frames
 mid slowed to 0.5x speed, then reset to 1x
 
 **Down Smash**
+New animation
 now starts animation from frame 15
 startup async: 3 → 2 frames
 startup slowed to 0.7x speed
@@ -61,10 +65,12 @@ trajectory: 0 → 20
 hitbox 0 kbg: 30 → 110
 hitbox 1 wkb: 0 → 35 (set knockback re-added)
 DI multiplier: 0.6 → 1.2 (hitbox 0), 0.6 → 1 (hitbox 1)
+No set knockback and will now eventually knock down
 
 ### Other
 
 **Dash Attack**
+New animation
 completely reworked into multi-hit + launcher
 startup sped up 2x
 multi-hit phase slowed to 0.6x speed; hitboxes damage 3, trajectory 365 (autolinking angle), wkb 10, kbg 60, bkb 25
