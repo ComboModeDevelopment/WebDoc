@@ -5,8 +5,8 @@
 ### Jab / Tilts
 
 **Up Tilt**
-added 0.76x startup frame speed modifier (slower startup)
-endlag frame speed modifier: 1.2x → 1.1x (less endlag speedup)
+startup slowed to 0.76x speed
+endlag speedup: 1.2x → 1.1x (less speedup)
 
 ### Special Moves
 

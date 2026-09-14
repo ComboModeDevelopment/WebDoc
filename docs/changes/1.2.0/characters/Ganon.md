@@ -4,88 +4,44 @@
 
 ### Jab / Tilts
 
-**Up-Angled Forward Tilt**
-startup FSM: 0.7x → 1.2x
-hitbox sizes: 5.5/5.3/5.1 → 8/8/8 (all bigger)
-added lingering huge hitbox (damage 10, trajectory 270, wkb 22, kbg 88, size 30)
-added 1.3x endlag FSM
+**Up Tilt**
+reworked from elaborate multi-stage sword slam into simple single-hit tilt
+old: 3 early hits (damage 6, trajectory 100, wkb 10 kbg 29, bkb 77) + delayed 5 lingering late hitboxes (damage 10/10/9/12/12, trajectory 80)
+new: 3 hitboxes (damage 11, trajectory 100, kbg 80, bkb 60)
+startup delay: 4 → 8 frames
 
-### Aerial Attacks
-
-**Neutral Air**
-added 2.4x mid FSM
-added 0.75x follow-up FSM
-mid FSM: 1.4x → 1.5x
-
-**Forward Air**
-hitboxes 0x360001 / 0x370000 unified damage: 15/18 → 19/19
-kbg unified: 80/83 → 91/91
-bkb unified: 30/48 → 48/48
-hitlag multiplier: 1/2 → 2/2
-
-**Back Air**
-2 hitboxes damage: 16 → 18
-2 hitboxes bkb: 10 → 28
-2 hitboxes hitlag multiplier: 1 → 2
-sync timer: 3 → 5 frames
-async endlag timer: 35 → 28
-
-**Up Air**
-hitbox 0x80000 damage: 13 → 15
-hitbox 0x80000 bkb: 35 → 45
-hitbox 0x90001 damage: 12 → 15
-hitbox 0x90001 bkb: 35 → 45
-second-hit hitbox damage: 10 → 12
-late-hit hitbox damage: 6 → 8
-added 1.3x endlag FSM
-
-**Down Air**
-added 1.2x startup FSM
-hitbox 1 damage: 17 → 22
+**Down Tilt**
+re-timed: early phase slowed (2x → 1.5x speed), mid slightly sped up (1x → 1.2x), late phase slowed (2x → 1.3x)
+removed trailing 1.3x speedup at end
 
 ### Smash Attacks
 
-**Forward Smash (all 3 angles)**
-early hitbox hitlag multiplier: 1.5 → 0.4
-
-**Down Smash Charge Start**
-added 1.6x FSM
-
-**Down Smash**
-added 1.6x startup FSM
-multi-hit trajectories: 170/170/170 → 150/160/150
-first hitbox size: 5.5 → 4
-second hitbox bkb: 50 → 65
-mid FSM: 2x → 3x
-mid async timer: 30 → 28 frames
+**Up Smash**
+reworked from simple 3-hit smash into elaborate multi-stage sword slam
+old: 3 hitboxes damage 19, trajectory 90, kbg 120, bkb 50/40/40, hitlag 1.6
+new: 3 early hits (damage 6, trajectories 150/110/110, wkb 10 kbg 29, bkb 70/60/60), followed by 3 autolinking hits (damage 6, trajectory 365, bkb 25), then 5 late lingering hitboxes (damage 13, trajectories mixed, kbg 100, bkb 56, hitlag 2, Y offsets 6.5/15.5/17.5/26.5/30)
+added slower startup (0.65x speed) and dramatic slow-mo (0.2x) near the end
 
 ### Special Moves
 
 **Side B (Grounded Startup)**
-startup FSM: 1.35x → 1.5x
-added 1.35x FSM after catch collisions
+startup sped up (1.35x → 1.8x)
+added mid-startup speedup (1.3x)
 
-**Side B (Grounded Main)**
-mid FSM: 1x → 1.25x
+**Up B (Grounded)**
+removed startup, mid, and late slowdowns - move now plays at consistent speed
 
-**Side B (Aerial Startup)**
-added ledge-grab disable
-added 1.5x startup FSM
-existing FSM: 1.2x → 1.35x
+**Up B (Aerial)**
+startup slowed (1.8x → 1.4x speed)
+removed 3 mid-move speed changes - plays more consistently
 
-**Up B (Catch)**
-loop hitbox damage: 1 → 2
+**Down B (Grounded)**
+removed 0.5x startup slowdown (now plays at normal speed)
 
-**Up B (Throw)**
-throw damage: 10 → 13
-throw kbg: 80 → 110
+**Down B (Aerial)**
+removed 0.54x startup slowdown (now plays at normal speed)
 
 ### Other
-
-**Dash Attack**
-added forward momentum kick at start (+0.5 horizontal velocity)
-late hitbox size: 4 → 6
-sync timer between hits: 7 → 11
 
 **Down Throw**
 angle: 90 → 65

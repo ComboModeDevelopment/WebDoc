@@ -8,7 +8,7 @@ images/characters/<slug>.png
 ```
 
 Any tile whose `.png` is missing simply shows a text-only tile instead, so you
-can add art gradually — nothing breaks in the meantime.
+can add art gradually - nothing breaks in the meantime.
 
 Recommended: roughly square, transparent PNGs (they're displayed at 56×56).
 

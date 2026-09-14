@@ -9,7 +9,7 @@ can now cancel into specials/grabs/attacks
 
 **Down Tilt**
 no longer halts momentum
-reworked slowdown — startup slowed .3x, rest of move left 1x
+reworked slowdown - startup slowed .3x, rest of move left 1x
 iasa: 15 → 22 (slowed .8x, iasa reduced to compensate)
 angle: 361 → 57 → 70
 bkb: 15 → 30 → 45

@@ -1,4 +1,4 @@
-/* Minimal placeholder styling — workshop later. */
+/* Minimal placeholder styling - workshop later. */
 
 /* --- Header font: "Edo SZ" -------------------------------------------------
    Edo SZ is a freeware display font (not a Google/web font), so it must be
@@ -72,7 +72,7 @@ body {
 /* Banner */
 .banner {
   /* Sticky (not fixed) so it reserves its own space and can grow when the nav
-     wraps to multiple rows on narrow screens — without overlapping content. */
+     wraps to multiple rows on narrow screens - without overlapping content. */
   position: sticky;
   top: 0;
   min-height: var(--banner-height);
@@ -334,7 +334,7 @@ td ul { margin: 0; padding-left: 18px; }
 
 /* Cut from the roster: still listed with their full history, but drained of
    colour so it reads at a glance. Colour returns on hover/focus so the tile
-   doesn't look disabled — it is still clickable. */
+   doesn't look disabled - it is still clickable. */
 .icon-card.is-removed .icon-img {
   filter: grayscale(1);
   opacity: 0.55;

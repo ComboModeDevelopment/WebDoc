@@ -8,7 +8,7 @@
 new animation using Forward Tilt 3
 
 **Down Tilt**
-reworked slowdown — startup slowed .3x, rest of move left 1x; startup slowdown: .4 → .6
+reworked slowdown - startup slowed .3x, rest of move left 1x; startup slowdown: .4 → .6
 damage: 6 → 8
 moved hitboxes to properly match move
 
@@ -23,7 +23,7 @@ angle: 78/60 → 85
 ### Special Moves
 
 **Neutral B**
-reworked — now a single hit kill move with a weaker late hit
+reworked - now a single hit kill move with a weaker late hit
 mobility buffed
 startup sped up 2x
 can now grab ledge out of spin

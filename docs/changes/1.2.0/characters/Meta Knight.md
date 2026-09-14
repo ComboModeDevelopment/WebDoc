@@ -12,7 +12,7 @@ angle: 75 → 55
 
 **Down Tilt**
 no longer halts momentum
-reworked slowdown — startup slowed .3x, rest of move left 1x; startup slowdown: .4 → .6
+reworked slowdown - startup slowed .3x, rest of move left 1x; startup slowdown: .4 → .6
 iasa: 15 → 22 (slowed .8x, iasa reduced to compensate)
 angle: 361 → 57 → 70
 bkb: 15 → 30 → 45
@@ -103,7 +103,7 @@ kbg: 93 → 110
 ### Special Moves
 
 **Neutral B**
-reworked — now a single hit kill move with a weaker late hit
+reworked - now a single hit kill move with a weaker late hit
 hitbox sizes: 5 → 3
 max horizontal speed: 2 → 1.3
 multihit angle all made 361

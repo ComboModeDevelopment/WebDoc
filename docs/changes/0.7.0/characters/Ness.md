@@ -34,7 +34,7 @@ startup sped up 2x
 ### Smash Attacks
 
 **Up Smash**
-new move — headbutt (similar to Mario's)
+new move - headbutt (similar to Mario's)
 damage: 18
 bkb: 35
 kbg: 90

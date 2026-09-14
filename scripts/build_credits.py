@@ -7,7 +7,7 @@ Credits are NOT release-based. There is one file per category:
     scripts/credits/stages.txt
     scripts/credits/other.txt
 
-Inside each file, list entries as blocks — a name line ending in `:` followed by
+Inside each file, list entries as blocks - a name line ending in `:` followed by
 one credit line per line. Blank lines separate blocks. Lines starting with `#`
 are comments (ignored), so you can keep notes/templates in the file.
 

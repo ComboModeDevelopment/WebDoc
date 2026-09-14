@@ -12,7 +12,7 @@ and generates `docs/data/quirks.json`.
 
 ## Format
 
-List characters as blocks — a name line ending in `:` followed by one quirk per
+List characters as blocks - a name line ending in `:` followed by one quirk per
 line. Blank lines separate blocks. No `RELEASE:` line is needed; the version
 comes from the filename.
 

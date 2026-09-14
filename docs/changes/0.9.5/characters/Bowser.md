@@ -21,7 +21,7 @@ hitbox duration: 8-13 → 6-13
 kbg: 97 → 70
 
 **Down Tilt**
-fixed hitboxes — now actually cover his hands
+fixed hitboxes - now actually cover his hands
 both hits combo into each other
 first hit trip rate: .3 → 1
 first hit damage: 14 → 6
@@ -58,7 +58,7 @@ sdi multiplier: 1 → .4
 first hit angle: 361 → 270 → 365
 added skb to 1st hit (30)
 removed sourspots on 2nd hit
-removed multihit — first hit damage given to 2nd hit sweetspot
+removed multihit - first hit damage given to 2nd hit sweetspot
 2nd hit hitbox id0 size: 7.3 → 9
 hitbox id0 damage: 23 → 32
 hitlag: 1.2 → 1.3

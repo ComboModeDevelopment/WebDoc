@@ -13,13 +13,13 @@ The `characters/` file is the full history up to that release; the optional
 `deltas/` file covers only what changed versus the previous release, and powers
 the "What changed in this release" view. Delta files are hand-written and are
 being added character by character, so a release may have deltas for only some
-of its roster — each release also records `previous` so the UI can label the
+of its roster - each release also records `previous` so the UI can label the
 comparison.
 
 Run it locally before previewing, or let the deploy workflow run it (it does).
 
 Releases newer than `latest_published` (scripts/release_config.json) are gated
-out — see scripts/releasecfg.py.
+out - see scripts/releasecfg.py.
 """
 import io
 import json
@@ -52,8 +52,8 @@ def _reports_removal(path):
 def _reports_no_changes(path):
     """True when a delta's whole body is the "nothing happened" sentence.
 
-    Those files are worth keeping on disk — they record that a character was
-    checked and left alone — but listing them under "Changes this release"
+    Those files are worth keeping on disk - they record that a character was
+    checked and left alone - but listing them under "Changes this release"
     reads as though the character *did* change. A delta that carries an
     arrival note or any section is real content and stays.
     """
@@ -141,17 +141,17 @@ def build():
     # doesn't quietly drop a view's worth of content.
     for rel in releases:
         if not any(c.get("file") for c in rel["characters"]):
-            print("  note: %s has no characters/*.md — it will only appear "
+            print("  note: %s has no characters/*.md - it will only appear "
                   "under \"Changes this release\"." % rel["version"])
         elif not any(c.get("delta") for c in rel["characters"]):
             # Distinguish "nobody written up" from "everyone written up as
-            # unchanged" — the second is complete, not a gap to chase.
+            # unchanged" - the second is complete, not a gap to chase.
             if rel.get("unchanged"):
-                print("  note: %s has %d delta(s), all reporting no changes — "
+                print("  note: %s has %d delta(s), all reporting no changes - "
                       "\"Changes this release\" will say so."
                       % (rel["version"], rel["unchanged"]))
             else:
-                print("  note: %s has no deltas/*.md — it will only appear "
+                print("  note: %s has no deltas/*.md - it will only appear "
                       "under \"All changes so far\"." % rel["version"])
 
 

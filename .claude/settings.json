@@ -6,7 +6,8 @@
       "Bash(diff --strip-trailing-cr \"version_diffs/1.1.0 Fighter/donkey/FitDonkeySubaction.txt\" \"version_diffs/1.2.0 Fighter/donkey/FitDonkeySubaction.txt\" > /tmp/dk.diff; cat /tmp/dk.diff)",
       "Bash(awk '/^[0-9]+[acd][0-9]+/ {print NR\": \"$0}' /tmp/fox.diff)",
       "Bash(awk '/^[0-9]+[acd][0-9]+/ {print NR\": \"$0}' /tmp/ganon.diff)",
-      "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/fox.diff)"
+      "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/fox.diff)",
+      "Bash(grep -nE '^[0-9]+\\(,[0-9]+\\)?[acd][0-9]+\\(,[0-9]+\\)?$' /tmp/gs.diff)"
     ],
     "additionalDirectories": [
       "\\tmp"

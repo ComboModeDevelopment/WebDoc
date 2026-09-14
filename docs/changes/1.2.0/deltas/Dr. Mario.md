@@ -24,7 +24,7 @@ timing restructured: old async 11 split into async 5 (before new hitboxes) + asy
 ### Smash Attacks
 
 **Forward Smash Charge Start**
-removed 0.7x startup frame speed modifier
+removed 0.7x startup slowdown
 
 **Forward Smash (up angle)**
 all 3 hitboxes kbg: 97 → 110
@@ -35,7 +35,7 @@ all 3 hitboxes kbg: 97 → 110
 all 3 hitboxes hitlag multiplier: 1 → 2
 
 **Down Smash Charge Start**
-added 0.5x startup frame speed modifier
+startup slowed to 0.5x speed
 
 ### Special Moves
 
@@ -43,7 +43,7 @@ added 0.5x startup frame speed modifier
 all 6 multi-hit hitboxes damage: 8/8/7 → 11 (uniform)
 
 **Down B (Tornado)**
-added 2.5x endlag frame speed modifier (faster endlag)
+endlag sped up 2.5x
 added 2 lingering windbox-style hitboxes (damage 2, trajectory 80, size 5) during endlag
 
 ### Other

@@ -24,7 +24,7 @@
   }
 
   // Return a copy of the characters sorted alphabetically by name. Entries
-  // flagged `pinned` sort ahead of the rest — used for roster-wide entries
+  // flagged `pinned` sort ahead of the rest - used for roster-wide entries
   // like "General", which belong at the front rather than under G.
   function sortedByName(characters) {
     return (characters || []).slice().sort(function (a, b) {
@@ -291,13 +291,13 @@
               : "first release";
             noteEl.hidden = false;
             // Count against the roster (characters with a cumulative file), not
-            // the index entries — a delta-only release would otherwise report
+            // the index entries - a delta-only release would otherwise report
             // the meaningless "1 of 1".
             var roster = (rel.characters || []).filter(function (c) {
               return c.file;
             }).length;
             // Characters checked this release and left alone. They are kept out
-            // of the grid — listing them reads as though they changed — but
+            // of the grid - listing them reads as though they changed - but
             // they are the difference between "nothing changed" and "nobody
             // written up yet", so the wording below has to know about them.
             var unchanged = rel.unchanged || 0;
@@ -316,7 +316,7 @@
                   "release’s full history.";
             } else if (withDeltas.length + unchanged >= roster) {
               // Everyone is written up, so the count is simply how many
-              // characters changed — not how far along the write-up is.
+              // characters changed - not how far along the write-up is.
               modeNoteEl.textContent =
                 withDeltas.length + " of " + roster + " characters changed in " +
                 rel.version + ". The rest were not changed. Switch to " +

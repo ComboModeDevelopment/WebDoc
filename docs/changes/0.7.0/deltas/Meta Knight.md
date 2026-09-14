@@ -5,7 +5,7 @@
 ### Jab / Tilts
 
 **Down Tilt**
-reworked slowdown — startup slowed .3x, rest of move left 1x
+reworked slowdown - startup slowed .3x, rest of move left 1x
 
 **Up Tilt**
 endlag sped up 1.3x

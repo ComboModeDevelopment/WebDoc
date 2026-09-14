@@ -72,7 +72,7 @@ adjusted animation for more range
 improved hitbox sizes
 
 **Forward Smash Charge Start**
-removed 0.7x startup frame speed modifier
+removed 0.7x startup slowdown
 
 **Forward Smash (up angle)**
 all 3 hitboxes kbg: 97 → 110
@@ -86,7 +86,7 @@ all 3 hitboxes hitlag multiplier: 1 → 2
 improved hitbox coverage
 
 **Down Smash Charge Start**
-added 0.5x startup frame speed modifier
+startup slowed to 0.5x speed
 
 ### Special Moves
 
@@ -109,7 +109,7 @@ gives better lift in air
 endlag sped up 1.5x → 1.2x
 kbg: 125 → 100
 slowed endlag
-added 2.5x endlag frame speed modifier (faster endlag)
+endlag sped up 2.5x
 added 2 lingering windbox-style hitboxes (damage 2, trajectory 80, size 5) during endlag
 
 ### Other

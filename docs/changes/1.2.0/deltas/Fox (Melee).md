@@ -5,7 +5,7 @@
 ### Aerial Attacks
 
 **Back Air**
-added 1.5x endlag frame speed modifier (faster endlag transition after hitboxes)
+endlag sped up 1.5x (faster transition after hitboxes)
 
 **Down Air**
 loop iterations: 7 → 10 (more hits)

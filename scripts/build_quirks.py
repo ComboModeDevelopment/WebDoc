@@ -15,7 +15,7 @@ so no RELEASE line is needed):
 
 Blank lines separate blocks. A `Combo Mode:` block, if present, is treated as
 the section intro rather than a character. Releases newer than `latest_published`
-(scripts/release_config.json) are gated out — see scripts/releasecfg.py. To
+(scripts/release_config.json) are gated out - see scripts/releasecfg.py. To
 update the quirks, edit the relevant file and re-run this script (the deploy
 workflow also runs it).
 """

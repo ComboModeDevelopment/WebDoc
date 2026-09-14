@@ -8,16 +8,16 @@
 endlag sped up 1.8x
 
 **Jab 3 (alt variant)**
-added 1.1x startup frame speed modifier
+startup sped up 1.1x
 removed 0.3x slow-mo window during startup
-endlag frame speed modifier: 1.3x → 1.8x
+endlag speedup: 1.3x → 1.8x
 
 **Forward Tilt**
 new f tilt with new properties
 
 **Up Tilt**
 reworked from multi-hit into single strong hit
-startup frame speed modifier: 1.2x → 1.8x
+startup speedup: 1.2x → 1.8x
 new hitboxes: damage 11, trajectory 75, kbg 68, bkb 60 (4 hitboxes on bones 0x48/0x50)
 
 ### Smash Attacks
@@ -42,7 +42,7 @@ main hit damage: 17 → 20
 main hit kbg: 133 → 80
 main hit bkb: 10 → 50
 main hit hitlag multiplier: 1 → 2
-added 0.5x startup FSM followed by 1.2x FSM (dramatic pause)
+startup slowed to 0.5x speed, then sped up 1.2x (dramatic pause)
 removed final low-damage multi-hit pass
 
 ### Other

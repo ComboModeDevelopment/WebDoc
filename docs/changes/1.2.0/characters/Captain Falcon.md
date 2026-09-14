@@ -16,12 +16,12 @@ jab 3 kbg: 50 → 80
 reworked hitboxes on jab1 to prevent infinites
 jab 1/2 damage: 3 → 2
 jab 1 hitboxes 0/2 bkb: 10 → 6
-jab 1 endlag frame speed modifier (0.7x) removed
+jab 1 endlag 0.7x slowdown removed
 jab 1 endlag: 20 → 22 frames
 jab 2 wkb: 20 → 10
 jab 2 kbg: 100 → 10
 jab 2 bkb: 0 → 18
-jab 2 endlag frame speed modifier (0.7x) removed
+jab 2 endlag 0.7x slowdown removed
 jab 2 endlag: 18 → 25 frames
 
 **Up Tilt**

@@ -27,4 +27,4 @@ Search for "Edo SZ font" (Vic Fieger). It's distributed as freeware. Download
 the `.ttf`, rename it to `edosz.ttf`, and drop it here.
 
 Until the file is present, headers fall back to `Impact, "Arial Black",
-sans-serif` — the site still works, it just won't show the Edo SZ styling.
+sans-serif` - the site still works, it just won't show the Edo SZ styling.

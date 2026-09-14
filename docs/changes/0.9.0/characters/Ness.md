@@ -1,4 +1,4 @@
-# Ness — 0.9.0
+# Ness - 0.9.0
 
 ## Changes
 

@@ -53,7 +53,7 @@ window.SITE_CONFIG = {
   downloadUrl: "https://github.com/ComboModeDevelopment/Combo-Mode-Releases/releases/latest",
   downloadLabel: "Get ComboMode",
   // Discord invite for the "Join" card (right side of Download and Join).
-  // Just your invite link — no server-side setup needed. Leave "" to hide it.
+  // Just your invite link - no server-side setup needed. Leave "" to hide it.
   discordInviteUrl: "https://discord.gg/CH6H7JVN77",
 
   // --- About --------------------------------------------------------------

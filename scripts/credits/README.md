@@ -25,7 +25,7 @@ Animations: AnotherPerson
 
 - The name becomes the display label and the **icon slug**
   (e.g. `Fox (Melee):` -> `fox-melee.png`).
-- Icons live in `docs/images/<category>/` — characters reuse
+- Icons live in `docs/images/<category>/` - characters reuse
   `docs/images/characters/`, stages use `docs/images/stages/`, other uses
   `docs/images/other/`. Missing icons fall back to a text tile.
 

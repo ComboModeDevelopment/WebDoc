@@ -9,8 +9,8 @@ iasa: 39 → 31
 sped up endlag 1.2x
 bkb: 40 → 55
 kbg: 105 → 75
-added 0.76x startup frame speed modifier (slower startup)
-endlag frame speed modifier: 1.2x → 1.1x (less endlag speedup)
+startup slowed to 0.76x speed
+endlag speedup: 1.2x → 1.1x (less speedup)
 
 **Down Tilt**
 trip rate: 0.4 → 1
