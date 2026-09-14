@@ -1,4 +1,4 @@
-# Geno — 1.1.0
+# Geno — 1.2.0
 
 ## Changes
 

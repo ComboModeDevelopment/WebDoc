@@ -1,4 +1,4 @@
-# Greninja — 1.1.0
+# Greninja — 1.2.0
 
 ## Changes
 

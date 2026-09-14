@@ -4,7 +4,7 @@
 
 ### Jab / Tilts
 
-**Jab 3 (alt variant)**
+**Forward Tilt**
 startup sped up 1.1x
 removed 0.3x slow-mo window during startup
 endlag speedup: 1.3x → 1.8x

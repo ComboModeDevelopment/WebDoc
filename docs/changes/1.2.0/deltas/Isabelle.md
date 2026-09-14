@@ -1,6 +1,6 @@
 # Isabelle — 1.2.0
 
-## Changes
+## Changes since 1.1.0
 
 ### Jab / Tilts
 

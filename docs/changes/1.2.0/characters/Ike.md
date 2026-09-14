@@ -1,4 +1,4 @@
-# Ike — 1.1.0
+# Ike — 1.2.0
 
 ## Changes
 
@@ -14,9 +14,10 @@ all varients startup sped up
 startup sped up 1.2x → 1.3x
 endlag sped up 1.2x
 iasa: 51 → 40 → 42
+startup sped up 1.6x, then reset to normal speed before hitboxes
 
 **Down Tilt**
-sped up 1.2x → 1.3x
+sped up 1.2x → 1.3x → 2x
 iasa: 55 → 41 → 36
 sourspot angle: 361 → 270
 hitbox sizes: 4 → 5
@@ -31,24 +32,30 @@ first active frame: 13 → 11 → 15
 sped up 1.2x
 damage: 9 → 11
 added iasa: 47
+startup speedup: 1.2x → 1.4x
+startup timing restructured (split into shorter phases)
+added 1.6x mid speedup
 
 **Forward Air**
 damage: 13 → 15 → 16
 sped up 1.15x → 1.25x
 first active frame: 18 → 17
 added iasa: 51
-endlag sped up 1.3x
+endlag sped up: 1.3x → 1.6x
+sync timer: 6 → 7 frames
 
 **Back Air**
 added iasa: 42
 damage: 14 → 17
 first active frame: 7 → 6
+endlag sped up 1.5x
 
 **Up Air**
 damage: 14 → 16
 first active frame: 13 → 12
 active frames: 7 → 9
 adjusted animation to hit lower
+endlag sped up 1.8x
 
 **Down Air**
 sweetspot duration: 2 → 3
@@ -82,6 +89,11 @@ angle: 361 → 30
 startup sped up 1.3x
 during hitboxes slowed 0.9x
 endlag sped up 1.2x
+whole move speedup: 1.3x → 1.5x
+all 4 hitboxes hitlag multiplier: 1 → 2
+
+**Down Smash Charge Start**
+sped up: 1.3x → 2x
 
 ### Special Moves
 
@@ -89,6 +101,13 @@ endlag sped up 1.2x
 uncharged damage: 10 → 16
 startup sped up 1.4x
 removed armor
+
+**Up B (Aether Toss)**
+added button-hold check for ledge grab (must hold button to allow ledge grab during this phase)
+
+**Up B (Aether Final Hit)**
+3 hitboxes trajectory: 60 → 80
+endlag sped up 2x
 
 **Side B**
 can now jump out of the dash
