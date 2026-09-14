@@ -1,4 +1,4 @@
-# Cloud — 1.1.0
+# Cloud — 1.2.0
 
 ## Changes
 
@@ -17,6 +17,7 @@ damage: 10 → 9
 startup slowed .5x
 initial hitbox angle: 70 → 55
 damage: 8/16/17/9 → 8/15/16/9
+mid multi-hit angles: 290/270 → 260
 
 **Up Air**
 sweetspot damage: 11 → 10
