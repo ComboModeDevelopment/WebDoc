@@ -1,19 +1,13 @@
 # Daisy — 1.2.0
 
-## Changes
+## Changes since 1.1.0
 
 ### Jab / Tilts
-
-**Jab**
-endlag sped up 1.8x
 
 **Jab 3 (alt variant)**
 added 1.1x startup frame speed modifier
 removed 0.3x slow-mo window during startup
 endlag frame speed modifier: 1.3x → 1.8x
-
-**Forward Tilt**
-new f tilt with new properties
 
 **Up Tilt**
 reworked from multi-hit into single strong hit
@@ -44,8 +38,3 @@ main hit bkb: 10 → 50
 main hit hitlag multiplier: 1 → 2
 added 0.5x startup FSM followed by 1.2x FSM (dramatic pause)
 removed final low-damage multi-hit pass
-
-### Other
-
-**Dash Attack**
-angle: 65 → 75

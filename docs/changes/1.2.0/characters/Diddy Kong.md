@@ -1,4 +1,4 @@
-# Diddy Kong — 1.1.0
+# Diddy Kong — 1.2.0
 
 ## Changes
 
@@ -99,6 +99,7 @@ kick angle: 361 → 55
 startup sped up 1.3x
 can now double jump out of the move
 knockback from grabs totally reworked so diddy can combo off them
+monkey flip 2nd kick post-attack vertical velocity: 1 → 1.7
 
 ### Other
 
