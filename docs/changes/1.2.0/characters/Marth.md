@@ -1,0 +1,127 @@
+# Marth — 1.1.0
+
+## Changes
+
+*Now uses a "PM Marth in Brawl" mod as a base, modified further to fit Combo Mode. Brawl animations are kept, most noticeable for Neutral B and Side B.*
+
+### Jab / Tilts
+
+**Up Tilt**
+kbg: all made 125
+first active frame: 6 → 5
+tipper hitbox size buffed
+
+**Down Tilt**
+no longer halts momentum out of a dash
+angle: 30 → 50
+iasa: 22 → 18
+bkb: all made 60
+kbg: 40 → 35
+
+**Forward Tilt**
+endlag sped up 1.3x
+
+**Jab**
+jab combo is now faster
+jab 2 angle: 361 → 15
+
+### Aerial Attacks
+
+**Neutral Air**
+first hit now has 10 skb
+first hit bkb: 30 → 41
+between multihits sped up 1.4x
+sped up between hits and improved hitboxes
+
+**Forward Air**
+tipper now takes priority
+mid hitbox size increased
+tipper angle: 361 → 65
+sourspot angle: 361 → 55
+non-tipper damage: 10 → 9
+tipper damage: 13 → 11
+kbg: 80 → 70
+iasa: 34 → 30
+
+**Back Air**
+kbg: 70 → 95
+endlag sped up 1.5x
+
+**Down Air**
+tipper hitbox now takes priority
+tipper damage: 13 → 16
+
+**Up Air**
+damage: 13 → 12
+kbg: 80 → 60
+sweetspot kbg: 70 → 55
+sourspot kbg: 70 → 60
+
+### Smash Attacks
+
+**Forward Smash**
+changed tipper and hilt priority so it should now be far easier to hit
+tipper damage: 13 → 11 → 20 → 22
+sourspot kbg: 70 → 80
+given PM animation, making tipper hitbox placement more consistent
+adjusted animation to give it better active frames + swing arc
+reduced tipper size to make it slightly harder to hit
+
+**Down Smash**
+sped up endlag 1.3x
+
+### Special Moves
+
+**Neutral B**
+uncharged damage: 7 → 12 → 15
+now has Melee neutral B animation while in the air, startup and move sped up 1.2x, endlag slowed .6x
+active frames: 12 → 5
+fixed slowdown when going from air to ground
+landing now cancels like an aerial
+endlag slowed down in air
+damage: 12 → 15
+kbg: 100 → 85
+
+**Side B**
+gives better aerial lift
+aerial dancing blade hitbox frame: 5 → 4
+side b 1 bkb: 55 → 25
+side b 1 added skb: 10
+
+**Up B**
+reverted ledge snap change
+sweetspot buffed size
+damage: 12 → 16
+
+### Other
+
+**Dash Attack**
+tipper angle: 45 → 100
+tipper bkb: 80 → 60
+iasa: 50 → 40
+endlag sped up 1.3x
+
+**Forward Throw**
+angle: 50 → 55
+
+**Up Throw**
+bkb: 80 → 60 → 55 → 65
+kbg: 120 → 100 → 75 → 80
+end lag sped up 1.3x
+
+**Down Throw**
+angle: 135 → 120
+sped up 1.35x
+
+**Back Throw**
+sped up 1.45x
+
+given his P+ animations + further touched up animations and hitboxes so this should fix a lot of range issues
+
+### Character Parameters
+
+| Parameter | Change |
+|-----------|--------|
+| Dash Speed | 1.5 → 1.62 |
+| Run Speed | 1.8 → 1.92 |
+| Weight | 87 → 100 |
