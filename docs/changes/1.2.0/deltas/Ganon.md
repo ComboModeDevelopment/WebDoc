@@ -1,6 +1,6 @@
 # Ganon — 1.2.0
 
-## Changes
+## Changes since 1.1.0
 
 ### Jab / Tilts
 
@@ -86,6 +86,3 @@ throw kbg: 80 → 110
 added forward momentum kick at start (+0.5 horizontal velocity)
 late hitbox size: 4 → 6
 sync timer between hits: 7 → 11
-
-**Down Throw**
-angle: 90 → 65
