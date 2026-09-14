@@ -1,4 +1,4 @@
-# Charizard — 1.1.0
+# Charizard — 1.2.0
 
 ## Changes
 

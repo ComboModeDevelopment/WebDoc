@@ -1,4 +1,4 @@
-# Bowser — 1.1.0
+# Bowser — 1.2.0
 
 ## Changes
 
