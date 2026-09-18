@@ -1,6 +1,6 @@
 # Mage Ganondorf — 1.2.0
 
-## Changes
+## Changes since 1.1.0
 
 ### Jab / Tilts
 
@@ -81,6 +81,9 @@ overall move much faster
 
 ### Other
 
+**Run Speed**
+1.71 → 1.87
+
 **Shared aerial subroutine**
 removed multiple mid-move slowdowns that applied across Nair/Fair/Uair
   - 0.35x → 1x
@@ -91,9 +94,3 @@ removed multiple mid-move slowdowns that applied across Nair/Fair/Uair
   - 0.55x → 1x
 added 1.5x speedup at one shared point
 aerials generally faster and less floaty during animation
-
-### Character Parameters
-
-| Parameter | Change |
-|-----------|--------|
-| Run Speed | 1.71 → 1.87 |
