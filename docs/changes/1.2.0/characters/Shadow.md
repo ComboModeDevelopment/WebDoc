@@ -1,4 +1,4 @@
-# Shadow — 1.1.0
+# Shadow — 1.2.0
 
 ## Changes
 

@@ -1,4 +1,4 @@
-# Sheik — 1.1.0
+# Sheik — 1.2.0
 
 ## Changes
 
@@ -7,10 +7,11 @@
 **Jab**
 removed rapid jab
 jab 1 angle: 70 → 361 → 55
-jab 2 angle: 70 → 55
+jab 2 angle: 70 → 55 → 130 (hitbox id 0)
 jab 2 kbg: 40 → 65
 jab 2 iasa: 18 → 25 → 22
-jab 2 damage: 3 → 4
+jab 2 damage: 3 → 4 → 2
+jab 1 damage: 3 → 2
 jab 3 is now Forward Tilt
 
 **Forward Tilt**
@@ -20,6 +21,8 @@ kbg: 100 → 80
 damage: 5 → 8 → 9 → 7
 hitlag multiplier reverted back to .5
 sdi multiplier: 1 → 1.2
+hitbox id 0/1 angle: 75° → 70°
+hitbox id 2 angle: 90° → 80°
 
 **Up Tilt**
 iasa: 36 → 30
@@ -36,7 +39,7 @@ iasa: 30 → 23
 damage: 9 → 12 → 13
 bkb: 0 → 10
 angle: 30 → 25
-kbg: 108 → 112
+kbg: 108 → 112 → 105
 
 **Back Air**
 sourspot damage: 11 → 13
@@ -51,9 +54,11 @@ sweetspot angle: 70 → 90
 kbg: 100 → 125
 now a multihit
 increased hitbox sizes
-bkb: 20 → 25
+bkb: 20 → 25 → 10
 slowed multihit .7x
 added 1 more hit to multihit
+multihit damage: 2 → 1
+multihit DI multiplier: 0.2 → 0.5
 
 **Down Air**
 sped up 1.2x
@@ -97,7 +102,7 @@ can double jump out of aerial version
 **Dash Attack**
 iasa: 41 → 35 → 30
 sweetspot damage: 7 → 9
-damage: 9/5 → 11/8
+damage: 9/5 → 11/8 → 10/7 (first hit 11→10, second hit 5→7)
 angle: 60 → 75
 kbg: 100 → 65
 

@@ -1,4 +1,4 @@
-# Pikachu — 1.1.0
+# Pikachu — 1.2.0
 
 ## Changes
 

@@ -1,4 +1,4 @@
-# Samus — 1.1.0
+# Samus — 1.2.0
 
 ## Changes
 
@@ -138,6 +138,10 @@ reworked explosion and samus can now do aerials out of down b
 
 **Dash Attack**
 endlag sped up 1.2x
+
+**Pummel**
+slowed to 0.5x
+delay before follow-up: 8 → 9 frames
 
 **Down Throw**
 angle: 80 → 95

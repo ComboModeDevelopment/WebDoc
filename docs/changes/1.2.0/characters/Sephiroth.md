@@ -1,4 +1,4 @@
-# Sephiroth — 1.1.0
+# Sephiroth — 1.2.0
 
 ## Changes
 
@@ -8,6 +8,7 @@
 animation adjusted to give it a much better swing arc, given more endlag to compensate
 sped up startup
 angle: 91 → 110
+endlag sped up (1.9x → 2.1x)
 
 **Down Tilt**
 can be jump canceled sooner
@@ -36,6 +37,9 @@ angle: 55 → 30
 all variants damage toned down
 slightly slowed
 
+**Side B**
+hold sped up (1.4x → 1.7x)
+
 **Down B**
 startup slowed .4x
 
@@ -50,6 +54,9 @@ now a 2 hit multihit
 
 fixed a bunch of invincibility and other random issues on getup options
 buffed ground to air momentum
+
+**One-Winged Angel**
+Activates at 110% → 75%
 
 ### Character Parameters
 

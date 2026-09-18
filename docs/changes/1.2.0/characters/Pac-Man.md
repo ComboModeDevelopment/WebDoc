@@ -1,4 +1,4 @@
-# Pac-Man — 1.1.0
+# Pac-Man — 1.2.0
 
 ## Changes
 
