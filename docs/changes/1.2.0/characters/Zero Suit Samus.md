@@ -1,4 +1,4 @@
-# Zero Suit Samus — 1.1.0
+# Zero Suit Samus — 1.2.0
 
 ## Changes
 

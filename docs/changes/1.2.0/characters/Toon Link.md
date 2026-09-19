@@ -1,4 +1,4 @@
-# Toon Link — 1.1.0
+# Toon Link — 1.2.0
 
 ## Changes
 

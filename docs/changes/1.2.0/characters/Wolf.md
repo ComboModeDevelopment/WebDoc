@@ -1,4 +1,4 @@
-# Wolf — 1.1.0
+# Wolf — 1.2.0
 
 ## Changes
 
@@ -20,9 +20,17 @@ damage: 6 → 8
 angle: 361 → 0
 iasa: 28 → 25 → 20
 given set kb
+startup slowed (added FSM 0.4x)
+endlag slowed (added FSM 0.6x)
 
 **Forward Tilt**
 first hit reduced hitlag, added skb, changed angle
+new animation and properties, absed off P+ wolf dash attack
+angled variants (up/normal/down) consolidated into a shared implementation
+first hit: 3 hitboxes → 2 hitboxes (dmg 5→4, kbg 110→100, bkb 10→20, hitlag 3→1, trajectory 361°→0°)
+second hit: 3 hitboxes → 2 hitboxes (kbg 120→100, bkb 40→60, hitlag 0.5→1, trajectory 361°→70°)
+total endlag extended (32 → 39 frames)
+added mid-endlag speedup (FSM 1.2x)
 
 ### Aerial Attacks
 
@@ -38,7 +46,7 @@ bkb: 25 → 30
 rehit rate: 6 → 5
 
 **Forward Air**
-endlag sped up 1.55x
+endlag sped up 1.55x → 1.8x
 improved animation and active frames
 
 **Back Air**
@@ -79,6 +87,9 @@ sped up between hits 1.5x
 added skb to the first hit: 10
 buffed first hit hitbox reach and size
 adjusted multihit to link better
+final hit damage: 16 → 18
+final hit hitlag: 1.8 → 2
+reworked from 3 multihit + 3 final hitboxes → 2 multihit + 2 final hitboxes with different positioning (higher Y, forward Z)
 
 ### Special Moves
 
@@ -116,6 +127,9 @@ active frames: 5 → 8
 
 **Grab**
 buffed range
+
+**Pummel**
+slowed to 0.5x
 
 **Up Throw**
 kbg: 110 → 85 → 70

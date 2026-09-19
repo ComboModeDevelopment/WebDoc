@@ -1,4 +1,4 @@
-# Sub-Zero — 1.1.0
+# Sub-Zero — 1.2.0
 
 ## Changes
 
@@ -6,6 +6,10 @@
 
 **Jab**
 slowed endlag of jab1 .7x
+jab 2 hitlag: 1 → 2
+
+**Heavy Forward Tilt**
+startup pacing reworked (FSM 1.3x for 7 frames, then 1x for 9 frames, then 0.5x during hitboxes)
 
 **Forward Tilt**
 faf: 8 → 9
@@ -34,3 +38,5 @@ can no longer jump cancel on hit
 reduced invincibility on startup
 slowed
 takes longer to act out of
+startup sped up 1.3x
+Restored availability at the start of most subactions (idle/walk/dash/damage/getup/cliffcatch) and set on Wait1.

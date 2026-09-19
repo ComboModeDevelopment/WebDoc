@@ -1,4 +1,4 @@
-# Sonic — 1.1.0
+# Sonic — 1.2.0
 
 ## Changes
 

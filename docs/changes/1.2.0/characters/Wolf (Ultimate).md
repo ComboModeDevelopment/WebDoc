@@ -1,4 +1,4 @@
-# Wolf (Ultimate) — 1.1.0
+# Wolf (Ultimate) — 1.2.0
 
 ## Changes
 

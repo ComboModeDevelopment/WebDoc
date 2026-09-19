@@ -1,4 +1,4 @@
-# Wario — 1.1.0
+# Wario — 1.2.0
 
 ## Changes
 

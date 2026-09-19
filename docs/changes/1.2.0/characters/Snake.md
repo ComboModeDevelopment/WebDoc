@@ -1,4 +1,4 @@
-# Snake — 1.1.0
+# Snake — 1.2.0
 
 ## Changes
 

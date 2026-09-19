@@ -1,4 +1,4 @@
-# Yoshi — 1.1.0
+# Yoshi — 1.2.0
 
 ## Changes
 
@@ -82,6 +82,8 @@ endlag sped up earlier: 27 → 17
 can now jump OOS
 
 now has a parry; shield startup + release has invincibility and can be jump canceled
+shield drop now has Heavy Armor (tolerance: 35 damage)
+removed invincibility on shield drop
 
 now uses P+ Yoshi as a base; now has DJC (heavily rebalanced to fit Combo Mode)
 
